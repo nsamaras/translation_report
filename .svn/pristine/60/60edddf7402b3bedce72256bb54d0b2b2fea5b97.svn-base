@@ -1,0 +1,282 @@
+#Report localizations
+
+#
+# Account creation contract report per-registry customization - START.
+#
+# Format is: [registry_code].[placeholder].[index].[entry_type]
+#
+# Available placeholders are:
+# - At the document start (XX.report.account.creation.contract.before).
+# - Before the account holder section (XX.report.account.creation.contract.accountHolder.before).
+# - After the account holder section (XX.report.account.creation.contract.accountHolder.after).
+# - Before all AHRs (XX.report.account.creation.contract.authorisedRep.beforeAll).
+# - Before each AHR (XX.report.account.creation.contract.authorisedRep.before).
+# - After each AHR (XX.report.account.creation.contract.authorisedRep.after).
+# - After all AHRs (XX.report.account.creation.contract.authorisedRep.afterAll).
+# - Before all AARs (XX.report.account.creation.contract.additionalRep.beforeAll).
+# - Before each AAR (XX.report.account.creation.contract.additionalRep.before).
+# - After each AAR (XX.report.account.creation.contract.additionalRep.after).
+# - After all AARs (XX.report.account.creation.contract.additionalRep.afterAll).
+# - Before the operator section (XX.report.account.creation.contract.operator.before).
+# - After the operator section (XX.report.account.creation.contract.operator.after).
+# - At the document end (XX.report.account.creation.contract.after).
+# Available entry types are:
+# - text: Add a line of text (can be empty for extra spacing).
+# - title: A title line.
+# - break: A page break.
+
+
+# DE.report.account.creation.contract.accountHolder.before
+DE.report.account.creation.contract.accountHolder.before.0.title = ANTRAG AUF KONTOER\u00D6FFNUNG IM VON DEUTSCHLAND VERWALTETEN TEIL DES UNIONSREGISTERS
+DE.report.account.creation.contract.accountHolder.before.1.text = An das Umweltbundesamt (UBA)
+DE.report.account.creation.contract.accountHolder.before.2.text = Deutsche Emissionshandelsstelle (DEHSt)
+DE.report.account.creation.contract.accountHolder.before.3.text = Fachgebiet E 2.4 - Zentrale Registerverwaltung
+DE.report.account.creation.contract.accountHolder.before.4.text = Postfach 330022
+DE.report.account.creation.contract.accountHolder.before.5.text = 14191 Berlin
+DE.report.account.creation.contract.accountHolder.before.6.text = GERMANY / ALLEMAGNE / DEUTSCHLAND
+DE.report.account.creation.contract.accountHolder.before.7.text = 
+DE.report.account.creation.contract.accountHolder.before.8.text = 
+DE.report.account.creation.contract.accountHolder.before.9.text = 
+DE.report.account.creation.contract.accountHolder.before.10.text = 
+DE.report.account.creation.contract.accountHolder.before.11.text = 
+DE.report.account.creation.contract.accountHolder.before.12.text = Der Kontoantrag muss schriftlich und rechtskr\u00E4ftig unterschrieben an die oben genannte Adresse geschickt werden.
+DE.report.account.creation.contract.accountHolder.before.13.text = 
+DE.report.account.creation.contract.accountHolder.before.14.text =
+DE.report.account.creation.contract.accountHolder.before.15.text = 
+DE.report.account.creation.contract.accountHolder.before.16.text = 
+DE.report.account.creation.contract.accountHolder.before.17.text =
+DE.report.account.creation.contract.accountHolder.before.18.text =
+DE.report.account.creation.contract.accountHolder.before.19.text =
+
+DE.report.account.creation.contract.accountHolder.after.0.text = 
+DE.report.account.creation.contract.accountHolder.after.1.title = 
+DE.report.account.creation.contract.accountHolder.after.2.text = 
+DE.report.account.creation.contract.accountHolder.after.3.text = 
+DE.report.account.creation.contract.accountHolder.after.4.text = 
+DE.report.account.creation.contract.accountHolder.after.5.text = 
+DE.report.account.creation.contract.accountHolder.after.6.text = 
+
+DE.report.account.creation.contract.authorisedRep.after.0.text = 
+DE.report.account.creation.contract.authorisedRep.after.1.title = 
+DE.report.account.creation.contract.authorisedRep.after.2.text = 
+DE.report.account.creation.contract.authorisedRep.after.3.text = 
+DE.report.account.creation.contract.authorisedRep.after.4.text = 
+DE.report.account.creation.contract.authorisedRep.after.5.text = 
+DE.report.account.creation.contract.authorisedRep.after.6.text = 
+
+DE.report.account.creation.contract.additionalRep.after.0.text = 
+DE.report.account.creation.contract.additionalRep.after.1.title = 
+DE.report.account.creation.contract.additionalRep.after.2.text = 
+DE.report.account.creation.contract.additionalRep.after.3.text = 
+DE.report.account.creation.contract.additionalRep.after.4.text = 
+DE.report.account.creation.contract.additionalRep.after.5.text = 
+DE.report.account.creation.contract.additionalRep.after.6.text = 
+
+DE.report.account.creation.contract.operator.after.0.title = 
+DE.report.account.creation.contract.operator.after.1.text =
+DE.report.account.creation.contract.operator.after.2.title =
+DE.report.account.creation.contract.operator.after.3.text =
+DE.report.account.creation.contract.operator.after.4.text =
+DE.report.account.creation.contract.operator.after.5.text =
+DE.report.account.creation.contract.operator.after.6.text =
+DE.report.account.creation.contract.operator.after.7.text =
+DE.report.account.creation.contract.operator.after.8.text =
+DE.report.account.creation.contract.operator.after.9.text =
+DE.report.account.creation.contract.operator.after.10.text = ..............................................................................................................................................
+DE.report.account.creation.contract.operator.after.11.text = Ort, Datum und eigenh\u00E4ndige Unterschrift des/r Antragstellers/in. Vorname und Name der unterzeichnenden Person/en ist/sind zus\u00E4tzlich in Druckbuchstaben anzugeben. Bei juristische Personen sind nur Unterschriften vertretungsberechtigter Personen wie im Handelsregister (o. \u00E4.) angegeben zul\u00E4ssig.
+DE.report.account.creation.contract.operator.after.12.text = 
+DE.report.account.creation.contract.operator.after.13.text = 
+DE.report.account.creation.contract.operator.after.14.text = Mit dem Antrag sind weitere schriftliche Nachweise einzureichen. Weitere Erl\u00E4uterungen finden Sie auf der Webseite der DEHSt.
+DE.report.account.creation.contract.operator.after.15.text =
+DE.report.account.creation.contract.operator.after.16.text =
+DE.report.account.creation.contract.operator.after.17.text =
+DE.report.account.creation.contract.operator.after.18.text =
+
+
+
+############################v6.3.3, latest update 06/11/2014#############################
+accountStatement_account=Konto
+accountStatement_completedTransactions= C. Abgeschlossene Transaktionen
+accountStatement_from=Von
+accountStatement_pendingTransactions=B\u003a Transaktionen in Bearbeitung
+accountStatement_registryComment =    
+accountStatement_staticComment = Dieser Beleg basiert auf Daten des europ\u00e4ischen Unionsregisters\u002c betrieben durch die Europ\u00e4ische Kommission. Bei R\u00fcckfragen wenden Sie sich bitte an die DEHSt.
+accountStatement_terminatedTransactions=D. Abgebrochene Transaktionen
+accountStatement_title = Kontoauszug
+accountStatement_to=bis
+accountStatement_totalUnitsAfterPeriod= Kontostand danach
+accountStatement_totalUnitsBeforePeriod= Kontostand zuvor
+accountStatement_transationRequests=A. Transaktionsantr\u00e4ge
+eu.europa.ec.clima.eucr.services.processes.account.reports.AccountCreationSummaryReport= Kontoantragsinformation
+identityDocumentType_NATIONAL_ID_CARD = Nationales Ausweisdokument
+identityDocumentType_PASSPORT =Reisepass
+identityDocumentType_SPECIAL_ID_CARD = Anderes Ausweisdokument
+report.account.creation.account.details = Kontoangaben
+report.account.creation.account.holder.addRepresentative.title = Zus\u00e4tzlicher Kontobevollm\u00e4chtigter
+report.account.creation.account.holder.identifier =Kennung
+report.account.creation.account.holder.name =Name
+report.account.creation.account.holder.representative.title = Kontobevollm\u00e4chtigter
+report.account.creation.account.holder.title = Informationen zum Kontoinhaber
+report.account.creation.aircraft.monitoring.plan = Angaben zum \u00dcberwachungsplan
+report.account.creation.aircraft.monitoring.plan.expiry.date = Ablaufdatum der Genehmigung
+report.account.creation.aircraft.monitoring.plan.first.year.applicability = Erstes Jahr der G\u00fcltigkeit
+report.account.creation.aircraft.monitoring.plan.identifier =Kennung
+report.account.creation.aircraft.monitoring.plan.year.of.expiry = Ablaufdatum \u0028Jahr\u0029
+report.account.creation.aircraft.operator.call.sign = Rufzeichen \u0028ICAO\u0029
+report.account.creation.aircraft.operator.code = Code gem. \u0028EG\u0029 Nr. 748/2009
+report.account.creation.aircraft.operator.identifier =Kennung
+report.account.creation.aircraft.operator.name =Name
+report.account.creation.aircraft.operator.title= Angaben zum Luftfahrzeugbetreiber \u0028LfzB\u0029
+report.account.creation.aircraft.permit.name = DEHSt-Aktenzeichen
+report.account.creation.birthDetails = Angaben zur Geburt
+report.account.creation.birthDetails.country = Geburtsland
+report.account.creation.birthDetails.date = Geburtsdatum
+report.account.creation.birthDetails.idNumber = Ausweisnummer
+report.account.creation.birthDetails.place = Geburtsort
+report.account.creation.closing.date = Datum Kontoschlie\u00dfung
+report.account.creation.commitment.period = Zeitraum
+report.account.creation.commitment.period_0 = 0. Verpflichtungszeitraum 2005-2007
+report.account.creation.commitment.period_1 = 1. Verpflichtungszeitraum 2008-2012
+report.account.creation.commitment.period_2 = 2. Verpflichtungszeitraum 2013-2020
+report.account.creation.commitment.period_3 = 3. Verpflichtungszeitraum ab 2021
+report.account.creation.companyDetails = Angaben zum Unternehmen/bzw. zur Institution
+report.account.creation.companyDetails.companyRegistrationNumber = Handelsregisternummer
+report.account.creation.companyDetails.vatNumber = Umsatzsteueridentifikationsnummer \u0028USt-IdNr.\u0029
+report.account.creation.contact = Angaben zum Ansprechpartner
+report.account.creation.contact.city = Ort
+report.account.creation.contact.country = Land
+report.account.creation.contact.email = E-Mail-Adresse
+report.account.creation.contact.firstname = Vorname
+report.account.creation.contact.lastname = Nachname
+report.account.creation.contact.line1 = Anschrift Zeile 1
+report.account.creation.contact.line2 = Anschrift Zeile 2
+report.account.creation.contact.person.lastname= Nachname
+report.account.creation.contact.person.name=Name
+report.account.creation.contact.person.title= Angaben zum Ansprechpartner
+report.account.creation.contact.phone.number = Telefonnummer
+report.account.creation.contact.postcode =Postleitzahl
+report.account.creation.contact.region = Region oder Bundesland
+report.account.creation.contract.role = Rolle
+report.account.creation.contract.title = Kontoantrag - {0}
+report.account.creation.ets.account.type = EU-ETS-Kontotyp
+report.account.creation.ets.account.type_AAU_DEPOSIT = AAU-Deposit-Konto
+report.account.creation.ets.account.type_AIRCRAFT_OPERATOR = Luftfahrzeugbetreiber \u0028LfzB\u0029
+report.account.creation.ets.account.type_AUCTION_ACCOUNT						   				= Auktionierungskonto
+report.account.creation.ets.account.type_AUCTION_DELIVERY_ACCOUNT						= Auction Delivery Account
+report.account.creation.ets.account.type_AVIATION_AUCTION_ACCOUNT		   				= Aviation Auction Account
+report.account.creation.ets.account.type_AVIATION_SURRENDER_SETASIDE = Aviation Surrender Setaside
+report.account.creation.ets.account.type_AVIATION_TOTAL_QUANTITY_ACCOUNT		   	= Aviation Total Quantity Account
+report.account.creation.ets.account.type_CENTRAL_CLEARING = Central Clearing
+report.account.creation.ets.account.type_CREDIT_EXCHANGE_ACCOUNT =EU-ETS-Umtauschkonto
+report.account.creation.ets.account.type_GATEWAY_DEPOSIT = Gateway Deposit
+report.account.creation.ets.account.type_INTERNATIONAL_CREDIT_ACCOUNT = International Credit Account
+report.account.creation.ets.account.type_NATIONAL_ALLOWANCE_HOLDING = National Allowance Holding
+report.account.creation.ets.account.type_NONE = -- Alle -- 
+report.account.creation.ets.account.type_OPERATOR_HOLDING = Anlagenkonto
+report.account.creation.ets.account.type_PERSON_HOLDING = Personenkonto
+report.account.creation.ets.account.type_TOTAL_QUANTITY_ACCOUNT		   					= Total Quantity Account
+report.account.creation.ets.account.type_TRADING						   =H\u00e4ndlerkonto
+report.account.creation.ets.account.type_TRADING_PLATFORM =Externe Plattform
+report.account.creation.ets.account.type_UNION_ALLOWANCE_DELETION = Entwertung von EU-Berechtigungen \u0028EUA/aEUA\u0029
+report.account.creation.ets.account.type_VERIFIER = Pr\u00fcfstelle
+report.account.creation.hosting.registry = Verwaltendes Register
+report.account.creation.identifier = ID
+report.account.creation.identityDocument = Ausweisdokument
+report.account.creation.identityDocument.expiryDate = Ablaufdatum Ausweisdokument
+report.account.creation.identityDocument.id = ID des Ausweisdokuments
+report.account.creation.identityDocument.type = Art des Ausweisdokuments
+report.account.creation.instalation.contact.person.details = Ansprechpartner der Anlage
+report.account.creation.instalation.details = Angaben zur Anlage
+report.account.creation.installation.activity = T\u00e4tigkeit \u0028Aktivit\u00e4t\u0029
+report.account.creation.installation.activity_1 = Verbrennung
+report.account.creation.installation.activity_2 = 2-Mineral\u00f6lraffinerien \u0028alt\u0029
+report.account.creation.installation.activity_20 = 1-Verbrennung von Brennstoffen
+report.account.creation.installation.activity_21 = 2-Raffination von Mineral\u00f6l
+report.account.creation.installation.activity_22 = 3-Herstellung von Koks
+report.account.creation.installation.activity_23 = 4-R\u00f6stung oder Sinterung von Metallerz
+report.account.creation.installation.activity_24 = 5-Herstellung von Roheisen oder Stahl
+report.account.creation.installation.activity_25 = 6-Herstellung oder Verarbeitung von Eisenmetallen
+report.account.creation.installation.activity_26 = 7-Herstellung von Prim\u00e4raluminium
+report.account.creation.installation.activity_27 = 8-Herstellung von Sekund\u00e4raluminium
+report.account.creation.installation.activity_28 = 9-Herstellung oder Verarbeitung von Nichteisenmetallen
+report.account.creation.installation.activity_29 = 10-Zementklinkerproduktion
+report.account.creation.installation.activity_3 = 3-Kokereienn \u0028alt\u0029
+report.account.creation.installation.activity_30 = 11-Herstellung von Kalk oder Brennen von Dolomit oder Magnesit
+report.account.creation.installation.activity_31 = 12-Herstellung von Glas
+report.account.creation.installation.activity_32 = 13-Herstellung von keramischen Erzeugnissen
+report.account.creation.installation.activity_33 = 14-Herstellung von Mineralwolle
+report.account.creation.installation.activity_34 = 15-Herstellung oder Verarbeitung von Gips oder Gipskartonplatten
+report.account.creation.installation.activity_35 = 16-Herstellung von Zellstoff
+report.account.creation.installation.activity_36 = 17-Herstellung von Papier oder Karton
+report.account.creation.installation.activity_37 = 18-Herstellung von Industrieru\u00df
+report.account.creation.installation.activity_38 = 19-Herstellung von Salpeters\u00e4ure
+report.account.creation.installation.activity_39 = 20-Herstellung von Adipins\u00e4ure
+report.account.creation.installation.activity_4 = R\u00f6st- und Sinteranlagen f\u00fcr Metallerz
+report.account.creation.installation.activity_40 = 21-Herstellung von Glyoxal und Glyoxyls\u00e4ure
+report.account.creation.installation.activity_41 = 22-Herstellung von Ammoniak
+report.account.creation.installation.activity_42 = 23-Herstellung von organischen Grundchemikalien
+report.account.creation.installation.activity_43 = 24-Herstellung von Wasserstoff und Synthesegas
+report.account.creation.installation.activity_44 = 25-Herstellung von Soda und Natriumbicarbonat
+report.account.creation.installation.activity_45 = 26-Abscheidung von Treibhausgasen gem\u00e4\u00df der Richtlinie 2009/31/EG
+report.account.creation.installation.activity_46 = 27-Bef\u00f6rderung von Treibhausgasen gem\u00e4\u00df der Richtlinie 2009/31/EG
+report.account.creation.installation.activity_47 = 28-Speicherung von Treibhausgasen gem\u00e4\u00df der Richtlinie 2009/31/EG
+report.account.creation.installation.activity_5 = Eisen und Stahl
+report.account.creation.installation.activity_6 = Zement und Kalk
+report.account.creation.installation.activity_7 = Glas
+report.account.creation.installation.activity_8 = Keramik 
+report.account.creation.installation.activity_9 = Papier und Zellstoff
+report.account.creation.installation.activity_99 = Andere opt-in-Aktivit\u00e4t  gem\u00e4\u00df Art. 24 der Verordnung 2003/87/EC 
+report.account.creation.installation.compliance.status =Erf\u00fcllungsstatus
+report.account.creation.installation.eper.identification = EPER-Nummer
+report.account.creation.installation.identifier =Kennung
+report.account.creation.installation.latitude = Breitengrad
+report.account.creation.installation.longitude = L\u00e4ngengrad
+report.account.creation.installation.name =Name
+report.account.creation.installation.parent.company = Muttergesellschaft
+report.account.creation.installation.sub.company = Tochtergesellschaft
+report.account.creation.job.details = Funktion
+report.account.creation.job.details.company.dept = Abteilung
+report.account.creation.job.details.company.name = Name Unternehmen oder Institution
+report.account.creation.job.details.title = Berufsbezeichnung
+report.account.creation.kyoto.account.type = Kyoto-Kontotyp
+report.account.creation.kyoto.account.type_EXCESS_ISSUANCE_CANCELLATION_ACCOUNT =  Excess Issuance Cancellation Account
+report.account.creation.kyoto.account.type_HOLDING_ACCOUNT = Besitzkonto
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_EXPIRY =  LCER Replacement Account Expiry
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_FAIL_SUBMISSION_CERT_REP =  LCER Replacement Account Fail Submission Cert Rep
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_REVERSAL_CARBON_STORAGE =  lCER Replacement Account Reversal Carbon Storage
+report.account.creation.kyoto.account.type_MANDATORY_CANCELLATION_ACCOUNT=  Mandatory Cancellation Account
+report.account.creation.kyoto.account.type_NET_SOURCE_CANCELLATION_ACCOUNT = Net Source Cancellation Account
+report.account.creation.kyoto.account.type_NON_COMPLIANCE_CANCELLATION_ACOUNT =  Non Compliance Cancellation Account
+report.account.creation.kyoto.account.type_NON_HOLDING = Non Holding
+report.account.creation.kyoto.account.type_OPERATOR_HOLDING_ACCOUNT = Anlagenkonto
+report.account.creation.kyoto.account.type_PENDING_ACCOUNT = Pending Account
+report.account.creation.kyoto.account.type_PERSON_ACCOUNT_NATIONAL_REG = Personenkonto im nationalen Kyoto-Register
+report.account.creation.kyoto.account.type_PERSON_HOLDING_ACCOUNT = Personenkonto
+report.account.creation.kyoto.account.type_RETIREMENT_ACCOUNT = Ausbuchungskonto
+report.account.creation.kyoto.account.type_TCER_REPLACEMENT_ACCOUNT_EXPIRY = tCER Replacement Account Expiry
+report.account.creation.kyoto.account.type_VOLUNTARY_CANCELLATION_ACCOUNT = Konto f\u00fcr freiwiliige L\u00f6schung
+report.account.creation.name =Name
+report.account.creation.opening.date = Datum der Kontoer\u00f6ffnung
+report.account.creation.permit = Angaben zur Emissionshandelspflicht
+report.account.creation.permit.entry.date = Datum Beginn Emissionshandelspflicht
+report.account.creation.permit.expiry.date = Datum Ende Emissionshandelspflicht
+report.account.creation.permit.identifier = DEHSt-Aktenzeichen
+report.account.creation.permit.revocation.date = Datum Widerruf Emissionshandelspflicht
+report.account.creation.request.details =  Antragsangaben
+report.account.creation.request.id =Kennung
+report.account.creation.request.requester.urid = URID des Antragstellers
+report.account.creation.request.status = Status
+report.account.creation.request.timestamp = Datum
+report.account.creation.title = Zusammenfassung Kontoinformation - {0}
+report.account.creation.urid = URID
+role_ADDITIONAL_AUTHORISED_REPRESENTATIVE = Zus\u00e4tzlicher Kontobevollm\u00e4chtigter
+role_AUTHORISED_REPRESENTATIVE = Kontobevollm\u00e4chtigter
+role_VIEW_ONLY_AR = Kontobevollm\u00e4chtigter \u0028nur-lesend\u0029
+transactionRequest_registryComment =    
+transactionRequest_staticComment = 
+transactionRequest_title = Transaktionsantrag
+transaction_registryComment =    
+transaction_staticComment = 
+report.account.creation.ets.account.type_AEA_DELETION_ACCOUNT = ESD - AEA Deletion Account                                                          
+report.account.creation.ets.account.type_AEA_TOTAL_QUANTITY_ACCOUNT = ESD - AEA Total Quantity Account
+report.account.creation.ets.account.type_ESD_COMPLIANCE_ACCOUNT = ESD - Compliance Account

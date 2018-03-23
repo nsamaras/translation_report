@@ -1,0 +1,210 @@
+#Report localizations
+eu.europa.ec.clima.eucr.services.processes.account.reports.AccountCreationSummaryReport=Account Creation Summary Report
+
+
+
+report.account.creation.title = Informatie over geopende rekening - {0}
+report.account.creation.account.details = Gegevens rekening
+report.account.creation.name = Naam rekening
+report.account.creation.identifier = Uniek identificatienummer rekening
+report.account.creation.commitment.period = Handelsperiode rekening
+report.account.creation.kyoto.account.type = Rekeningtype Kyoto
+report.account.creation.ets.account.type = Rekeningtype ETS
+report.account.creation.opening.date = Openingsdatum rekening
+report.account.creation.closing.date = Sluitingsdatum rekening
+report.account.creation.hosting.registry = Land registeradministratie
+
+report.account.creation.commitment.period_0 = 0e handelsperiode
+report.account.creation.commitment.period_1 = 1e handelsperiode 
+report.account.creation.commitment.period_2 = 2e handelsperiode
+report.account.creation.commitment.period_3 = 3e handelsperiode
+
+report.account.creation.kyoto.account.type_NON_HOLDING = Non Holding
+report.account.creation.kyoto.account.type_HOLDING_ACCOUNT = Tegoedrekening
+report.account.creation.kyoto.account.type_PENDING_ACCOUNT = Rekening in behandeling
+report.account.creation.kyoto.account.type_OPERATOR_HOLDING_ACCOUNT = Exploitanttegoedrekening (ETR)
+report.account.creation.kyoto.account.type_PERSON_HOLDING_ACCOUNT = Persoonstegoedrekening (PTR)
+report.account.creation.kyoto.account.type_NET_SOURCE_CANCELLATION_ACCOUNT = Net source cancellation account
+report.account.creation.kyoto.account.type_NON_COMPLIANCE_CANCELLATION_ACOUNT = Non compliance cancellation account
+report.account.creation.kyoto.account.type_VOLUNTARY_CANCELLATION_ACCOUNT = Rekening vrijwillig annuleren
+report.account.creation.kyoto.account.type_EXCESS_ISSUANCE_CANCELLATION_ACCOUNT = Excess issuance cancellation account
+report.account.creation.kyoto.account.type_MANDATORY_CANCELLATION_ACCOUNT = Mandatory cancellation account
+report.account.creation.kyoto.account.type_RETIREMENT_ACCOUNT = Retirement account
+report.account.creation.kyoto.account.type_TCER_REPLACEMENT_ACCOUNT_EXPIRY = tCER replacement account expiry
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_EXPIRY = lCER replacement account expiry
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_REVERSAL_CARBON_STORAGE = lCER replacement account reversal carbon storage
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_FAIL_SUBMISSION_CERT_REP = lCER replacement account fail submission cert rep
+
+report.account.creation.ets.account.type_NONE = Geen
+report.account.creation.ets.account.type_AAU_DEPOSIT = AAU Deposit
+report.account.creation.ets.account.type_CENTRAL_CLEARING = Central Clearing
+report.account.creation.ets.account.type_GATEWAY_DEPOSIT = Gateway Deposit
+report.account.creation.ets.account.type_UNION_ALLOWANCE_DELETION = Union Allowance Deletion
+report.account.creation.ets.account.type_AVIATION_SURRENDER_SETASIDE = Aviation Surrender Setaside
+report.account.creation.ets.account.type_OPERATOR_HOLDING = Exploitanttegoed
+report.account.creation.ets.account.type_PERSON_HOLDING = Persoonstegoed
+report.account.creation.ets.account.type_AIRCRAFT_OPERATOR = Luchtvaartexploitant
+report.account.creation.ets.account.type_VERIFIER = Verificateur
+report.account.creation.ets.account.type_NATIONAL_ALLOWANCE_HOLDING = National Allowance Holding
+report.account.creation.ets.account.type_TRADING_PLATFORM = Handelsplatform
+
+report.account.creation.account.holder.title = Gegevens rekeninghouder
+report.account.creation.account.holder.name = Naam rekeninghouder
+report.account.creation.account.holder.identifier = Identificatienummer rekeninghouder
+
+report.account.creation.contact = Contactgegevens
+report.account.creation.contact.firstname = Voornaam
+report.account.creation.contact.lastname = Achternaam
+report.account.creation.contact.phone.number = Telefoonnummer
+report.account.creation.contact.line1 = 1e adresregel
+report.account.creation.contact.line2 = 2e adresregel
+report.account.creation.contact.postcode = Postcode
+report.account.creation.contact.city = Plaats
+report.account.creation.contact.region = Regio
+report.account.creation.contact.country = Land
+report.account.creation.contact.email = E-mailadres
+
+report.account.creation.account.holder.representative.title = Rekeningbevoegde
+report.account.creation.account.holder.addRepresentative.title = Fiatteur
+report.account.creation.urid = URID
+
+report.account.creation.instalation.details = Gegevens installatie
+report.account.creation.installation.name = Naam installatie
+report.account.creation.installation.identifier = Identificatienummer installatie
+report.account.creation.installation.compliance.status = Nalevingsstatus installatie
+report.account.creation.installation.eper.identification = EPER-identificatienummer installatie
+report.account.creation.installation.parent.company = Moederorganisatie installatue
+report.account.creation.installation.sub.company = Dochteronderneming installatie
+
+report.account.creation.instalation.contact.person.details = Gegevens installatiecontactpersoon
+report.account.creation.permit = Gegevens vergunning
+report.account.creation.permit.identifier = Vergunningnummer
+report.account.creation.permit.entry.date = Inwerkingtredingsdatum vergunning
+report.account.creation.permit.expiry.date = Vervaldatum vergunning
+report.account.creation.permit.revocation.date = Herroepingsdatum vergunning
+
+report.account.creation.installation.latitude = Breedtegraad installatie
+report.account.creation.installation.longitude = Lengtegraad installatie
+report.account.creation.installation.activity = Activiteit installatie volgens EU-richtlijn emissiehandel
+report.account.creation.installation.activity_1 = Verbrandingsinstallatie > 20 MWth
+report.account.creation.installation.activity_2 = Raffinage van aardolie
+report.account.creation.installation.activity_3 = Productie van cokes
+report.account.creation.installation.activity_4 = Roosten of sinteren van metaalertsen
+report.account.creation.installation.activity_5 = Productie van ruwijzer of staal
+report.account.creation.installation.activity_6 = Productie van cementklinkers
+report.account.creation.installation.activity_7 = Productie van glas of glasvezel
+report.account.creation.installation.activity_8 = Productie van keramische producten
+report.account.creation.installation.activity_9 = Productie van pulp, papier of karton
+report.account.creation.installation.activity_99 = Andere activiteit ex art. 24 van Richtl. 2003/87/EG
+report.account.creation.installation.activity_20 = Verbranding van brandstoffen
+report.account.creation.installation.activity_21 = Raffineren van aardoli\u00ebn
+report.account.creation.installation.activity_22 = Productie van cokes
+report.account.creation.installation.activity_23 = Roosten of sinteren van metaalerts
+report.account.creation.installation.activity_24 = Productie van ruwijzer of staal
+report.account.creation.installation.activity_25 = Productie of verwerking van ferrometalen
+report.account.creation.installation.activity_26 = Productie van primair aluminium
+report.account.creation.installation.activity_27 = Productie van secundair aluminium
+report.account.creation.installation.activity_28 = Productie of verwerking van non-ferrometalen
+report.account.creation.installation.activity_29 = Productie van cementklinkers
+report.account.creation.installation.activity_30 = Productie van kalksteen of branden van dolomiet of magnesiet
+report.account.creation.installation.activity_31 = Vervaardiging van glas
+report.account.creation.installation.activity_32 = Vervaardiging van keramiek
+report.account.creation.installation.activity_33 = Vervaardiging van minerale wol
+report.account.creation.installation.activity_34 = Productie of verwerking van gips en gipsplaten
+report.account.creation.installation.activity_35 = Productie van pulp
+report.account.creation.installation.activity_36 = Productie van papier of karton
+report.account.creation.installation.activity_37 = Productie van roet
+report.account.creation.installation.activity_38 = Productie van salpeterzuur
+report.account.creation.installation.activity_39 = Productie van adipinezuur
+report.account.creation.installation.activity_40 = Productie van glyoxaal en glyoxaalzuur
+report.account.creation.installation.activity_41 = Productie van ammoniak
+report.account.creation.installation.activity_42 = Productie van bulkchemicali\u00ebn
+report.account.creation.installation.activity_43 = Productie van waterstof en synthesegas
+report.account.creation.installation.activity_44 = Productie van natriumcarbonaat en natriumbicarbonaat
+report.account.creation.installation.activity_45 = Afvangen van broeikasgassen krachtens Richtlijn 2009/31/EG
+report.account.creation.installation.activity_46 = Transport van broeikasgassen krachtens Richtlijn 2009/31/EG
+report.account.creation.installation.activity_47 = Opslag van broeikasgassen krachtens Richtlijn 2009/31/EG
+
+
+report.account.creation.job.details = Gegevens functie
+report.account.creation.job.details.title = Functienaam
+report.account.creation.job.details.company.name = Bedrijfsnaam
+report.account.creation.job.details.company.dept = Afdelingsnaam 
+
+report.account.creation.request.details = Gegevens aanvraag
+report.account.creation.request.id = Identificatienummer aanvraag
+report.account.creation.request.requester.urid = URID aanvrager
+report.account.creation.request.status = Status aanvraag
+report.account.creation.request.timestamp = Datum aanvraag
+
+report.account.creation.aircraft.operator.title = Gegevens vliegtuigexploitant
+report.account.creation.aircraft.operator.name = Naam vliegtuigexploitant
+report.account.creation.aircraft.operator.identifier = Identificatienummer vliegtuigexploitant
+report.account.creation.aircraft.operator.call.sign = Call sign (ICAO)
+report.account.creation.aircraft.operator.code = Code vliegtuigexploitant
+report.account.creation.aircraft.permit.name = Vergunningnaam
+report.account.creation.aircraft.monitoring.plan = Informatie monitoringsplan
+report.account.creation.aircraft.monitoring.plan.identifier = Identificatienummer monitoringsplan
+report.account.creation.aircraft.monitoring.plan.first.year.applicability = Eerste jaar onder ETS
+report.account.creation.aircraft.monitoring.plan.expiry.date = Vervaldatum
+
+report.account.creation.contact.person.title = Gegevens contactpersoon
+report.account.creation.contact.person.name = Voornaam
+report.account.creation.contact.person.lastname = Achternaam
+
+report.account.creation.companyDetails = Organisatiegegevens
+report.account.creation.companyDetails.companyRegistrationNumber = Registratienummer organisatie (NL: Kamer van Koophandel)
+report.account.creation.companyDetails.vatNumber = BTW-nummer organisatie
+report.account.creation.birthDetails = Geboortegegevens
+report.account.creation.birthDetails.idNumber = Registratienummer identiteitsbewijs
+report.account.creation.birthDetails.country = Geboorteland
+report.account.creation.birthDetails.date = Geboortedatum
+report.account.creation.birthDetails.place = Geboorteplaats
+report.account.creation.identityDocument = Identiteitsbewijs
+report.account.creation.identityDocument.id = Registratienummer identiteitsbewijs
+report.account.creation.identityDocument.expiryDate = Vervaldatum identiteitsbewijs
+report.account.creation.identityDocument.type = Type identiteitsbewijs
+identityDocumentType_NATIONAL_ID_CARD = Identiteitskaart
+identityDocumentType_SPECIAL_ID_CARD = Bijzondere identiteitskaart
+identityDocumentType_PASSPORT = Paspoort
+
+role_AUTHORISED_REPRESENTATIVE = Rekeningbevoegde
+role_ADDITIONAL_AUTHORISED_REPRESENTATIVE = Fiatteur
+role_AUDITOR_FOR_AR = Passief rekeningbevoegde (alleen inzien)
+
+report.account.creation.contract.role = Rol
+report.account.creation.contract.title = Bevestiging opening rekening (Nederlandse versie) - {0}
+
+NL.report.account.creation.contract.before.0.title = Bevestiging opening rekening
+NL.report.account.creation.contract.before.1.text = Dit document is een bevestiging van de opening van uw rekening in het Nederlandse deel van het EU-register. Dit is de Nederlandse versie van de bevestiging. Samen met deze versie hebt u een Engelse versie ontvangen, die precies dezelfde informatie bevat.
+NL.report.account.creation.contract.before.2.text = 
+NL.report.account.creation.contract.before.3.text = De Nederlandse Emissieautoriteit (NEa) heeft bij het openen van uw rekening gebruik gemaakt van de informatie uit de documenten die uw rekeninghouder eerder opstuurde. Wij verzoeken u de gegevens van uw rekening te controleren en in het geval van fouten hierover contact met ons op te nemen. De NEa zal de gegevens dan wijzigen.
+NL.report.account.creation.contract.before.4.text =
+NL.report.account.creation.contract.before.5.text = Alle gebruikers zullen op korte termijn per post een brief ontvangen met hun controlecode. Nadat zij deze code in het register hebben ingevoerd, hebben zij toegang tot de rekening.
+NL.report.account.creation.contract.before.6.text = 
+NL.report.account.creation.contract.before.7.title = Meer informatie 
+NL.report.account.creation.contract.before.8.text = Op de website van de NEa (www.emissieautoriteit.nl > emissierechten > eu-register) kunt u informatie vinden over het EU-register. Als u vragen hebt, kunt u contact opnemen met de Helpdesk NEa (070-456 8050 op werkdagen tussen 9.00 - 12.00 uur en 15.00 - 17.00 uur, info@emissieautoriteit.nl).
+NL.report.account.creation.contract.before.9.break = 
+# NL.report.account.creation.contract.accountHolder.before
+# NL.report.account.creation.contract.authorisedRep.before
+# NL.report.account.creation.contract.additionalRep.before
+# NL.report.account.creation.contract.operator.before 
+# NL.report.account.creation.contract.operator.after
+# NL.report.account.creation.contract.after
+
+
+#
+#TRANSLATIONS 17JUN2013
+#
+#transaction_title = Transactie
+#transactionDetails_approvalDate = Datum van goedkeuring
+
+
+################################## 17/01/2014 v6.2 ##########################
+report.account.creation.kyoto.account.type_NON_HOLDING = Niet-tegoedrekening
+report.account.creation.ets.account.type_INTERNATIONAL_CREDIT_ACCOUNT = Internationaalkredietrekening
+report.account.creation.ets.account.type_CREDIT_EXCHANGE_ACCOUNT = Kredietomruilrekening
+
+
+############################v6.2.6.2#############################
+report.account.creation.kyoto.account.type_PERSON_ACCOUNT_NATIONAL_REG 	= Persoonstegoedrekening in nationaal register

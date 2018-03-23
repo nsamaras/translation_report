@@ -1,0 +1,304 @@
+#Report localizations
+eu.europa.ec.clima.eucr.services.processes.account.reports.AccountCreationSummaryReport=Account Creation Summary Report
+
+
+
+report.account.creation.title = Konto\u00fcbersicht - {0}
+report.account.creation.account.details = Einzelheiten zum Konto
+report.account.creation.name = Kontoname
+report.account.creation.identifier = Kontokennung
+report.account.creation.commitment.period = Verpflichtungszeitraum
+report.account.creation.kyoto.account.type = Kontotyp Kioto
+report.account.creation.ets.account.type = Kontotyp ETS
+report.account.creation.opening.date = Datum der Kontoer\u00f6ffnung
+report.account.creation.closing.date = Datum der Kontoschlie\u00dfung
+report.account.creation.hosting.registry = Nationales Register
+
+report.account.creation.commitment.period_0 = Verpflichtungszeitraum 0
+report.account.creation.commitment.period_1 = 1. Verpflichtungszeitraum
+report.account.creation.commitment.period_2 = 2. Verpflichtungszeitraum
+report.account.creation.commitment.period_3 = 3. Verpflichtungszeitraum
+
+report.account.creation.kyoto.account.type_NON_HOLDING = Non Holding
+report.account.creation.kyoto.account.type_HOLDING_ACCOUNT = Besitzkonto
+report.account.creation.kyoto.account.type_PENDING_ACCOUNT = Pending Account
+report.account.creation.kyoto.account.type_OPERATOR_HOLDING_ACCOUNT = Anlagenkonto
+report.account.creation.kyoto.account.type_PERSON_HOLDING_ACCOUNT = Personenkonto
+report.account.creation.kyoto.account.type_NET_SOURCE_CANCELLATION_ACCOUNT = Net Source Cancellation Account
+report.account.creation.kyoto.account.type_NON_COMPLIANCE_CANCELLATION_ACOUNT =  Non Compliance Cancellation Account
+report.account.creation.kyoto.account.type_VOLUNTARY_CANCELLATION_ACCOUNT =  Konto f\u00fcr freiwillige L\u00f6schung
+report.account.creation.kyoto.account.type_EXCESS_ISSUANCE_CANCELLATION_ACCOUNT =  Excess Issuance Cancellation Account
+report.account.creation.kyoto.account.type_MANDATORY_CANCELLATION_ACCOUNT=  Mandatory Cancellation Account
+report.account.creation.kyoto.account.type_RETIREMENT_ACCOUNT =  Ausbuchungskonto
+report.account.creation.kyoto.account.type_TCER_REPLACEMENT_ACCOUNT_EXPIRY =  TCER Replacement Account Expiry
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_EXPIRY =  LCER Replacement Account Expiry
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_REVERSAL_CARBON_STORAGE =  LCER Replacement Account Reversal Carbon Storage
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_FAIL_SUBMISSION_CERT_REP =  LCER Replacement Account Fail Submission Cert Rep
+
+report.account.creation.ets.account.type_NONE = Keiner
+report.account.creation.ets.account.type_AAU_DEPOSIT = AAU Hinterlegungskonto
+report.account.creation.ets.account.type_CENTRAL_CLEARING = EHS-Clearing-Konto
+report.account.creation.ets.account.type_GATEWAY_DEPOSIT = Gateway-Depot-Konto
+report.account.creation.ets.account.type_UNION_ALLOWANCE_DELETION = L\u00f6schungskonto der Union f\u00fcr Zertifikate
+report.account.creation.ets.account.type_AVIATION_SURRENDER_SETASIDE = separates Abgabekonto f\u00fcr den Luftverkehr
+report.account.creation.ets.account.type_OPERATOR_HOLDING = Betreiberkonto
+report.account.creation.ets.account.type_PERSON_HOLDING = Personenkonto
+report.account.creation.ets.account.type_AIRCRAFT_OPERATOR = Luftfahrzeugbetreiberkonto
+report.account.creation.ets.account.type_VERIFIER = Pr\u00fcferkonto
+report.account.creation.ets.account.type_NATIONAL_ALLOWANCE_HOLDING = Nationales Zertifikatekonto
+report.account.creation.ets.account.type_TRADING_ACCOUNT = Handelskonto
+report.account.creation.ets.account.type_TRADING_PLATFORM = Handelsplattform
+
+report.account.creation.account.holder.title = Einzelheiten zum Kontoinhaber
+report.account.creation.account.holder.name = Name des Kontoinhabers
+report.account.creation.account.holder.identifier = Kontoinhaberkennung
+
+report.account.creation.contact = Kontaktdaten
+report.account.creation.contact.firstname = Vorname
+report.account.creation.contact.lastname = Nachname
+report.account.creation.contact.phone.number = Telefonnummer
+report.account.creation.contact.line1 = Anschrift Zeile 1
+report.account.creation.contact.line2 = Anschrift Zeile 2
+report.account.creation.contact.postcode = Postleitzahl
+report.account.creation.contact.city = Stadt
+report.account.creation.contact.region = Region
+report.account.creation.contact.country = Land
+report.account.creation.contact.email =  Email
+
+report.account.creation.account.holder.representative.title = Kontobevollm\u00e4chtigter
+report.account.creation.account.holder.addRepresentative.title = weiterer Kontobevollm\u00e4chtigter
+report.account.creation.urid = URID
+
+report.account.creation.instalation.details = Einzelheiten zur Anlage
+report.account.creation.installation.name = Anlagenname
+report.account.creation.installation.identifier = Anlagenkennung
+report.account.creation.installation.compliance.status = Erf\u00fcllungsstatus
+report.account.creation.installation.EPRTR.identification = EPRTR Nummer
+report.account.creation.installation.parent.company = Muttergesellschaft
+report.account.creation.installation.sub.company = Tochtergesellschaft
+
+report.account.creation.instalation.contact.person.details = Einzelheiten zur Kontaktperson der Anlage
+report.account.creation.permit = Angaben zur Genehmigung
+report.account.creation.permit.identifier = Genehmigungskennung
+report.account.creation.permit.entry.date = Datum der Genehmigung
+report.account.creation.permit.expiry.date = Ablaufdatum der Genehmigung
+report.account.creation.permit.revocation.date = Datum der Aufhebung der Genehmigung
+
+report.account.creation.installation.latitude = Breitengrad
+report.account.creation.installation.longitude = L\u00e4ngengrad
+report.account.creation.installation.activity = T\u00e4tigkeit
+report.account.creation.installation.activity_1 = Feuerungsanlage > 20 MW
+report.account.creation.installation.activity_2 = Mineral\u00f6lraffinerien
+report.account.creation.installation.activity_3 = Kokereien
+report.account.creation.installation.activity_4 = R\u00f6st- oder Sinteranlagen
+report.account.creation.installation.activity_5 = Roheisen- oder Stahlerzeugung
+report.account.creation.installation.activity_6 = Zementklinker- oder Kalkproduktion
+report.account.creation.installation.activity_7 = Glas- oder Glasfaserproduktion
+report.account.creation.installation.activity_8 = Ziegel- oder sonstige Keramikproduktion
+report.account.creation.installation.activity_9 = Zellstoff- oder Papierproduktion
+report.account.creation.installation.activity_99 = Andere opt-in-Aktivit\u00e4t  gem.  Art. 24 der Richtlinie 2003/87/EG
+report.account.creation.installation.activity_20 = Verbrennung von Brennstoffen
+report.account.creation.installation.activity_21 = Raffination von Mineral\u00f6l
+report.account.creation.installation.activity_22 = Herstellung von Koks
+report.account.creation.installation.activity_23 = R\u00f6stung oder Sinterung von Metallerz
+report.account.creation.installation.activity_24 = Herstellung von Roheisen oder Stahl
+report.account.creation.installation.activity_25 = Herstellung oder Verarbeitung von Eisenmetallen
+report.account.creation.installation.activity_26 = Herstellung von Prim\u00e4raluminium
+report.account.creation.installation.activity_27 = Herstellung von Sekund\u00e4raluminium
+report.account.creation.installation.activity_28 = Herstellung oder Verarbeitung von Nichteisenmetallen
+report.account.creation.installation.activity_29 = Zementklinkerproduktion
+report.account.creation.installation.activity_30 = Herstellung von Kalk oder Brennen von Dolomit oder Magnesit
+report.account.creation.installation.activity_31 = Herstellung von Glas
+report.account.creation.installation.activity_32 = Herstellung von keramischen Erzeugnissen
+report.account.creation.installation.activity_33 = Herstellung von Mineralwolle
+report.account.creation.installation.activity_34 = Herstellung oder Verarbeitung von Gips oder Gipskartonplatten
+report.account.creation.installation.activity_35 = Herstellung von Zellstoff
+report.account.creation.installation.activity_36 = Herstellung von Papier oder Karton
+report.account.creation.installation.activity_37 = Herstellung von Industrieru\u00df
+report.account.creation.installation.activity_38 = Herstellung von Salpeters\u00e4ure
+report.account.creation.installation.activity_39 = Herstellung von Adipins\u00e4ure
+report.account.creation.installation.activity_40 = Herstellung von Glyoxal und Glyoxyls\u00e4ure
+report.account.creation.installation.activity_41 = Herstellung von Ammoniak
+report.account.creation.installation.activity_42 = Herstellung von organischen Grundchemikalien
+report.account.creation.installation.activity_43 = Herstellung von Wasserstoff und Synthesegas
+report.account.creation.installation.activity_44 = Herstellung von Soda und Natriumbicarbonat
+report.account.creation.installation.activity_45 = Abscheidung von Treibhausgasen gem\u00e4\u00df der Richtlinie 2009/31/EG
+report.account.creation.installation.activity_46 = Bef\u00f6rderung von Treibhausgasen gem\u00e4\u00df der Richtlinie 2009/31/EG
+report.account.creation.installation.activity_47 = Speicherung von Treibhausgasen gem\u00e4\u00df der Richtlinie 2009/31/EG
+
+report.account.creation.job.details = Angaben zur Position
+report.account.creation.job.details.title =  Funktion
+report.account.creation.job.details.company.name = Firmenbezeichnung
+report.account.creation.job.details.company.dept = Abteilung
+                                                            
+report.account.creation.request.details = Details des Vertrages
+report.account.creation.request.id = Kennung des Antrags
+report.account.creation.request.requester.urid = URID des Antragstellers
+report.account.creation.request.status = Status
+report.account.creation.request.timestamp = Datum
+                                                            
+report.account.creation.aircraft.operator.title= Details zum Luftfahrzeugbetreiber
+report.account.creation.aircraft.operator.name = Name des Luftfahrzeugbetreibers
+report.account.creation.aircraft.operator.identifier = Luftfahrzeugetreiberkennung
+report.account.creation.aircraft.operator.call.sign = Rufzeichen (ICAO Kennung)
+report.account.creation.aircraft.operator.code = Individueller Code gem\u00e4\u00df der Verordnung (EG) Nr. 748/2009
+report.account.creation.aircraft.permit.name = Genehmigung
+report.account.creation.aircraft.monitoring.plan = Einzelheiten zum \u00dcberwachungsplan
+report.account.creation.aircraft.monitoring.plan.identifier = Kennung des Monitoring-Plans
+report.account.creation.aircraft.monitoring.plan.first.year.applicability = Anlaufjahr
+report.account.creation.aircraft.monitoring.plan.expiry.date = Ablaufjahr
+
+report.account.creation.contact.person.title=Details zur Kontaktperson
+report.account.creation.contact.person.name=Vorname
+report.account.creation.contact.person.lastname=Nachname
+
+report.account.creation.companyDetails = Firmendetails
+report.account.creation.companyDetails.companyRegistrationNumber = Firmenbuchnummer
+report.account.creation.companyDetails.vatNumber = UID Nummer
+report.account.creation.birthDetails = Details zur Person
+report.account.creation.birthDetails.idNumber = Ausweisnummer
+report.account.creation.birthDetails.country = Geburtsland
+report.account.creation.birthDetails.date = Geburtsdatum
+report.account.creation.birthDetails.place = Geburtsort
+report.account.creation.identityDocument = Ausweis
+report.account.creation.identityDocument.id = Ausweisnummer
+report.account.creation.identityDocument.expiryDate = Ablaufdatum des Ausweises
+report.account.creation.identityDocument.type = Art des Ausweises
+identityDocumentType_NATIONAL_ID_CARD = Personalausweis
+identityDocumentType_SPECIAL_ID_CARD = sonstiger Ausweis
+identityDocumentType_PASSPORT = Pass
+
+role_AUTHORISED_REPRESENTATIVE = Bevollm\u00e4chtigter
+role_ADDITIONAL_AUTHORISED_REPRESENTATIVE = Weiterer Bevollm\u00e4chtigter
+role_AUDITOR_FOR_AR = weiterer Bevollm\u00e4chtigter (Lesezugriff)
+
+report.account.creation.contract.role = Rolle
+report.account.creation.contract.title = Kontoer\u00f6ffnungsvertrag - {0}
+
+#
+AT.report.account.creation.contract.before.0.title = VERTRAG BETREFFEND KONTOF\u00dcHRUNG IM VON \u00d6STERREICH VERWALTETEN TEIL DES UNIONSREGISTERS
+AT.report.account.creation.contract.before.1.text = Abgeschlossen zwischen
+AT.report.account.creation.contract.before.2.text = Umweltbundesamt GmbH
+AT.report.account.creation.contract.before.3.text = Spittelauer L\u00e4nde 5
+AT.report.account.creation.contract.before.4.text = 1090 Wien
+AT.report.account.creation.contract.before.5.text = vertreten durch Herrn Mag. Georg Rebernig
+AT.report.account.creation.contract.before.6.text = 
+AT.report.account.creation.contract.before.7.text = Und der nachstehenden Vertragspartei (im folgenden Kontoinhaber)
+AT.report.account.creation.contract.before.8.text = 
+AT.report.account.creation.contract.before.9.text = 
+AT.report.account.creation.contract.before.10.text = 
+AT.report.account.creation.contract.before.11.text =
+
+#AT.report.account.creation.contract.accountHolder.after
+
+#AT.report.account.creation.contract.accountHolder.after.0.break =
+
+AT.report.account.creation.contract.authorisedRep.after.0.text =
+AT.report.account.creation.contract.authorisedRep.after.1.text = 
+AT.report.account.creation.contract.authorisedRep.after.2.text = 
+AT.report.account.creation.contract.authorisedRep.after.3.text = 
+AT.report.account.creation.contract.authorisedRep.after.4.text =
+AT.report.account.creation.contract.authorisedRep.after.5.title = Unterschrift Kontobevollm\u00e4chtigter
+AT.report.account.creation.contract.authorisedRep.after.6.text = 
+AT.report.account.creation.contract.authorisedRep.after.7.text = 
+AT.report.account.creation.contract.authorisedRep.after.8.text = 
+AT.report.account.creation.contract.authorisedRep.after.9.text = 
+AT.report.account.creation.contract.authorisedRep.after.10.text = ................................................................................
+AT.report.account.creation.contract.authorisedRep.after.1.break =
+
+AT.report.account.creation.contract.additionalRep.after.0.text =
+AT.report.account.creation.contract.additionalRep.after.1.text = 
+AT.report.account.creation.contract.additionalRep.after.2.text = 
+AT.report.account.creation.contract.additionalRep.after.3.text = 
+AT.report.account.creation.contract.additionalRep.after.4.text =
+AT.report.account.creation.contract.additionalRep.after.5.title = Unterschrift weiterer Bevollm\u00e4chtigter
+AT.report.account.creation.contract.additionalRep.after.6.text = 
+AT.report.account.creation.contract.additionalRep.after.7.text = 
+AT.report.account.creation.contract.additionalRep.after.8.text = 
+AT.report.account.creation.contract.additionalRep.after.9.text = 
+AT.report.account.creation.contract.additionalRep.after.10.text = ................................................................................
+AT.report.account.creation.contract.additionalRep.after.11.break =
+
+
+# AT.report.account.creation.contract.operator
+
+AT.report.account.creation.contract.after.0.title = Pr\u00e4ambel
+AT.report.account.creation.contract.after.1.text = (1) Um den Verpflichtungen im Rahmen des EU Emissionshandelssystems nachzukommen, benutzen die Mitgliedstaaten das sogenannte Unionsregister gem\u00e4\u00df VO (EU) 389/2013 in der g\u00fcltigen Fassung zur Verbuchung von Zertifikaten. \u00dcber das Unionsregister f\u00fchren nationale Verwalter und Kontoinhaber alle in der angef\u00fchrten VO beschriebenen Vorg\u00e4nge aus.
+AT.report.account.creation.contract.after.2.text = (2) In \u00d6sterreich hat der Bundesminister f\u00fcr Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft gem\u00e4\u00df \u00a7 43 Emissionszertifikategesetz mit Verordnung mit der technischen Durchf\u00fchrung des Registers bzw. der Arbeiten im Unionsregister eine Registerstelle zu beauftragen, die auch die Funktion gem\u00e4\u00df \u00a7 47 Umweltf\u00f6rderungsgesetz aus\u00fcbt. Dies ist die Umweltbundesamt GmbH.
+AT.report.account.creation.contract.after.3.text =
+AT.report.account.creation.contract.after.4.title = \u00a7 1 Vertragsgegenstand
+AT.report.account.creation.contract.after.5.text = (1) Gegenstand dieses Vertrages ist die Verwaltung des obengenannten (bitte den entsprechenden Kontotyp ankreuzen)
+AT.report.account.creation.contract.after.6.text = o Anlagenbetreiberkontos im \u00f6sterreichischen Teil des Unionsregisters gem\u00e4\u00df VO (EU) 389/2013 in der g\u00fcltigen Fassung. 
+AT.report.account.creation.contract.after.7.text = o Personenkontos im \u00f6sterreichischen Teil des Unionsregisters gem\u00e4\u00df VO (EU) 389/2013 in der g\u00fcltigen Fassung.
+AT.report.account.creation.contract.after.8.text = o Personenkontos im Kyoto-Teil des Unionsregisters gem\u00e4\u00df VO (EU) 389/2013 in der g\u00fcltigen Fassung.
+AT.report.account.creation.contract.after.9.text = o Luftfahrzeugbetreiberkontos im \u00f6sterreichischen Teil des Unionsregisters gem\u00e4\u00df VO (EU) 389/2013 in der g\u00fcltigen Fassung.
+AT.report.account.creation.contract.after.10.text = o Pr\u00fcferkontos im \u00f6sterreichischen Teil des Unionsregisters gem\u00e4\u00df VO (EU) 389/2013 in der g\u00fcltigen Fassung.
+AT.report.account.creation.contract.after.11.text = o H\u00e4ndlerkontos im \u00f6sterreichischen Teil des Unionsregisters gem\u00e4\u00df VO (EU) 389/2013 in der g\u00fcltigen Fassung.
+AT.report.account.creation.contract.after.12.text =
+AT.report.account.creation.contract.after.13.text = (2) Die wechselseitigen Rechte und Pflichten der Vertragspartner ergeben sich im Einzelnen aus den Registernutzungsbedingungen der Umweltbundesamt GmbH (RNB-U) in der jeweils g\u00fcltigen Fassung sowie aus den darin verwiesenen gesetzlichen Rahmenbedingungen.
+AT.report.account.creation.contract.after.14.text = (3) Die RNB-U bilden einen integrierenden Bestandteil dieses Vertrages und deren Anwendung gilt mit Unterfertigung dieses Vertrages als vereinbart. Die RNB-U stehen unter www.emissionshandelsregister.at zum Download bereit.
+AT.report.account.creation.contract.after.15.text =
+AT.report.account.creation.contract.after.16.title = \u00a7 2 Vertraulichkeit/Datenweitergabe
+AT.report.account.creation.contract.after.17.text = (1) Die Umweltbundesamt GmbH verpflichtet sich, die Informationen und Daten, welche sie aufgrund dieses Vertrages zur Besorgung ihrer Aufgaben vom Kontoinhaber erh\u00e4lt, mit der gebotenen Sorgfalt und im Rahmen der gesetzlichen Bestimmungen, der RNB-U und dieses Vertrages vertraulich zu behandeln.
+AT.report.account.creation.contract.after.18.text = (2) Die Umweltbundesamt GmbH verpflichtet sich weiters, s\u00e4mtliche Datenschutz- und Geheimhaltungspflichten auf ihre Arbeitnehmer, Auftragnehmer und Erf\u00fcllungsgehilfen zu \u00fcberbinden.
+AT.report.account.creation.contract.after.19.text = (3) Der Kontoinhaber erteilt hiermit seine Zustimmung, der Umweltbundesamt GmbH als Registerstelle zur Wahrnehmung der gesetzlichen Aufgaben, dem EUTL (European Union Transaction Log) sowie dem ITL (UNFCCC International Transaction Log) vertrauliche Informationen und Daten zu \u00fcberlassen und/oder auf Nachfrage zu \u00fcbermitteln und Einsicht in diese vertraulichen Informationen und Daten zu gew\u00e4hren.
+AT.report.account.creation.contract.after.20.text =
+AT.report.account.creation.contract.after.21.break =
+AT.report.account.creation.contract.after.22.title = \u00a7 3 Sonstiges
+AT.report.account.creation.contract.after.23.text = (1) Der Kontoinhaber erkl\u00e4rt, dass s\u00e4mtliche erforderlichen schriftlichen Nachweise (gem\u00e4\u00df den auf der Homepage der Registerstelle ver\u00f6ffentlichten Anforderungen - siehe http://www.emissionshandelsregister.at/ms/emissionshandelsregister/de/ehr_unionsregister/ehr_registrierung_konten/) diesem Vertrag beigeschlossen sind und nimmt zur Kenntnis, dass die tats\u00e4chliche Aktivierung des Kontos und der Zugriff darauf erst nach Pr\u00fcfung der Unterlagen durch die Umweltbundesamt GmbH auf Vollst\u00e4ndigkeit und Richtigkeit erfolgen kann.
+AT.report.account.creation.contract.after.24.text = (2) Der Kontoinhaber best\u00e4tigt, dass die vorgenannten Kontobevollm\u00e4chtigten bzw. zus\u00e4tzlichen Kontobevollm\u00e4chtigten berechtigt sind, im Namen des Kontoinhabers s\u00e4mtliche Transaktionen durchzuf\u00fchren.
+AT.report.account.creation.contract.after.25.text = (3) Dieser Vertrag wird auf unbestimmte Zeit abgeschlossen.
+AT.report.account.creation.contract.after.26.text = (4) Dieser Vertrag wird in zwei Ausf\u00fchrungen errichtet. Nach Unterfertigung durch den Kontoinhaber sind beide Ausfertigungen an die Umweltbundesamt GmbH zu versenden. Eine Ausfertigung ist f\u00fcr den Kontoinhaber bestimmt und wird in weiterer Folge nach Unterfertigung durch die Gesch\u00e4ftsf\u00fchrung der Registerstelle an den Kontoinhaber zur\u00fcckgesandt.
+AT.report.account.creation.contract.after.27.text = (5) Sollten bei den Angaben im Vertrag offensichtliche Fehler enthalten sein, die jedoch geringf\u00fcgig sind (zB: Tippfehler), ist die Umweltbundesamt GmbH berechtigt, diese handschriftlich im vorliegenden Vertrag zu berichtigen. Der betroffene Kontoinhaber erh\u00e4lt dann eine berichtigte Ausfertigung des Vertrages.
+AT.report.account.creation.contract.after.28.text = (6) S\u00e4mtliche Kommunikation mit  der Registerstelle ist an folgende Kontaktdaten zu adressieren:
+AT.report.account.creation.contract.after.29.text = \u0020\u0020\u0020\u0020\u0020\u0020Umweltbundesamt GmbH
+AT.report.account.creation.contract.after.30.text = \u0020\u0020\u0020\u0020\u0020\u0020z.Hd. Registerstelle
+AT.report.account.creation.contract.after.31.text = \u0020\u0020\u0020\u0020\u0020\u0020Spittelauer L\u00e4nde 5
+AT.report.account.creation.contract.after.32.text = \u0020\u0020\u0020\u0020\u0020\u00201090 Wien
+AT.report.account.creation.contract.after.33.text = \u0020\u0020\u0020\u0020\u0020\u0020registerstelle@umweltbundesamt.at
+AT.report.account.creation.contract.after.34.text = \u0020\u0020\u0020\u0020\u0020\u0020Tel: 01/31 304-4114; Fax 01/31 304-4115
+AT.report.account.creation.contract.after.35.text =
+AT.report.account.creation.contract.after.36.text =
+AT.report.account.creation.contract.after.37.text =
+AT.report.account.creation.contract.after.38.text =
+AT.report.account.creation.contract.after.39.text =
+AT.report.account.creation.contract.after.40.text =
+AT.report.account.creation.contract.after.41.text =
+AT.report.account.creation.contract.after.42.text =
+AT.report.account.creation.contract.after.43.text =
+AT.report.account.creation.contract.after.44.text =
+AT.report.account.creation.contract.after.45.text =
+AT.report.account.creation.contract.after.46.text =
+AT.report.account.creation.contract.after.47.text =
+AT.report.account.creation.contract.after.48.text =
+AT.report.account.creation.contract.after.49.text =
+AT.report.account.creation.contract.after.50.text =
+AT.report.account.creation.contract.after.51.text =
+AT.report.account.creation.contract.after.52.text =
+AT.report.account.creation.contract.after.53.break =
+AT.report.account.creation.contract.after.54.text = Ort, Datum\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.
+AT.report.account.creation.contract.after.55.text =
+AT.report.account.creation.contract.after.56.text =
+AT.report.account.creation.contract.after.57.text =
+AT.report.account.creation.contract.after.58.text =
+AT.report.account.creation.contract.after.59.text = \u0020\u0020\u0020\u0020\u0020\u0020\u0020\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026
+AT.report.account.creation.contract.after.60.title = \u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020Firmenm\u00e4\u00dfige Zeichnung f\u00fcr den Kontoinhaber
+AT.report.account.creation.contract.after.61.text = \u0020\u0020\u0020\u0020\u0020\u0020\u0020\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026
+AT.report.account.creation.contract.after.62.title = \u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020Namen der zeichnenden Personen
+AT.report.account.creation.contract.after.63.text =
+AT.report.account.creation.contract.after.64.text =
+AT.report.account.creation.contract.after.65.text = Ort, Datum und eigenh\u00e4ndige Unterschrift des/r Antragstellers/in. Vorname und Name der unterzeichnenden Person/en ist/sind zus\u00e4tzlich in Druckbuchstaben anzugeben. Bei juristischen Personen sind nur Unterschriften vertretungsberechtigter Personen wie im Firmenbuch, Handelsregister (oder \u00e4hnliches) angegeben zul\u00e4ssig.
+AT.report.account.creation.contract.after.66.text =
+AT.report.account.creation.contract.after.67.text =
+AT.report.account.creation.contract.after.68.text = F\u00fcr die Umweltbundesamt GmbH:
+AT.report.account.creation.contract.after.69.text = Wien am, \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.
+AT.report.account.creation.contract.after.70.text =
+AT.report.account.creation.contract.after.71.text =
+AT.report.account.creation.contract.after.72.text = 
+AT.report.account.creation.contract.after.73.text = \u0020\u0020\u0020\u0020\u0020\u0020\u0020\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026
+AT.report.account.creation.contract.after.74.text = \u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020Mag. Georg Rebernig
+AT.report.account.creation.contract.after.75.text = \u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020Gesch\u00e4ftsf\u00fchrer
+
+
+############################v6.2.6.2, Modifications on v6.2.6.2 DE properties files#############################
+report.account.creation.kyoto.account.type_PERSON_ACCOUNT_NATIONAL_REG = Personenkonto im nationalen Kyoto\u002dRegister

@@ -1,0 +1,243 @@
+#Report localizations
+eu.europa.ec.clima.eucr.services.processes.account.reports.AccountCreationSummaryReport=Account Creation Summary Report
+
+
+
+report.account.creation.title = Konta inform\u0101cijas apkopojums - {0}
+report.account.creation.account.details = Konta inform\u0101cija
+report.account.creation.name = Nosaukums
+report.account.creation.identifier = Identifikators
+report.account.creation.commitment.period = Saist\u012bbu periods
+report.account.creation.kyoto.account.type = Kioto konta veids
+report.account.creation.ets.account.type = ETS konta veids
+report.account.creation.opening.date = Atv\u0113r\u0161anas datums
+report.account.creation.closing.date = Sl\u0113g\u0161anas datums
+report.account.creation.hosting.registry = Re\u0123istra t\u012bmek\u013ca mitin\u0101\u0161ana
+
+report.account.creation.commitment.period_0 = 0. saist\u012bbu periods
+report.account.creation.commitment.period_1 = 1. saist\u012bbu periods
+report.account.creation.commitment.period_2 = 2. saist\u012bbu periods
+report.account.creation.commitment.period_3 = 3. saist\u012bbu periods
+
+report.account.creation.kyoto.account.type_NON_HOLDING = Non Holding
+report.account.creation.kyoto.account.type_HOLDING_ACCOUNT = Konts
+report.account.creation.kyoto.account.type_PENDING_ACCOUNT = Konts sagatavo\u0161anas proces\u0101                                                                   
+report.account.creation.kyoto.account.type_OPERATOR_HOLDING_ACCOUNT = Operatora konts
+report.account.creation.kyoto.account.type_PERSON_HOLDING_ACCOUNT = Personas konts
+report.account.creation.kyoto.account.type_NET_SOURCE_CANCELLATION_ACCOUNT = Neto avota anul\u0113\u0161anas konts 
+report.account.creation.kyoto.account.type_NON_COMPLIANCE_CANCELLATION_ACOUNT =  Anul\u0113\u0161anas konts neatbilst\u012bbas d\u0113\u013c
+report.account.creation.kyoto.account.type_VOLUNTARY_CANCELLATION_ACCOUNT =  Br\u012bvpr\u0101t\u012bgas anul\u0113\u0161anas konts 
+report.account.creation.kyoto.account.type_EXCESS_ISSUANCE_CANCELLATION_ACCOUNT =  Virs limitiem pie\u0161\u0137irto vien\u012bbu anul\u0113\u0161anas konts 
+report.account.creation.kyoto.account.type_MANDATORY_CANCELLATION_ACCOUNT=  Oblig\u0101t\u0101s anul\u0113\u0161anas konts 
+report.account.creation.kyoto.account.type_RETIREMENT_ACCOUNT =  Norakst\u012b\u0161anas konts
+report.account.creation.kyoto.account.type_TCER_REPLACEMENT_ACCOUNT_EXPIRY =  tCER aizvieto\u0161anas konts (termi\u0146a beigas) 
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_EXPIRY =  lCER aizvieto\u0161anas konts (termi\u0146a beigas) 
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_REVERSAL_CARBON_STORAGE =  lCER glab\u0101\u0161anas atcel\u0161anas aizvieto\u0161anas konts
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_FAIL_SUBMISSION_CERT_REP =  lCER aizvieto\u0161anas konts sertifik\u0101cijas zi\u0146ojuma neiesnieg\u0161anas gad\u012bjum\u0101 
+
+report.account.creation.ets.account.type_NONE = Neviens
+report.account.creation.ets.account.type_AAU_DEPOSIT = AAU depoz\u012bta                                                                              
+report.account.creation.ets.account.type_CENTRAL_CLEARING = Centr\u0101l\u0101 mijieskaita                                                                         
+report.account.creation.ets.account.type_GATEWAY_DEPOSIT = V\u0101rtejas depoz\u012bta                                                                          
+report.account.creation.ets.account.type_UNION_ALLOWANCE_DELETION = Savien\u012bbas kvotas dz\u0113\u0161anas                                                                
+report.account.creation.ets.account.type_AVIATION_SURRENDER_SETASIDE = Avi\u0101cijas nodo\u0161anas rezerves                                                           
+report.account.creation.ets.account.type_OPERATOR_HOLDING = Operatora  
+report.account.creation.ets.account.type_PERSON_HOLDING = Personas 
+report.account.creation.ets.account.type_AIRCRAFT_OPERATOR = Gaisa ku\u0123u ekspluatanta                                                                         
+report.account.creation.ets.account.type_VERIFIER = Verific\u0113t\u0101ja
+report.account.creation.ets.account.type_NATIONAL_ALLOWANCE_HOLDING = Valsts kvotu                                                                
+report.account.creation.ets.account.type_TRADING_PLATFORM = Tirdzniec\u012bbas platformas
+
+report.account.creation.account.holder.title = Konta tur\u0113t\u0101ja dati
+report.account.creation.account.holder.name = Nosaukums
+report.account.creation.account.holder.identifier = Identifikators
+
+report.account.creation.contact = Kontaktpersonas inform\u0101cija
+report.account.creation.contact.firstname = V\u0101rds
+report.account.creation.contact.lastname = Uzv\u0101rds
+report.account.creation.contact.phone.number = T\u0101lru\u0146a numurs 
+report.account.creation.contact.line1 = Adrese (1. rinda)
+report.account.creation.contact.line2 = Adrese (2. rinda)
+report.account.creation.contact.postcode = Pasta indekss
+report.account.creation.contact.city = Pils\u0113ta 
+report.account.creation.contact.region = Re\u0123ions
+report.account.creation.contact.country = Valsts
+report.account.creation.contact.email =  E-pasta adrese
+
+report.account.creation.account.holder.representative.title = Pilnvarotais p\u0101rst\u0101vis 
+report.account.creation.account.holder.addRepresentative.title = Papildus pilnvarotais p\u0101rst\u0101vis
+report.account.creation.urid = URID
+
+report.account.creation.instalation.details = Iek\u0101rtas inform\u0101cija
+report.account.creation.installation.name = Nosaukums
+report.account.creation.installation.identifier = Identifikators
+report.account.creation.installation.compliance.status = Atbilst\u012bbas statuss
+report.account.creation.installation.eper.identification = EPER identifik\u0101cija
+report.account.creation.installation.parent.company = M\u0101tesuz\u0146\u0113mums
+report.account.creation.installation.sub.company = Meitasuz\u0146\u0113mums
+
+report.account.creation.instalation.contact.person.details = Iek\u0101rtas kontaktpersonu inform\u0101cija
+report.account.creation.permit = At\u013caujas inform;acija
+report.account.creation.permit.identifier = At\u013caujas Identifikators
+report.account.creation.permit.entry.date = At\u013caujas sp\u0113k\u0101 st\u0101\u0161an\u0101s datums 
+report.account.creation.permit.expiry.date = At\u013caujas der\u012bguma beigu datums
+report.account.creation.permit.revocation.date = At\u013caujas atsauk\u0161anas datums
+
+report.account.creation.installation.latitude = \u0122eogr\u0101fiskais platums
+report.account.creation.installation.longitude = \u0122eogr\u0101fiskais garums
+report.account.creation.installation.activity = Darb\u012bba
+report.account.creation.installation.activity_1 = Sadedzin\u0101\u0161anas iek\u0101rtas ar nomin\u0101lo siltumsp\u0113ju virs 20 MW 
+report.account.creation.installation.activity_2 = Naftas p\u0101rstr\u0101des iek\u0101rtas
+report.account.creation.installation.activity_3 = Koksa kr\u0101snis
+report.account.creation.installation.activity_4 = Met\u0101la r\u016bdu apdedzin\u0101\u0161ana un kaus\u0113\u0161ana
+report.account.creation.installation.activity_5 = \u010cuguna vai t\u0113rauda ra\u017eo\u0161ana, iek\u013caujot nep\u0101rtrauktu lie\u0161anu 
+report.account.creation.installation.activity_6 = Cementa ra\u017eo\u0161anas rot\u0101cijas kr\u0101sn\u012bs
+report.account.creation.installation.activity_7 = Stikla \u0161\u0137iedras ra\u017eo\u0161ana  
+report.account.creation.installation.activity_8 = Keramikas izstr\u0101d\u0101jumu, \u0137ie\u0123e\u013cu un porcel\u0101na ra\u017eo\u0161ana
+report.account.creation.installation.activity_9 = Celulozes u.c. ra\u017eo\u0161ana 
+report.account.creation.installation.activity_99 = Cita aktivit\u0101te, kas min\u0113ta Direkt\u012bvas\u00a02003/87/EK 24.\u00a0pant\u0101.
+report.account.creation.installation.activity_20 = Kurin\u0101m\u0101 sadedzin\u0101\u0161ana
+report.account.creation.installation.activity_21 = Miner\u0101le\u013c\u013cu rafin\u0113\u0161ana
+report.account.creation.installation.activity_22 = Koksa ra\u017eo\u0161ana
+report.account.creation.installation.activity_23 = Met\u0101la r\u016bdu apdedzin\u0101\u0161ana un aglomer\u0101cija
+report.account.creation.installation.activity_24 = \u010cuguna vai t\u0113rauda ra\u017eo\u0161ana
+report.account.creation.installation.activity_25 = Melno met\u0101lu ra\u017eo\u0161ana vai apstr\u0101de
+report.account.creation.installation.activity_26 = Prim\u0101r\u0101 alum\u012bnija ra\u017eo\u0161ana
+report.account.creation.installation.activity_27 = Sekund\u0101r\u0101 alum\u012bnija ra\u017eo\u0161ana
+report.account.creation.installation.activity_28 = Kr\u0101saino met\u0101lu ra\u017eo\u0161ana vai apstr\u0101de
+report.account.creation.installation.activity_29 = Cementa klinkera ra\u017eo\u0161ana
+report.account.creation.installation.activity_30 = Ka\u013c\u0137u ra\u017eo\u0161ana vai dolom\u012bta vai magnez\u012bta apdedzin\u0101\u0161ana
+report.account.creation.installation.activity_31 = Stikla ra\u017eo\u0161ana
+report.account.creation.installation.activity_32 = Keramikas ra\u017eo\u0161ana
+report.account.creation.installation.activity_33 = Miner\u0101lvates ra\u017eo\u0161ana
+report.account.creation.installation.activity_34 = \u0122ip\u0161a vai r\u012b\u0123ip\u0161a ra\u017eo\u0161ana vai apstr\u0101de
+report.account.creation.installation.activity_35 = Celulozes ra\u017eo\u0161ana
+report.account.creation.installation.activity_36 = Pap\u012bra vai kartona ra\u017eo\u0161ana
+report.account.creation.installation.activity_37 = Kv\u0113pu ra\u017eo\u0161ana
+report.account.creation.installation.activity_38 = Sl\u0101pek\u013csk\u0101bes ra\u017eo\u0161ana
+report.account.creation.installation.activity_39 = Adip\u012bnsk\u0101bes ra\u017eo\u0161ana
+report.account.creation.installation.activity_40 = Glioks\u0101la un glioks\u0101lsk\u0101bes ra\u017eo\u0161ana
+report.account.creation.installation.activity_41 = Amonjaka ra\u017eo\u0161ana
+report.account.creation.installation.activity_42 = \u0136\u012bmisko vielu lielapjoma ra\u017eo\u0161ana
+report.account.creation.installation.activity_43 = \u016ade\u0146ra\u017ea un sint\u0113zes g\u0101zes ra\u017eo\u0161ana
+report.account.creation.installation.activity_44 = N\u0101trija karbon\u0101ta un n\u0101trija bikarbon\u0101ta ra\u017eo\u0161ana
+report.account.creation.installation.activity_45 = Siltumn\u012bcefekta g\u0101zu uztver\u0161ana saska\u0146\u0101 ar Direkt\u012bvu 2009/31/EK
+report.account.creation.installation.activity_46 = Siltumn\u012bcefekta g\u0101zu transport\u0113\u0161ana saska\u0146\u0101 ar Direkt\u012bvu 2009/31/EK
+report.account.creation.installation.activity_47 = Siltumn\u012bcefekta g\u0101zu uzglab\u0101\u0161ana saska\u0146\u0101 ar Direkt\u012bvu 2009/31/EK
+
+report.account.creation.job.details = Amata apraksts
+report.account.creation.job.details.title =  Amats
+report.account.creation.job.details.company.name = Uz\u0146\u0113muma nosaukums
+report.account.creation.job.details.company.dept = Uz\u0146\u0113muma noda\u013ca 
+                                                            
+report.account.creation.request.details = Piepras\u012bjuma inform\u0101cija
+report.account.creation.request.id = Idenfikators
+report.account.creation.request.requester.urid = Piepras\u012bt\u0101ja URID
+report.account.creation.request.status = Statuss
+report.account.creation.request.timestamp = Datums
+                                                            
+report.account.creation.aircraft.operator.title= Gaisa ku\u0123u operatora inform\u0101cija
+report.account.creation.aircraft.operator.name = V\u0101rds/nosaukums
+report.account.creation.aircraft.operator.identifier = Idenfikators
+report.account.creation.aircraft.operator.call.sign = Atpaz\u012b\u0161anas z\u012bme 
+report.account.creation.aircraft.operator.code = Kods
+report.account.creation.aircraft.permit.name = At\u013caujas nosaukums
+report.account.creation.aircraft.monitoring.plan = Monitoringa pl\u0101na inform\u0101cija
+report.account.creation.aircraft.monitoring.plan.identifier = Idenfikators
+report.account.creation.aircraft.monitoring.plan.first.year.applicability = Pirmais piem\u0113ro\u0161anas gads 
+report.account.creation.aircraft.monitoring.plan.expiry.date = Termi\u0146a beigu datums
+
+report.account.creation.contact.person.title= Kontaktpersonu inform\u0101cija
+report.account.creation.contact.person.name= V\u0101rds
+report.account.creation.contact.person.lastname= Uzv\u0101rds
+
+report.account.creation.companyDetails = Uz\u0146\u0113muma inform\u0101cija
+report.account.creation.companyDetails.companyRegistrationNumber = Uz\u0146\u0113muma  re\u0123istr\u0101cijas numurs
+report.account.creation.companyDetails.vatNumber = PVN maks\u0101t\u0101ja numurs
+report.account.creation.birthDetails = Dzim\u0161anas dati
+report.account.creation.birthDetails.idNumber = ID numurs
+report.account.creation.birthDetails.country = Dzim\u0161anas valsts 
+report.account.creation.birthDetails.date = Dzim\u0161anas datums
+report.account.creation.birthDetails.place = Dzim\u0161anas vieta
+report.account.creation.identityDocument = Identifik\u0101cijas dokuments
+report.account.creation.identityDocument.id = Identifik\u0101cijas dokumenta numurs
+report.account.creation.identityDocument.expiryDate = Identifik\u0101cijas dokumenta izbeig\u0161anas datums
+report.account.creation.identityDocument.type =  Identifik\u0101cijas dokumenta veids
+identityDocumentType_NATIONAL_ID_CARD = National ID karte
+identityDocumentType_SPECIAL_ID_CARD = speci\u0101la ID karte
+identityDocumentType_PASSPORT = Pase
+
+role_AUTHORISED_REPRESENTATIVE = Pilnvarotais p\u0101rst\u0101vis 
+role_ADDITIONAL_AUTHORISED_REPRESENTATIVE = Papildu pilnvarotais p\u0101rst\u0101vis
+role_AUDITOR_FOR_AR = apildu pilnvarotais p\u0101rst\u0101vis (read only access)
+
+report.account.creation.contract.role = Funkcija
+report.account.creation.contract.title = Konta atv\u0113r\u0161anas l\u012bgums - {0}
+
+#
+# Account creation contract report per-registry customization - START.
+#
+# Format is: [registry_code].[placeholder].[index].[entry_type]
+#
+# Available placeholders are:
+# - At the document start (XX.report.account.creation.contract.before).
+# - Before the account holder section (XX.report.account.creation.contract.accountHolder.before).
+# - After the account holder section (XX.report.account.creation.contract.accountHolder.after).
+# - Before all AHRs (XX.report.account.creation.contract.authorisedRep.beforeAll).
+# - Before each AHR (XX.report.account.creation.contract.authorisedRep.before).
+# - After each AHR (XX.report.account.creation.contract.authorisedRep.after).
+# - After all AHRs (XX.report.account.creation.contract.authorisedRep.afterAll).
+# - Before all AARs (XX.report.account.creation.contract.additionalRep.beforeAll).
+# - Before each AAR (XX.report.account.creation.contract.additionalRep.before).
+# - After each AAR (XX.report.account.creation.contract.additionalRep.after).
+# - After all AARs (XX.report.account.creation.contract.additionalRep.afterAll).
+# - Before the operator section (XX.report.account.creation.contract.operator.before).
+# - After the operator section (XX.report.account.creation.contract.operator.after).
+# - At the document end (XX.report.account.creation.contract.after).
+# Available entry types are:
+# - text: Add a line of text (can be empty for extra spacing).
+# - title: A title line.
+# - break: A page break.
+LV.report.account.creation.contract.accountHolder.after.0.text = 
+LV.report.account.creation.contract.accountHolder.after.1.title = Konta tur\u0113t\u0101ja paraksts
+LV.report.account.creation.contract.accountHolder.after.2.text = 
+LV.report.account.creation.contract.accountHolder.after.3.text = 
+LV.report.account.creation.contract.accountHolder.after.4.text = 
+LV.report.account.creation.contract.accountHolder.after.5.text = 
+LV.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+LV.report.account.creation.contract.authorisedRep.after.0.text = 
+LV.report.account.creation.contract.authorisedRep.after.1.title = P\u0101rst\u0101vja paraksts
+LV.report.account.creation.contract.authorisedRep.after.2.text = 
+LV.report.account.creation.contract.authorisedRep.after.3.text = 
+LV.report.account.creation.contract.authorisedRep.after.4.text = 
+LV.report.account.creation.contract.authorisedRep.after.5.text = 
+LV.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+LV.report.account.creation.contract.additionalRep.after.0.text = 
+LV.report.account.creation.contract.additionalRep.after.1.title = P\u0101rst\u0101vja paraksts
+LV.report.account.creation.contract.additionalRep.after.2.text = 
+LV.report.account.creation.contract.additionalRep.after.3.text = 
+LV.report.account.creation.contract.additionalRep.after.4.text = 
+LV.report.account.creation.contract.additionalRep.after.5.text = 
+LV.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+#
+# Account creation contract report per-registry customization - END. 
+#
+
+
+#
+#TRANSLATIONS 17JUN2013
+##
+#transaction_title = Dar\u012bjums
+#transactionDetails_approvalDate = Apstiprin\u0101\u0161anas datums
+
+################################## 11/11/2013 v6.2 ##########################
+
+
+report.account.creation.kyoto.account.type_NON_HOLDING = Ar tur\u0113jumiem nesaist\u012bts konts
+report.account.creation.ets.account.type_INTERNATIONAL_CREDIT_ACCOUNT = Starptautisko kred\u012btu konts
+report.account.creation.ets.account.type_CREDIT_EXCHANGE_ACCOUNT = Kred\u012btu apmai\u0146as konts
+
+
+############################v6.2.6.2#############################
+report.account.creation.kyoto.account.type_PERSON_ACCOUNT_NATIONAL_REG = Personas konts valsts re\u0123istr\u0101
+

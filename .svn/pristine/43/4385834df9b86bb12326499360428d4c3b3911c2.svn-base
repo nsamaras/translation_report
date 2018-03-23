@@ -1,0 +1,247 @@
+#Report localizations
+eu.europa.ec.clima.eucr.services.processes.account.reports.AccountCreationSummaryReport= Raport sumar privind crearea conturilor
+
+
+
+report.account.creation.title = Informatii sumare ale contului - {0}
+report.account.creation.account.details = Detaliile contului
+report.account.creation.name = Nume
+report.account.creation.identifier = Indentificare 
+report.account.creation.commitment.period = Perioada de angajament
+report.account.creation.kyoto.account.type = Tipul Conturilor Kyoto
+report.account.creation.ets.account.type = Tipul Conturilor ETS
+report.account.creation.opening.date = Date deschiderii
+report.account.creation.closing.date = Date inchiderii
+report.account.creation.hosting.registry = Gazduirea Registrului
+
+report.account.creation.commitment.period_0 = Pre Kyoto
+report.account.creation.commitment.period_1 = Prima Perioada de Angajament
+report.account.creation.commitment.period_2 = A doua Perioada de Angajament
+report.account.creation.commitment.period_3 = A treia Perioada de Angajament
+
+report.account.creation.kyoto.account.type_HOLDING_ACCOUNT = Contul detiunut
+report.account.creation.kyoto.account.type_PENDING_ACCOUNT = Contul in asteptare
+report.account.creation.kyoto.account.type_OPERATOR_HOLDING_ACCOUNT = Cont detinut de operator
+report.account.creation.kyoto.account.type_PERSON_HOLDING_ACCOUNT = Cont detinut de persoana fizica/juridica
+report.account.creation.kyoto.account.type_NET_SOURCE_CANCELLATION_ACCOUNT = Cont de anulare
+report.account.creation.kyoto.account.type_NON_COMPLIANCE_CANCELLATION_ACOUNT =  Cont de anulare neconform
+report.account.creation.kyoto.account.type_VOLUNTARY_CANCELLATION_ACCOUNT = Cont de anulare voluntara
+report.account.creation.kyoto.account.type_EXCESS_ISSUANCE_CANCELLATION_ACCOUNT =  Cont de anulare a emiterii in exces
+report.account.creation.kyoto.account.type_MANDATORY_CANCELLATION_ACCOUNT=  Cont obligatoriu de inchidere
+report.account.creation.kyoto.account.type_RETIREMENT_ACCOUNT =  Cont de retragere
+report.account.creation.kyoto.account.type_TCER_REPLACEMENT_ACCOUNT_EXPIRY = Cont de inlocuire a TCER expirate
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_EXPIRY =  Cont de inlocuire a LCER expirate
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_REVERSAL_CARBON_STORAGE =  Cont de convertire a certificatelor depozitate in LCER
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_FAIL_SUBMISSION_CERT_REP = Cont de inlocuire pentru LCER
+report.account.creation.ets.account.type_NONE = None
+report.account.creation.ets.account.type_AAU_DEPOSIT = Depozit AAU
+report.account.creation.ets.account.type_CENTRAL_CLEARING = Central Curatire
+report.account.creation.ets.account.type_GATEWAY_DEPOSIT = Depozit Gateway
+report.account.creation.ets.account.type_UNION_ALLOWANCE_DELETION = Stergerea Unica a certificatelor
+report.account.creation.ets.account.type_AVIATION_SURRENDER_SETASIDE = Predarea certificatelor din aviatie
+report.account.creation.ets.account.type_OPERATOR_HOLDING = Gazduirea operatorilor
+report.account.creation.ets.account.type_PERSON_HOLDING = Gazduirea persoanelor
+report.account.creation.ets.account.type_AIRCRAFT_OPERATOR = Operatorii din aviatie
+report.account.creation.ets.account.type_VERIFIER = Verificator
+report.account.creation.ets.account.type_NATIONAL_ALLOWANCE_HOLDING = Cont National al certificatelor
+report.account.creation.ets.account.type_TRADING_PLATFORM = Platforma de tranzactionare
+
+report.account.creation.account.holder.title = Detaliile detinatorului de cont
+report.account.creation.account.holder.name = Nume
+report.account.creation.account.holder.identifier = Identificare
+
+report.account.creation.contact = Date de contact
+report.account.creation.contact.firstname = Nume
+report.account.creation.contact.lastname = Prenume
+report.account.creation.contact.phone.number = Numar de telefon
+report.account.creation.contact.line1 = Adresa 1
+report.account.creation.contact.line2 = Adresa 2
+report.account.creation.contact.postcode = Cod postal
+report.account.creation.contact.city = Oras
+report.account.creation.contact.region = Localitate
+report.account.creation.contact.country = Tara
+report.account.creation.contact.email =  Email
+
+report.account.creation.account.holder.representative.title = Reprezentant autorizat
+report.account.creation.account.holder.addRepresentative.title = Reprezentant autorizat aditional
+report.account.creation.urid = URID
+
+report.account.creation.instalation.details = Detaliile institutiei
+report.account.creation.installation.name = Nume
+report.account.creation.installation.identifier = Identificare
+report.account.creation.installation.compliance.status = Stare conforma
+report.account.creation.installation.eper.identification = Identificare EPER
+report.account.creation.installation.parent.company = Compania mama
+report.account.creation.installation.sub.company = Compania subsidiara
+
+report.account.creation.instalation.contact.person.details = Datele de contact ale persoanei care reprezinta instalatia
+report.account.creation.permit = Autorizatia
+report.account.creation.permit.identifier = Identificarea autorizatiei
+report.account.creation.permit.entry.date = Data eleiberarii autorizatiei
+report.account.creation.permit.expiry.date = Data expirarii autorizatiei
+report.account.creation.permit.revocation.date = Data revocarii autorizatiei
+
+report.account.creation.installation.latitude = Latitudine
+report.account.creation.installation.longitude = Longitudine
+report.account.creation.installation.activity = Activitatea instalatiei
+
+
+report.account.creation.installation.activity_1 = Putere de ardere mai maire de 20 MW
+report.account.creation.installation.activity_2 = Rafinariile pentru uleiuri minerale
+report.account.creation.installation.activity_3 = Cocserie
+report.account.creation.installation.activity_4 = Metal ORE Roast SINT Installations
+report.account.creation.installation.activity_5 = Production PIG IRON STEEL CONT Casting
+report.account.creation.installation.activity_6 = Producerea de clincher de ciment in cuptoare rotative
+report.account.creation.installation.activity_7 = Producerea fibrei de sticla
+report.account.creation.installation.activity_8 = Producere de placi ceramice de portelan 
+report.account.creation.installation.activity_9 = Producerea de celuloza si altele
+report.account.creation.installation.activity_99 = Alte activitati
+report.account.creation.installation.activity_20 = Arderea combustibililor
+report.account.creation.installation.activity_21 = Rafinarea de ulei mineral
+report.account.creation.installation.activity_22 = Producerea de cocs
+report.account.creation.installation.activity_23 = Pr\u0103jirea \u0219i sinterizarea minereurilor metalice
+report.account.creation.installation.activity_24 = Producerea de font\u0103 sau o\u021bel
+report.account.creation.installation.activity_25 = Producerea sau prelucrarea metalelor feroase
+report.account.creation.installation.activity_26 = Producerea de aluminiu primar
+report.account.creation.installation.activity_27 = Producerea de aluminiu secundar
+report.account.creation.installation.activity_28 = Producerea sau prelucrarea metalelor neferoase
+report.account.creation.installation.activity_29 = Produc\u021bia de clincher de ciment
+report.account.creation.installation.activity_30 = Producerea de var sau calcinarea dolomitei/magnezitului
+report.account.creation.installation.activity_31 = Fabricarea sticlei
+report.account.creation.installation.activity_32 = Fabricarea de produse ceramice
+report.account.creation.installation.activity_33 = Fabricarea de vat\u0103 mineral\u0103
+report.account.creation.installation.activity_34 = Producerea sau prelucrarea ghipsului sau pl\u0103cilor de ipsos
+report.account.creation.installation.activity_35 = Producerea de celuloz\u0103
+report.account.creation.installation.activity_36 = Producerea de h\u00e2rtie sau carton
+report.account.creation.installation.activity_37 = Producerea de negru de fum
+report.account.creation.installation.activity_38 = Producerea de acid azotic
+report.account.creation.installation.activity_39 = Producerea de acid adipic
+report.account.creation.installation.activity_40 = Producerea de glioxalului \u0219i de acid glioxilic
+report.account.creation.installation.activity_41 = Producerea de amoniac
+report.account.creation.installation.activity_42 = Producerea de produse chimice vrac
+report.account.creation.installation.activity_43 = Producerea de hidrogen \u0219i de gaz de sintez\u0103
+report.account.creation.installation.activity_44 = Producerea de sod\u0103 calcinat\u0103 \u0219i de bicarbonat de sodiu
+report.account.creation.installation.activity_45 = Captarea gazelor cu efect de ser\u0103 \u00een temeiul Directivei 2009/31/CE
+report.account.creation.installation.activity_46 = Transportul gazelor cu efect de ser\u0103 \u00een temeiul Directivei 2009/31/CE
+report.account.creation.installation.activity_47 = Stocarea gazelor cu efect de ser\u0103 \u00een temeiul Directivei 2009/31/CE
+report.account.creation.installation.activity_99 = Alt\u0103 activitate inclus\u0103, \u00een conformitate cu articolul 24 din Directiva 2003/87/CE
+
+
+report.account.creation.job.details = Detaliile Job-ului
+report.account.creation.job.details.title =  Titlul job-ului
+report.account.creation.job.details.company.name = Numele companiei
+report.account.creation.job.details.company.dept = Departamentul Companiei
+                                                            
+report.account.creation.request.details = Detaliile cerute
+report.account.creation.request.id = Indentificare
+report.account.creation.request.requester.urid = URID Cerut
+report.account.creation.request.status = Stare
+report.account.creation.request.timestamp = Data
+                                                            
+report.account.creation.aircraft.operator.title= Detaliile Operatorului de aeronave
+report.account.creation.aircraft.operator.name = Nume
+report.account.creation.aircraft.operator.identifier = Identificare
+report.account.creation.aircraft.operator.call.sign = Indicativul apelului
+report.account.creation.aircraft.operator.code = Cod
+report.account.creation.aircraft.permit.name = Numele autorizatiei
+report.account.creation.aircraft.monitoring.plan = Plan de monitorizare
+report.account.creation.aircraft.monitoring.plan.identifier = Identificare
+report.account.creation.aircraft.monitoring.plan.first.year.applicability = Primul an de aplicabilitate
+report.account.creation.aircraft.monitoring.plan.expiry.date = Data expirarii
+
+report.account.creation.contact.person.title= Detaliile persoanei de contact
+report.account.creation.contact.person.name= Nume
+report.account.creation.contact.person.lastname= Prenume
+
+report.account.creation.companyDetails = Detaliile Companiei
+report.account.creation.companyDetails.companyRegistrationNumber = Numarul de inregistrare a companiei
+report.account.creation.companyDetails.vatNumber = Numar TVA
+report.account.creation.birthDetails = Detaliile nasterii
+report.account.creation.birthDetails.idNumber = ID-ul
+report.account.creation.birthDetails.country = Tara de nastere
+report.account.creation.birthDetails.date = Data nasterii
+report.account.creation.birthDetails.place = Locul nasterii
+report.account.creation.identityDocument = Documentul de indentitate
+report.account.creation.identityDocument.id = ID-ul Documentului de identitate 
+report.account.creation.identityDocument.expiryDate = Data expirarii docuemntului de identitate
+report.account.creation.identityDocument.type = Tipul docuemntului de identitate
+identityDocumentType_NATIONAL_ID_CARD = ID-ul documentului national
+identityDocumentType_SPECIAL_ID_CARD = ID-ul documentului special
+identityDocumentType_PASSPORT = Pasaport
+
+role_AUTHORISED_REPRESENTATIVE = Reprezentantul Autorizat
+role_ADDITIONAL_AUTHORISED_REPRESENTATIVE = Reprezentant Autorizat Aditional
+role_AUDITOR_FOR_AR = Reprezentant Autorizat Aditional (acces doar pentru vizualizare)
+
+report.account.creation.contract.role = Rol
+report.account.creation.contract.title = Date de contact pentru deschidere contului - {0}
+#
+# Account creation contract report per-registry customization - START.
+#
+# Format is: [registry_code].[placeholder].[index].[entry_type]
+#
+# Available placeholders are:
+# - At the document start (XX.report.account.creation.contract.before).
+# - Before the account holder section (XX.report.account.creation.contract.accountHolder.before).
+# - After the account holder section (XX.report.account.creation.contract.accountHolder.after).
+# - Before all AHRs (XX.report.account.creation.contract.authorisedRep.beforeAll).
+# - Before each AHR (XX.report.account.creation.contract.authorisedRep.before).
+# - After each AHR (XX.report.account.creation.contract.authorisedRep.after).
+# - After all AHRs (XX.report.account.creation.contract.authorisedRep.afterAll).
+# - Before all AARs (XX.report.account.creation.contract.additionalRep.beforeAll).
+# - Before each AAR (XX.report.account.creation.contract.additionalRep.before).
+# - After each AAR (XX.report.account.creation.contract.additionalRep.after).
+# - After all AARs (XX.report.account.creation.contract.additionalRep.afterAll).
+# - Before the operator section (XX.report.account.creation.contract.operator.before).
+# - After the operator section (XX.report.account.creation.contract.operator.after).
+# - At the document end (XX.report.account.creation.contract.after).
+# Available entry types are:
+# - text: Add a line of text (can be empty for extra spacing).
+# - title: A title line.
+# - break: A page break.
+
+
+RO.report.account.creation.contract.accountHolder.after.0.text = 
+RO.report.account.creation.contract.accountHolder.after.1.title = Semnatura detinatorului de cont
+RO.report.account.creation.contract.accountHolder.after.2.text =
+RO.report.account.creation.contract.accountHolder.after.3.text =
+RO.report.account.creation.contract.accountHolder.after.4.text =
+RO.report.account.creation.contract.accountHolder.after.5.text =
+RO.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+RO.report.account.creation.contract.authorisedRep.after.0.text = 
+RO.report.account.creation.contract.authorisedRep.after.1.title = Semnatura detinatorului de cont
+RO.report.account.creation.contract.authorisedRep.after.2.text =
+RO.report.account.creation.contract.authorisedRep.after.3.text =
+RO.report.account.creation.contract.authorisedRep.after.4.text =
+RO.report.account.creation.contract.authorisedRep.after.5.text =
+RO.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+RO.report.account.creation.contract.additionalRep.after.0.text = 
+RO.report.account.creation.contract.additionalRep.after.1.title = Semnatura detinatorului de cont
+RO.report.account.creation.contract.additionalRep.after.2.text =
+RO.report.account.creation.contract.additionalRep.after.3.text =
+RO.report.account.creation.contract.additionalRep.after.4.text =
+RO.report.account.creation.contract.additionalRep.after.5.text =
+RO.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+
+#
+# Account creation contract report per-registry customization - END. 
+#
+
+
+#
+#TRANSLATIONS 17JUN2013
+##
+#transaction_title = Tranzac\u021bie
+#transactionDetails_approvalDate = Data aprob\u0103rii
+
+
+################################## 4/11/2013 v6.2 ##########################
+
+report.account.creation.kyoto.account.type_NON_HOLDING = Cont diferit de contul de depozit
+report.account.creation.ets.account.type_INTERNATIONAL_CREDIT_ACCOUNT = Cont pentru credite interna\u021bionale
+report.account.creation.ets.account.type_CREDIT_EXCHANGE_ACCOUNT = Cont pentru schimbul de credite
+
+
+############################v6.2.6.2#############################
+report.account.creation.kyoto.account.type_PERSON_ACCOUNT_NATIONAL_REG = Cont de persoana fizica/juridica in Registrul National
+

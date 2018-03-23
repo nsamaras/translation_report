@@ -1,0 +1,269 @@
+#Report localizations
+eu.europa.ec.clima.eucr.services.processes.account.reports.AccountCreationSummaryReport=Account Creation Summary Report
+
+
+
+report.account.creation.title = Account Summary Information - {0}
+report.account.creation.account.details = Account Details
+report.account.creation.name = Name
+report.account.creation.identifier = Identifier 
+report.account.creation.commitment.period = Commitment Period
+report.account.creation.kyoto.account.type = Kyoto Account Type
+report.account.creation.ets.account.type = ETS Account Type
+report.account.creation.opening.date = Opening Date
+report.account.creation.closing.date = Closing Date
+report.account.creation.hosting.registry = Hosting Registry
+
+report.account.creation.commitment.period_0 = Zero Commitment Period
+report.account.creation.commitment.period_1 = 1st Commitment Period 
+report.account.creation.commitment.period_2 = 2nd Commitment Period
+report.account.creation.commitment.period_3 = 3rd Commitment Period
+
+report.account.creation.kyoto.account.type_NON_HOLDING = Non Holding
+report.account.creation.kyoto.account.type_HOLDING_ACCOUNT = Holding Account
+report.account.creation.kyoto.account.type_PENDING_ACCOUNT = Pending Account
+report.account.creation.kyoto.account.type_OPERATOR_HOLDING_ACCOUNT = Operator Holding Account
+report.account.creation.kyoto.account.type_PERSON_HOLDING_ACCOUNT = Person Holding Account
+report.account.creation.kyoto.account.type_NET_SOURCE_CANCELLATION_ACCOUNT = Net Source Cancellation Account
+report.account.creation.kyoto.account.type_NON_COMPLIANCE_CANCELLATION_ACOUNT =  Non Compliance Cancellation Account
+report.account.creation.kyoto.account.type_VOLUNTARY_CANCELLATION_ACCOUNT =  Voluntary Cancellation Account
+report.account.creation.kyoto.account.type_EXCESS_ISSUANCE_CANCELLATION_ACCOUNT =  Excess Issuance Cancellation Account
+report.account.creation.kyoto.account.type_MANDATORY_CANCELLATION_ACCOUNT=  Mandatory Cancellation Account
+report.account.creation.kyoto.account.type_RETIREMENT_ACCOUNT =  Retirement Account
+report.account.creation.kyoto.account.type_TCER_REPLACEMENT_ACCOUNT_EXPIRY =  TCER Replacement Account Expiry
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_EXPIRY =  LCER Replacement Account Expiry
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_REVERSAL_CARBON_STORAGE =  LCER Replacement Account Reversal Carbon Storage
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_FAIL_SUBMISSION_CERT_REP =  LCER Replacement Account Fail Submission Cert Rep
+
+report.account.creation.ets.account.type_NONE = None
+report.account.creation.ets.account.type_AAU_DEPOSIT = AAU Deposit
+report.account.creation.ets.account.type_CENTRAL_CLEARING = Central Clearing
+report.account.creation.ets.account.type_GATEWAY_DEPOSIT = Gateway Deposit
+report.account.creation.ets.account.type_UNION_ALLOWANCE_DELETION = Union Allowance Deletion
+report.account.creation.ets.account.type_AVIATION_SURRENDER_SETASIDE = Aviation Surrender Setaside
+report.account.creation.ets.account.type_OPERATOR_HOLDING = Operator Holding
+report.account.creation.ets.account.type_PERSON_HOLDING = Person Holding
+report.account.creation.ets.account.type_AIRCRAFT_OPERATOR = Aircraft Operator
+report.account.creation.ets.account.type_VERIFIER = Verifier
+report.account.creation.ets.account.type_NATIONAL_ALLOWANCE_HOLDING = National Allowance Holding
+report.account.creation.ets.account.type_TRADING_PLATFORM = External Platform
+
+report.account.creation.account.holder.title = Info om kontohaver
+report.account.creation.account.holder.name = Navn
+report.account.creation.account.holder.identifier = Identifier
+
+report.account.creation.contact = Kontaktinfo
+report.account.creation.contact.firstname = Fornavn
+report.account.creation.contact.lastname = Etternavn
+report.account.creation.contact.phone.number = Telefon 
+report.account.creation.contact.line1 = Postadresse
+report.account.creation.contact.line2 = Adresselinje 2
+report.account.creation.contact.postcode = Postnummer
+report.account.creation.contact.city = Sted
+report.account.creation.contact.region = Kommune
+report.account.creation.contact.country = Land
+report.account.creation.contact.email =  E-post
+
+report.account.creation.account.holder.representative.title = Kontorepresentant
+report.account.creation.account.holder.addRepresentative.title = TIlleggsrepresentant (AAR)
+report.account.creation.urid = URID
+
+report.account.creation.instalation.details = Info om installasjon
+report.account.creation.installation.name = Navn
+report.account.creation.installation.identifier = Identifier
+report.account.creation.installation.compliance.status = Compliance Status
+report.account.creation.installation.eper.identification = EPER identification
+report.account.creation.installation.parent.company = Parent Company
+report.account.creation.installation.sub.company = Subsidiary Company
+
+report.account.creation.instalation.contact.person.details = Info om kontaktperson for installasjonen
+report.account.creation.permit = Permit Information
+report.account.creation.permit.identifier = Tillatelsesnummer
+report.account.creation.permit.entry.date = Permit Entry Date
+report.account.creation.permit.expiry.date = Permit Expiry Date
+report.account.creation.permit.revocation.date = Permit Revocation Date
+
+report.account.creation.installation.latitude = Latitude
+report.account.creation.installation.longitude = Longitude
+report.account.creation.installation.activity = Activity
+report.account.creation.installation.activity_1 = Combustion Thermal More Than Twenty MW
+report.account.creation.installation.activity_2 = Mineral Oil Refineries
+report.account.creation.installation.activity_3 = Coke Ovens
+report.account.creation.installation.activity_4 = Metal ORE Roast SINT Installations
+report.account.creation.installation.activity_5 = Production PIG IRON STEEL CONT Casting
+report.account.creation.installation.activity_6 = Production Cement Rotary Furnaces
+report.account.creation.installation.activity_7 = Manufacture Glass Fibre 
+report.account.creation.installation.activity_8 = Production Ceramics Bricks Porcelain
+report.account.creation.installation.activity_9 = Production Pulp Other
+report.account.creation.installation.activity_99 = Other Activity
+report.account.creation.installation.activity_20 = Forbrenning av brensler
+report.account.creation.installation.activity_21 = Raffinering av mineralolje
+report.account.creation.installation.activity_22 = Produksjon av koks
+report.account.creation.installation.activity_23 = R\u00f8sting eller sintring av malm
+report.account.creation.installation.activity_24 = Produksjon av r\u00e5jern eller st\u00e5l
+report.account.creation.installation.activity_25 = Produksjon eller behandling av jernholdige metaller
+report.account.creation.installation.activity_26 = Produksjon av prim\u00e6raluminium
+report.account.creation.installation.activity_27 = Produksjon av sekund\u00e6raluminium
+report.account.creation.installation.activity_28 = Produksjon eller behandling av ikke-jernholdige metaller
+report.account.creation.installation.activity_29 = Produksjon av sementklinker
+report.account.creation.installation.activity_30 = Produksjon av kalk eller r\u00f8sting av dolomitt eller magnesitt
+report.account.creation.installation.activity_31 = Framstilling av glass
+report.account.creation.installation.activity_32 = Framstilling av keramiske produkter
+report.account.creation.installation.activity_33 = Framstilling av mineralull
+report.account.creation.installation.activity_34 = Produksjon eller framstilling av gips eller gipsplater
+report.account.creation.installation.activity_35 = Produksjon av papirmasse
+report.account.creation.installation.activity_36 = Produksjon av papir eller papp
+report.account.creation.installation.activity_37 = Produksjon av karbonst\u00f8v
+report.account.creation.installation.activity_38 = Framstilling av salpetersyre
+report.account.creation.installation.activity_39 = Framstilling av adipinsyre
+report.account.creation.installation.activity_40 = Framstilling av glyoksal og glyoksylsyre
+report.account.creation.installation.activity_41 = Framstilling av ammoniakk
+report.account.creation.installation.activity_42 = Produksjon av kjemikalier i bulk
+report.account.creation.installation.activity_43 = Framstilling av hydrogen og syntesegass
+report.account.creation.installation.activity_44 = Produksjon av natriumkarbonat og natriumhydrogenkarbonat
+report.account.creation.installation.activity_45 = Fangst av klimagasser i henhold til direktiv 2009/31/EF
+report.account.creation.installation.activity_46 = Transport av klimagasser i henhold til direktiv 2009/31/EF
+report.account.creation.installation.activity_47 = Lagring av klimagasser i henhold til direktiv 2009/31/EF
+
+
+report.account.creation.job.details = Info om arbeidsplass
+report.account.creation.job.details.title =  Tittel
+report.account.creation.job.details.company.name = Virksomhetsnavn
+report.account.creation.job.details.company.dept = Avdeling i virksomheten 
+                                                            
+report.account.creation.request.details = Request Details
+report.account.creation.request.id = Identifier
+report.account.creation.request.requester.urid = Requester URID
+report.account.creation.request.status = Status
+report.account.creation.request.timestamp = Date
+                                                            
+report.account.creation.aircraft.operator.title = Info om flyoperatør
+report.account.creation.aircraft.operator.name = Navn
+report.account.creation.aircraft.operator.identifier = Identifier
+report.account.creation.aircraft.operator.call.sign = Call Sign
+report.account.creation.aircraft.operator.code = Code
+report.account.creation.aircraft.permit.name = Permit Name
+report.account.creation.aircraft.monitoring.plan = Monitoring Plan Information
+report.account.creation.aircraft.monitoring.plan.identifier = Identifier
+report.account.creation.aircraft.monitoring.plan.first.year.applicability = First Year of Applicability
+report.account.creation.aircraft.monitoring.plan.expiry.date = Expiry Date
+
+report.account.creation.contact.person.title = Info om kontaktperson
+report.account.creation.contact.person.name = Fornavn
+report.account.creation.contact.person.lastname = Etternavn
+
+report.account.creation.companyDetails = Info om virksomheten
+report.account.creation.companyDetails.companyRegistrationNumber = Organisasjonsnummer
+report.account.creation.companyDetails.vatNumber = VAT number (gjelder utenlandske virksomheter)
+report.account.creation.birthDetails = Fødselsopplysninger
+report.account.creation.birthDetails.idNumber = Personnummer (11 siffer)
+report.account.creation.birthDetails.country = Land
+report.account.creation.birthDetails.date = Fødselsdato
+report.account.creation.birthDetails.place = Fødselssted (by/kommune)
+report.account.creation.identityDocument = Passopplysninger
+report.account.creation.identityDocument.id = Passnummer
+report.account.creation.identityDocument.expiryDate = Utløpsdato
+report.account.creation.identityDocument.type = Utsteder/myndighet
+identityDocumentType_NATIONAL_ID_CARD = National ID Card
+identityDocumentType_SPECIAL_ID_CARD = Special ID Card
+identityDocumentType_PASSPORT = Passport
+
+role_AUTHORISED_REPRESENTATIVE = Kontorepresentant
+role_ADDITIONAL_AUTHORISED_REPRESENTATIVE = Tilleggsrepresentant (AAR)
+role_AUDITOR_FOR_AR = TIlleggsrepresentant (kun lesetilgang)
+
+report.account.creation.contract.role = Rolle
+report.account.creation.contract.title = BRUKERAVTALE - {0}
+
+#
+# Account creation contract report per-registry customization - END. 
+#
+NO.report.account.creation.contract.before.0.title = Åpning av driftskonto for luftfartøyoperatører
+NO.report.account.creation.contract.before.1.text = Enhver bruker av det norske kvoteregisteret er bundet av de regler som er angitt i EUs forordning 920/2010 om et standardisert og sikkert registersystem, og forordning 1193/2011 om etablering av et unionsregister for handelsperioden 2013-2020 og senere handelsperioder.
+NO.report.account.creation.contract.before.2.text = 
+NO.report.account.creation.contract.before.3.text = Ved en ekstern overføring fra det norske kvoteregisteret til et utenlandsk register, bør brukeren også sette seg inn i de vilkår og betingelser som gjelder for det utenlandske kvoteregisteret involvert i transaksjonen.
+NO.report.account.creation.contract.before.4.text = 
+NO.report.account.creation.contract.before.5.text = Klima- og forurensningsdirektoratet (Klif) administrerer det norske kvoteregisteret.
+NO.report.account.creation.contract.before.6.text = 
+NO.report.account.creation.contract.before.7.text = 
+NO.report.account.creation.contract.before.8.title = Brukeravtale for det norske kvoteregister
+NO.report.account.creation.contract.before.9.text = Både norske og utenlandske personer og virksomheter kan søke om konto i kvoteregisteret. Før Klif kan godkjenne en søknad og aktivere kontoen, må alle søknadskriterier og betingelser være oppfylt.
+NO.report.account.creation.contract.before.10.text = Disse står oppført i gjeldende brukeravtale for det norske kvoteregisteret, og kan lastes ned fra nettsiden
+NO.report.account.creation.contract.before.11.text = \u0020\u0020\u0020\u0020\u0020\u0020<a href='http://www.kvoteregister.no'>http://www.kvoteregister.no</a>
+NO.report.account.creation.contract.before.12.text = Ethvert brudd på reglene som gjelder kontosøknader eller tilhørende innsendt dokumentasjon, tolereres ikke og vil føre til automatisk avslag. Merk at dersom et slikt brudd oppdages etter at konto er åpnet, og det viser seg at konto er åpnet på feil grunnlag, vil registeradministrator stenge kontoen umiddelbart uten noen form for advarsel til kontoinnehaver. Mistanke om dokumentforfalskning vil bli politianmeldt.
+NO.report.account.creation.contract.before.13.title = Gebyr 
+NO.report.account.creation.contract.before.14.text = I henhold til § 8-2 i klimakvoteforskriften skal det betales et gebyr på NOK 400 for Klifs behandling av søknad om opprettelse av konto i kvoteregisteret. Etter at gebyret er betalt, og innbetalingen er blitt verifisert i direktoratets interne økonomisystem, vil kontoen aktiveres.
+NO.report.account.creation.contract.before.15.text = I henhold til § 8-3 i klimakvoteforskriften skal det for hvert kalenderår etter opprettelse av konto i kvoteregisteret, betales et årlig gebyr på NOK 400 for hver konto som innehas i registeret. Det årlige gebyret forfaller til betaling 15. februar det aktuelle året. Dersom gebyret ikke er betalt innen 15. februar, vil tilgang til den aktuelle kontoen bli sperret for de autoriserte brukerne av kontoen. Tilgang til kontoen vil bli gitt tilbake når gebyret er betalt.
+NO.report.account.creation.contract.before.16.text = 
+NO.report.account.creation.contract.before.17.title = Innsending av skjema
+NO.report.account.creation.contract.before.18.text = Alle dokumenter som Klif krever av kontohaver, jf. brukeravtalen, må sendes pr. post til direktoratet
+NO.report.account.creation.contract.before.19.text = \u0020\u0020\u0020\u0020\u0020\u0020Det norske kvoteregisteret v/Klima- og forurensningsdirektoratet (Klif)
+NO.report.account.creation.contract.before.20.text = \u0020\u0020\u0020\u0020\u0020\u0020Postboks 8100 Dep
+NO.report.account.creation.contract.before.21.text = \u0020\u0020\u0020\u0020\u0020\u00200032 Oslo
+NO.report.account.creation.contract.before.22.break = 
+NO.report.account.creation.contract.before.23.title = KONTRAKT personkonto
+NO.report.account.creation.contract.before.24.text = Jeg, ............................................................................... (sett inn fullt navn), bekrefter at
+NO.report.account.creation.contract.before.25.text = \u0020\u0020\u0020\u0020\u0020\u0020- all informasjon om meg er korrekt,
+NO.report.account.creation.contract.before.26.text = \u0020\u0020\u0020\u0020\u0020\u0020- Klima- og forurensningsdirektoratet kan bruke denne informasjonen til arbeid som gjelder kvoteregisteret (denne
+NO.report.account.creation.contract.before.27.text = \u0020\u0020\u0020\u0020\u0020\u0020  informasjonen behandles strengt konfidensiell).
+NO.report.account.creation.contract.before.28.text = \u0020\u0020\u0020\u0020\u0020\u0020- jeg har lest og akseptert gjeldene brukeravtale for kvoteregisteret
+NO.report.account.creation.contract.before.29.text = \u0020\u0020\u0020\u0020\u0020\u0020- alle kontorepresentantene har fullmakt til å administrere kontoen på vegne av kontohaveren
+NO.report.account.creation.contract.before.30.text = 
+NO.report.account.creation.contract.before.31.text = 
+NO.report.account.creation.contract.before.32.text =
+NO.report.account.creation.contract.before.33.text = Kontrakt signert ............................... (sted) den ............................... (dato)
+NO.report.account.creation.contract.before.34.text = 
+NO.report.account.creation.contract.before.35.title = Signatur
+NO.report.account.creation.contract.before.36.text = 
+NO.report.account.creation.contract.before.37.text = ................................................................................
+# NO.report.account.creation.contract.accountHolder.before
+NO.report.account.creation.contract.accountHolder.after.0.title = Opplysninger om kontosøker
+NO.report.account.creation.contract.accountHolder.after.1.text = Se gjeldene brukeravtale på nettsiden <a href='http://www.kvoteregister.no'>http://www.kvoteregister.no</a>
+NO.report.account.creation.contract.accountHolder.after.2.text = 
+NO.report.account.creation.contract.accountHolder.after.3.text = Brukeravtalen stiller ulike krav. Blant annet:
+NO.report.account.creation.contract.accountHolder.after.4.text = \u0020\u0020\u0020\u0020\u0020\u0020 1. krav til opplysninger i søknaden 
+NO.report.account.creation.contract.accountHolder.after.5.text = \u0020\u0020\u0020\u0020\u0020\u0020 2. krav til kontohaver og kontorepresentanter, for eksempel hvem som kan representere en kontohaver i registeret
+NO.report.account.creation.contract.accountHolder.after.6.text = \u0020\u0020\u0020\u0020\u0020\u0020 3. dokumentasjonskrav
+NO.report.account.creation.contract.accountHolder.after.7.text = \u0020\u0020\u0020\u0020\u0020\u0020 4. krav om bekreftelser av dokumenter, i tillegg til sporbarhet av utsteder og gyldighet av utenlandske dokumenter
+NO.report.account.creation.contract.accountHolder.after.8.text = \u0020\u0020\u0020\u0020\u0020\u0020    til bruk i Norge (legalisering).
+NO.report.account.creation.contract.accountHolder.after.9.text = \u0020\u0020\u0020\u0020\u0020\u0020 5. krav om oversettelse av dokumentene til norsk eller engelsk, og krav til oversetter
+NO.report.account.creation.contract.accountHolder.after.10.text = \u0020\u0020\u0020\u0020\u0020\u0020 6. datasikkerhetskrav og tiltak for sikker bruk av registeret
+NO.report.account.creation.contract.accountHolder.after.11.text = \u0020\u0020\u0020\u0020\u0020\u0020 7. krav om betaling av gebyr for oppretting av konto før aktivering av konto
+NO.report.account.creation.contract.accountHolder.after.12.text = 
+NO.report.account.creation.contract.accountHolder.after.13.text = Dersom ikke kravene i brukeravtalen blir fulgt, kan brukere eller virksomheter bli suspendert fra registeret.
+NO.report.account.creation.contract.accountHolder.after.14.text = 
+NO.report.account.creation.contract.accountHolder.after.15.title = Kontohavers signatur
+NO.report.account.creation.contract.accountHolder.after.16.text = 
+NO.report.account.creation.contract.accountHolder.after.17.text = 
+NO.report.account.creation.contract.accountHolder.after.18.text = 
+NO.report.account.creation.contract.accountHolder.after.19.text = 
+NO.report.account.creation.contract.accountHolder.after.20.text = ................................................................................
+# NO.report.account.creation.contract.authorisedRep.before
+NO.report.account.creation.contract.authorisedRep.after.0.text =
+NO.report.account.creation.contract.authorisedRep.after.1.title = MERK
+NO.report.account.creation.contract.authorisedRep.after.2.text = Det er viktig at korrekte e-postadresser og mobilnummer oppgis i kontosøknaden, da mye informasjon fra det norske registeret sendes til kontorepresentantene fra pr. e-post og mobil.
+NO.report.account.creation.contract.authorisedRep.after.3.title = Bekreftelse og signatur
+NO.report.account.creation.contract.authorisedRep.after.4.text = Jeg bekrefter at all informasjon om meg er korrekt, og at Klima- og forurensningsdirektoratet kan bruke denne informasjonen til arbeid som gjelder kvoteregisteret. Informasjonen blir behandlet strengt konfidensielt. Jeg bekrefter også at jeg har lest og akseptert gjeldene brukeravtale for kvoteregisteret.
+NO.report.account.creation.contract.authorisedRep.after.5.text =
+NO.report.account.creation.contract.authorisedRep.after.6.title = Kontoprepresentantens signatur
+NO.report.account.creation.contract.authorisedRep.after.7.text = 
+NO.report.account.creation.contract.authorisedRep.after.8.text = 
+NO.report.account.creation.contract.authorisedRep.after.9.text = 
+NO.report.account.creation.contract.authorisedRep.after.10.text = 
+NO.report.account.creation.contract.authorisedRep.after.11.text = ................................................................................
+# NO.report.account.creation.contract.additionalRep.before
+NO.report.account.creation.contract.additionalRep.after.0.text =
+NO.report.account.creation.contract.additionalRep.after.1.title = MERK
+NO.report.account.creation.contract.additionalRep.after.2.text = Det er viktig at korrekt e-postadresse og mobilnummer oppgis, slik at informasjon kan sendes til kontorepresentantene fra registeret eller registeradministrator.
+NO.report.account.creation.contract.additionalRep.after.3.title = Bekreftelse og signatur
+NO.report.account.creation.contract.additionalRep.after.4.text = Jeg bekrefter at all informasjon om meg er korrekt, og at Klima- og forurensningsdirektoratet kan bruke denne informasjonen til arbeid som gjelder kvoteregisteret. Informasjonen blir behandlet strengt konfidensielt. Jeg bekrefter også at jeg har lest og akseptert gjeldene brukeravtale for kvoteregisteret.
+NO.report.account.creation.contract.additionalRep.after.5.text =
+NO.report.account.creation.contract.additionalRep.after.6.title = Kontoprepresentantens signatur
+NO.report.account.creation.contract.additionalRep.after.7.text = 
+NO.report.account.creation.contract.additionalRep.after.8.text = 
+NO.report.account.creation.contract.additionalRep.after.9.text = 
+NO.report.account.creation.contract.additionalRep.after.10.text = 
+NO.report.account.creation.contract.additionalRep.after.11.text = ................................................................................
+# NO.report.account.creation.contract.operator.before 
+# NO.report.account.creation.contract.operator.after
+# NO.report.account.creation.contract.after

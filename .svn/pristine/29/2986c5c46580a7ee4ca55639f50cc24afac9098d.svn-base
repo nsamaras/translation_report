@@ -1,0 +1,294 @@
+#Report localizations
+
+eu.europa.ec.clima.eucr.services.processes.account.reports.AccountCreationSummaryReport = Shrnut\u00ed informac\u00ed o z\u0159izovan\u00e9m \u00fa\u010dtu
+
+
+
+report.account.creation.title = Shrnut\u00ed informac\u00ed o \u00fa\u010dtu \u010d. {0}
+report.account.creation.account.details = Informace o \u00fa\u010dtu
+report.account.creation.name = Jm\u00e9no
+report.account.creation.identifier = Identifik\u00e1tor
+report.account.creation.commitment.period = Obchodovac\u00ed obdob\u00ed
+report.account.creation.kyoto.account.type = Typ \u00fa\u010dtu Kj\u00f3to
+report.account.creation.ets.account.type = Typ \u00fa\u010dtu ETS
+report.account.creation.opening.date = Datum otev\u0159en\u00ed
+report.account.creation.closing.date = Datum uzav\u0159en\u00ed
+report.account.creation.hosting.registry = Hostitelsk\u00fd rejst\u0159\u00edk
+
+report.account.creation.commitment.period_0 = 0. obchodovac\u00ed obdob\u00ed
+report.account.creation.commitment.period_1 = 1. obchodovac\u00ed obdob\u00ed
+report.account.creation.commitment.period_2 = 2. obchodovac\u00ed obdob\u00ed
+report.account.creation.commitment.period_3 = 3. obchodovac\u00ed obdob\u00ed
+
+report.account.creation.kyoto.account.type_HOLDING_ACCOUNT = Vkladov\u00fd \u00fa\u010det
+report.account.creation.kyoto.account.type_PENDING_ACCOUNT = P\u0159echodn\u00fd \u00fa\u010det
+report.account.creation.kyoto.account.type_OPERATOR_HOLDING_ACCOUNT = Vkladov\u00fd \u00fa\u010det provozovatele za\u0159\u00edzen\u00ed
+report.account.creation.kyoto.account.type_PERSON_HOLDING_ACCOUNT = Osobn\u00ed vkladov\u00fd \u00fa\u010det
+report.account.creation.kyoto.account.type_NET_SOURCE_CANCELLATION_ACCOUNT = \u00da\u010det pro zru\u0161en\u00ed - \u010dist\u00fd zdroj
+report.account.creation.kyoto.account.type_NON_COMPLIANCE_CANCELLATION_ACOUNT = \u00da\u010det pro zru\u0161en\u00ed - nespln\u011bn\u00ed
+report.account.creation.kyoto.account.type_VOLUNTARY_CANCELLATION_ACCOUNT = \u00da\u010det pro dobrovoln\u00e9 zru\u0161en\u00ed
+report.account.creation.kyoto.account.type_EXCESS_ISSUANCE_CANCELLATION_ACCOUNT = \u00da\u010det pro zru\u0161en\u00ed - nadm\u011brn\u00e9 vyd\u00e1n\u00ed
+report.account.creation.kyoto.account.type_MANDATORY_CANCELLATION_ACCOUNT= \u00da\u010det pro povinn\u00e9 zru\u0161en\u00ed
+report.account.creation.kyoto.account.type_RETIREMENT_ACCOUNT = \u00da\u010det pro odebr\u00e1n\u00ed
+report.account.creation.kyoto.account.type_TCER_REPLACEMENT_ACCOUNT_EXPIRY = \u00da\u010det pro nahrazen\u00ed jednotek tCER \u2013 konec platnosti                                 
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_EXPIRY = \u00da\u010det pro nahrazen\u00ed jednotek ICER \u2013 konec platnosti                                
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_REVERSAL_CARBON_STORAGE = \u00da\u010det pro nahrazen\u00ed jednotek ICER \u2013 zru\u0161en\u00ed \u00faschovy                
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_FAIL_SUBMISSION_CERT_REP = \u00da\u010det pro nahrazen\u00ed jednotek ICER \u2013 nep\u0159edlo\u017een\u00ed certifika\u010dn\u00ed zpr\u00e1vy
+
+report.account.creation.ets.account.type_NONE = \u017d\u00e1dn\u00fd
+report.account.creation.ets.account.type_AAU_DEPOSIT = \u00da\u010det pro ulo\u017een\u00ed AAU
+report.account.creation.ets.account.type_CENTRAL_CLEARING = \u00dast\u0159edn\u00ed z\u00fa\u010dtovac\u00ed \u00fa\u010det
+report.account.creation.ets.account.type_GATEWAY_DEPOSIT = Vstupn\u00ed vkladov\u00fd \u00fa\u010det
+report.account.creation.ets.account.type_UNION_ALLOWANCE_DELETION = \u00da\u010det pro vymaz\u00e1n\u00ed povolenek                                                                 
+report.account.creation.ets.account.type_AVIATION_SURRENDER_SETASIDE = Rezervn\u00ed \u00fa\u010det pro odevzd\u00e1n\u00ed povolenek letectv\u00ed
+report.account.creation.ets.account.type_OPERATOR_HOLDING = Vkladov\u00fd \u00fa\u010det provozovatele za\u0159\u00edzen\u00ed
+report.account.creation.ets.account.type_PERSON_HOLDING = Osobn\u00ed vkladov\u00fd \u00fa\u010det
+report.account.creation.ets.account.type_AIRCRAFT_OPERATOR = Vkladov\u00fd \u00fa\u010det provozovatele letadla
+report.account.creation.ets.account.type_VERIFIER = \u00da\u010det ov\u011b\u0159ovatele
+report.account.creation.ets.account.type_NATIONAL_ALLOWANCE_HOLDING = N\u00e1rodn\u00ed vkladov\u00fd \u00fa\u010det pro povolenky
+report.account.creation.ets.account.type_TRADING_PLATFORM = \u00da\u010det extern\u00ed platformy
+
+report.account.creation.account.holder.title = Informace o dr\u017eiteli \u00fa\u010dtu
+report.account.creation.account.holder.name = N\u00e1zev
+report.account.creation.account.holder.identifier = Identifik\u00e1tor
+
+report.account.creation.contact = Kontaktn\u00ed \u00fadaje
+report.account.creation.contact.firstname = Jm\u00e9no
+report.account.creation.contact.lastname = P\u0159\u00edjmen\u00ed
+report.account.creation.contact.phone.number = Telefon
+report.account.creation.contact.line1 = Adresa
+report.account.creation.contact.line2 = Adresa (pokra\u010dov\u00e1n\u00ed)
+report.account.creation.contact.postcode = PS\u010c
+report.account.creation.contact.city = M\u011bsto
+report.account.creation.contact.region = Region
+report.account.creation.contact.country = Zem\u011b
+report.account.creation.contact.email = Email
+
+report.account.creation.account.holder.representative.title = Zmocn\u011bn\u00fd z\u00e1stupce
+report.account.creation.account.holder.addRepresentative.title = Dal\u0161\u00ed zmocn\u011bn\u00fd z\u00e1stupce
+report.account.creation.urid = URID
+
+report.account.creation.instalation.details = Informace o za\u0159\u00edzen\u00ed
+report.account.creation.installation.name = N\u00e1zev
+report.account.creation.installation.identifier = Identifik\u00e1tor
+report.account.creation.installation.compliance.status = Stav spln\u011bn\u00ed
+report.account.creation.installation.eper.identification = EPRTR k\u00f3d
+report.account.creation.installation.parent.company = Mate\u0159sk\u00e1 spole\u010dnost
+report.account.creation.installation.sub.company = Dce\u0159in\u00e1 spole\u010dnost
+
+report.account.creation.instalation.contact.person.details = Informace o kontaktn\u00ed osob\u011b na za\u0159\u00edzen\u00ed
+report.account.creation.permit = Informace o povolen\u00ed
+report.account.creation.permit.identifier = \u010c\u00edslo povolen\u00ed
+report.account.creation.permit.entry.date = Datum vyd\u00e1n\u00ed povolen\u00ed
+report.account.creation.permit.expiry.date = Datum ukon\u010den\u00ed platnosti povolen\u00ed
+report.account.creation.permit.revocation.date = Datum odebr\u00e1n\u00ed povolen\u00ed
+
+report.account.creation.installation.latitude = Zem\u011bpisn\u00e1 \u0161\u00ed\u0159ka
+report.account.creation.installation.longitude = Zem\u011bpisn\u00e1 d\u00e9lka
+report.account.creation.installation.activity = Typ \u010dinnosti
+report.account.creation.installation.activity_1 = Tepeln\u00e1 spalovac\u00ed za\u0159\u00edzen\u00ed (v\u00edce ne\u017e 20 MW)
+report.account.creation.installation.activity_2 = Rafinerie miner\u00e1ln\u00edch olej\u016f
+report.account.creation.installation.activity_3 = Koksovny
+report.account.creation.installation.activity_4 = Za\u0159\u00edzen\u00ed na pra\u017een\u00ed nebo sp\u00e9k\u00e1n\u00ed kovov\u00fdch rud
+report.account.creation.installation.activity_5 = Za\u0159\u00edzen\u00ed na v\u00fdrobu surov\u00e9ho \u017eeleza nebo ocele
+report.account.creation.installation.activity_6 = Rota\u010dn\u00ed pece na v\u00fdrobu cementov\u00e9ho slinku
+report.account.creation.installation.activity_7 = Za\u0159\u00edzen\u00ed na v\u00fdrobu sklen\u011bn\u00fdch vl\u00e1ken
+report.account.creation.installation.activity_8 = Cihelny, porcel\u00e1nky, v\u00fdroba keramiky 
+report.account.creation.installation.activity_9 = Za\u0159\u00edzen\u00ed na v\u00fdroby buni\u010diny
+report.account.creation.installation.activity_99 = Jin\u00e1 \u010dinnost podle \u010dl. 24 sm\u011brnice 2003/87/ES
+report.account.creation.installation.activity_20 = Spalov\u00e1n\u00ed paliva
+report.account.creation.installation.activity_21 = Rafinace miner\u00e1ln\u00edch olej\u016f
+report.account.creation.installation.activity_22 = V\u00fdroba koksu
+report.account.creation.installation.activity_23 = Za\u0159\u00edzen\u00ed na pra\u017een\u00ed nebo slinov\u00e1n\u00ed kovov\u00e9 rudy
+report.account.creation.installation.activity_24 = V\u00fdroba surov\u00e9ho \u017eeleza \u010di oceli
+report.account.creation.installation.activity_25 = V\u00fdroba nebo zpracov\u00e1n\u00ed \u017eelezn\u00fdch kov\u016f
+report.account.creation.installation.activity_26 = V\u00fdroba prim\u00e1rn\u00edho hlin\u00edku
+report.account.creation.installation.activity_27 = V\u00fdroba sekund\u00e1rn\u00edho hlin\u00edku
+report.account.creation.installation.activity_28 = V\u00fdroba nebo zpracov\u00e1n\u00ed ne\u017eelezn\u00fdch kov\u016f
+report.account.creation.installation.activity_29 = V\u00fdroba cementov\u00e9ho sl\u00ednku
+report.account.creation.installation.activity_30 = V\u00fdroba v\u00e1pna nebo kalcinace dolomitu/magnezitu
+report.account.creation.installation.activity_31 = V\u00fdroba skla
+report.account.creation.installation.activity_32 = V\u00fdroba keramiky
+report.account.creation.installation.activity_33 = V\u00fdroba miner\u00e1ln\u00ed vlny
+report.account.creation.installation.activity_34 = V\u00fdroba nebo zpracov\u00e1n\u00ed s\u00e1drovce nebo s\u00e1drokartonov\u00fdch desek
+report.account.creation.installation.activity_35 = V\u00fdroba buni\u010diny
+report.account.creation.installation.activity_36 = V\u00fdroba pap\u00edru nebo lepenky
+report.account.creation.installation.activity_37 = V\u00fdroba saz\u00ed
+report.account.creation.installation.activity_38 = V\u00fdroba kyseliny dusi\u010dn\u00e9
+report.account.creation.installation.activity_39 = V\u00fdroba kyseliny adipov\u00e9
+report.account.creation.installation.activity_40 = V\u00fdroba glyoxalu a kyseliny glyoxylov\u00e9
+report.account.creation.installation.activity_41 = V\u00fdroba \u010dpavku
+report.account.creation.installation.activity_42 = Mno\u017estevn\u00ed v\u00fdroba chemik\u00e1li\u00ed
+report.account.creation.installation.activity_43 = V\u00fdroba vod\u00edku a syntetick\u00e9ho plynu
+report.account.creation.installation.activity_44 = V\u00fdroba uhli\u010ditanu sodn\u00e9ho a hydrogenuhli\u010ditanu sodn\u00e9ho
+report.account.creation.installation.activity_45 = Zachyt\u00e1v\u00e1n\u00ed sklen\u00edkov\u00fdch plyn\u016f podle sm\u011brnice 2009/31/ES
+report.account.creation.installation.activity_46 = P\u0159eprava sklen\u00edkov\u00fdch plyn\u016f podle sm\u011brnice 2009/31/ES
+report.account.creation.installation.activity_47 = Ukl\u00e1d\u00e1n\u00ed sklen\u00edkov\u00fdch plyn\u016f podle sm\u011brnice 2009/31/ES
+
+report.account.creation.job.details = Informace o zam\u011bstn\u00e1n\u00ed
+report.account.creation.job.details.title = Funkce
+report.account.creation.job.details.company.name = N\u00e1zev spole\u010dnosti
+report.account.creation.job.details.company.dept = Odd\u011blen\u00ed spole\u010dnosti
+
+report.account.creation.request.details = Informace o \u017e\u00e1dosti
+report.account.creation.request.id = Identifik\u00e1tor
+report.account.creation.request.requester.urid = URID \u017eadatele
+report.account.creation.request.status = Status
+report.account.creation.request.timestamp = Datum
+
+report.account.creation.aircraft.operator.title= Informace o provozovateli letadla
+report.account.creation.aircraft.operator.name = N\u00e1zev
+report.account.creation.aircraft.operator.identifier = Identifik\u00e1tor
+report.account.creation.aircraft.operator.call.sign = Volac\u00ed znak (k\u00f3d ICAO)
+report.account.creation.aircraft.operator.code = Jedine\u010dn\u00fd k\u00f3d podle na\u0159\u00edzen\u00ed Komise \u010d. 748/2009
+report.account.creation.aircraft.permit.name = Povolen\u00ed
+report.account.creation.aircraft.monitoring.plan = Informace o monitorovac\u00edm pl\u00e1nu
+report.account.creation.aircraft.monitoring.plan.identifier = \u010c\u00edslo monitorovac\u00edho pl\u00e1nu
+report.account.creation.aircraft.monitoring.plan.first.year.applicability = Prvn\u00ed rok pou\u017eitelnosti monitorovac\u00edho pl\u00e1nu
+report.account.creation.aircraft.monitoring.plan.expiry.date = Datum ukon\u010den\u00ed platnosti monitorovac\u00edho pl\u00e1nu
+
+report.account.creation.contact.person.title= Informace o kontaktn\u00ed osob\u011b
+report.account.creation.contact.person.name= Jm\u00e9no
+report.account.creation.contact.person.lastname= P\u0159\u00edjmen\u00ed
+
+report.account.creation.companyDetails = Informace o spole\u010dnosti
+report.account.creation.companyDetails.companyRegistrationNumber = I\u010c
+report.account.creation.companyDetails.vatNumber = DI\u010c
+report.account.creation.birthDetails = Informace o narozen\u00ed
+report.account.creation.birthDetails.idNumber = Identifika\u010dn\u00ed \u010d\u00edslo
+report.account.creation.birthDetails.country = Zem\u011b narozen\u00ed
+report.account.creation.birthDetails.date = Datum narozen\u00ed
+report.account.creation.birthDetails.place = M\u00edsto narozen\u00ed
+report.account.creation.identityDocument = Doklad toto\u017enosti
+report.account.creation.identityDocument.id = \u010c\u00edslo dokladu toto\u017enosti
+report.account.creation.identityDocument.expiryDate = Datum ukon\u010den\u00ed platnosti dokladu toto\u017enosti
+report.account.creation.identityDocument.type = Typ dokladu toto\u017enosti
+identityDocumentType_NATIONAL_ID_CARD = Ob\u010dansk\u00fd pr\u016fkaz
+identityDocumentType_SPECIAL_ID_CARD = Jin\u00fd doklad toto\u017enosti
+identityDocumentType_PASSPORT = Pas
+
+role_AUTHORISED_REPRESENTATIVE = Zmocn\u011bn\u00fd z\u00e1stupce
+role_ADDITIONAL_AUTHORISED_REPRESENTATIVE = Dal\u0161\u00ed zmocn\u011bn\u00fd z\u00e1stupce
+role_AUDITOR_FOR_AR = Dal\u0161\u00ed zmocn\u011bn\u00fd z\u00e1stupce (p\u0159\u00edstup pouze pro \u010dten\u00ed)
+
+report.account.creation.contract.role = Role
+report.account.creation.contract.title = P\u0159\u00edloha \u010d. 1 - Z\u00e1stupci pro komunikaci; \u00fa\u010det \u010d. {0}
+
+
+#
+# Account creation contract report per-registry customization - START.
+#
+# Format is: [registry_code].[placeholder].[index].[entry_type]
+#
+# Available placeholders are:
+# - At the document start (XX.report.account.creation.contract.before).
+# - Before the account holder section (XX.report.account.creation.contract.accountHolder.before).
+# - After the account holder section (XX.report.account.creation.contract.accountHolder.after).
+# - Before all AHRs (XX.report.account.creation.contract.authorisedRep.beforeAll).
+# - Before each AHR (XX.report.account.creation.contract.authorisedRep.before).
+# - After each AHR (XX.report.account.creation.contract.authorisedRep.after).
+# - After all AHRs (XX.report.account.creation.contract.authorisedRep.afterAll).
+# - Before all AARs (XX.report.account.creation.contract.additionalRep.beforeAll).
+# - Before each AAR (XX.report.account.creation.contract.additionalRep.before).
+# - After each AAR (XX.report.account.creation.contract.additionalRep.after).
+# - After all AARs (XX.report.account.creation.contract.additionalRep.afterAll).
+# - Before the operator section (XX.report.account.creation.contract.operator.before).
+# - After the operator section (XX.report.account.creation.contract.operator.after).
+# - At the document end (XX.report.account.creation.contract.after).
+# Available entry types are:
+# - text: Add a line of text (can be empty for extra spacing).
+# - title: A title line.
+# - break: A page break.
+
+CZ.report.account.creation.contract.before.0.text = 
+CZ.report.account.creation.contract.before.1.title = P\u0159\u00edloha \u010d. 1 - Z\u00e1stupci pro komunikaci
+CZ.report.account.creation.contract.before.2.text = ke Smlouv\u011b o z\u0159\u00edzen\u00ed a veden\u00ed \u00fa\u010dtu v rejst\u0159\u00edku pro obchodov\u00e1n\u00ed s jednotkami p\u0159id\u011blen\u00e9ho mno\u017estv\u00ed (povolenkami) emis\u00ed sklen\u00edkov\u00fdch plyn\u016f a \u00faprav\u011b souvisej\u00edc\u00edch vztah\u016f
+CZ.report.account.creation.contract.before.3.text = 
+CZ.report.account.creation.contract.before.4.text = 
+CZ.report.account.creation.contract.before.5.text = Spr\u00e1vce rejst\u0159\u00edku V\u00e1m do dvou t\u00fddn\u016f za\u0161le na kontaktn\u00ed emailovou adresu dr\u017eitele \u00fa\u010dtu Smlouvu o z\u0159\u00edzen\u00ed a veden\u00ed \u00fa\u010dtu v rejst\u0159\u00edku pro obchodov\u00e1n\u00ed s jednotkami p\u0159id\u011blen\u00e9ho mno\u017estv\u00ed (povolenkami) emis\u00ed sklen\u00edkov\u00fdch plyn\u016f a \u00faprav\u011b souvisej\u00edc\u00edch vztah\u016f k podpisu. 
+CZ.report.account.creation.contract.before.6.text = 
+CZ.report.account.creation.contract.before.7.text = 
+CZ.report.account.creation.contract.before.8.text = \u0158\u00e1dn\u011b podepsanou Smlouvu a P\u0159\u00edlohu \u010d. 1, kterou najdete na n\u00e1sleduj\u00edc\u00edch str\u00e1nk\u00e1ch, za\u0161lete ve dvou vyhotoven\u00edch spolu se v\u0161emi po\u017eadovan\u00fdmi doklady na adresu spr\u00e1vce rejst\u0159\u00edku.
+CZ.report.account.creation.contract.before.9.text = 
+CZ.report.account.creation.contract.before.10.text = Seznam po\u017eadovan\u00fdch doklad\u016f v z\u00e1vislosti na typu otev\u00edran\u00e9ho \u00fa\u010dtu dle platn\u00e9ho zn\u011bn\u00ed Obchodn\u00edch podm\u00ednek naleznete na www.povolenky.cz.
+CZ.report.account.creation.contract.before.11.text = 
+CZ.report.account.creation.contract.before.12.text =
+CZ.report.account.creation.contract.before.13.text = Adresa spr\u00e1vce rejst\u0159\u00edku:
+CZ.report.account.creation.contract.before.14.text = \u0020\u0020\u0020\u0020\u0020\u0020OTE, a.s.
+CZ.report.account.creation.contract.before.15.text = \u0020\u0020\u0020\u0020\u0020\u0020Spr\u00e1va rejst\u0159\u00edku
+CZ.report.account.creation.contract.before.16.text = \u0020\u0020\u0020\u0020\u0020\u0020Sokolovsk\u00e1 192/79
+CZ.report.account.creation.contract.before.17.text = \u0020\u0020\u0020\u0020\u0020\u0020186 00 Praha 8, Karl\u00edn
+CZ.report.account.creation.contract.before.18.text = 
+CZ.report.account.creation.contract.before.19.text = 
+CZ.report.account.creation.contract.before.20.text = V p\u0159\u00edpad\u011b jak\u00fdchkoliv dotaz\u016f n\u00e1s kontaktujte na povolenky@ote-cr.cz.
+CZ.report.account.creation.contract.before.21.text = V\u00edce informac\u00ed najdete na https://www.povolenky.cz.
+CZ.report.account.creation.contract.before.22.break =
+
+CZ.report.account.creation.contract.accountHolder.after.0.text = 
+CZ.report.account.creation.contract.accountHolder.after.1.title = Podpisy statut\u00e1rn\u00edho org\u00e1nu dle z\u00e1pisu v obchodn\u00edm rejst\u0159\u00edku
+CZ.report.account.creation.contract.accountHolder.after.2.text = Statut\u00e1rn\u00ed z\u00e1stupci sv\u00fdm podpisem d\u00e1le stvrzuj\u00ed nominaci Zmocn\u011bn\u00fdch z\u00e1stupc\u016f a Dal\u0161\u00edch zmocn\u011bn\u00fdch z\u00e1stupc\u016f tak, jak jsou uvedeni na dal\u0161\u00edch stran\u00e1ch t\u00e9to P\u0159\u00edlohy \u010d. 1.
+CZ.report.account.creation.contract.accountHolder.after.3.text = 
+CZ.report.account.creation.contract.accountHolder.after.4.text = V ........................................................................... dne ...................................................
+CZ.report.account.creation.contract.accountHolder.after.5.text = 
+CZ.report.account.creation.contract.accountHolder.after.6.text = 
+CZ.report.account.creation.contract.accountHolder.after.7.text = 
+CZ.report.account.creation.contract.accountHolder.after.8.text = 
+CZ.report.account.creation.contract.accountHolder.after.9.text = podpis statut\u00e1rn\u00edho z\u00e1stupce: .........................................................................................
+CZ.report.account.creation.contract.accountHolder.after.10.text = jm\u00e9no a p\u0159\u00edjmen\u00ed statut\u00e1rn\u00edho z\u00e1stupce: .........................................................................
+CZ.report.account.creation.contract.accountHolder.after.11.text = funkce statut\u00e1rn\u00edho z\u00e1stupce: .........................................................................................
+CZ.report.account.creation.contract.accountHolder.after.12.text = 
+CZ.report.account.creation.contract.accountHolder.after.13.text = 
+CZ.report.account.creation.contract.accountHolder.after.14.text = 
+CZ.report.account.creation.contract.accountHolder.after.15.text = 
+CZ.report.account.creation.contract.accountHolder.after.16.text = podpis statut\u00e1rn\u00edho z\u00e1stupce: .........................................................................................
+CZ.report.account.creation.contract.accountHolder.after.17.text = jm\u00e9no a p\u0159\u00edjmen\u00ed statut\u00e1rn\u00edho z\u00e1stupce: .........................................................................
+CZ.report.account.creation.contract.accountHolder.after.18.text = funkce statut\u00e1rn\u00edho z\u00e1stupce: ..........................................................................................
+
+CZ.report.account.creation.contract.authorisedRep.after.0.text = 
+CZ.report.account.creation.contract.authorisedRep.after.1.title = Podpis Zmocn\u011bn\u00e9ho z\u00e1stupce (nutno \u00fa\u0159edn\u011b ov\u011b\u0159it)
+CZ.report.account.creation.contract.authorisedRep.after.2.text = 
+CZ.report.account.creation.contract.authorisedRep.after.3.text = 
+CZ.report.account.creation.contract.authorisedRep.after.4.text = 
+CZ.report.account.creation.contract.authorisedRep.after.5.text = 
+CZ.report.account.creation.contract.authorisedRep.after.6.text = 
+CZ.report.account.creation.contract.authorisedRep.after.7.text = ...............................................................................
+
+CZ.report.account.creation.contract.additionalRep.after.0.text = 
+CZ.report.account.creation.contract.additionalRep.after.1.title = Podpis Dal\u0161\u00edho zmocn\u011bn\u00e9ho z\u00e1stupce (nutno \u00fa\u0159edn\u011b ov\u011b\u0159it)
+CZ.report.account.creation.contract.additionalRep.after.2.text = 
+CZ.report.account.creation.contract.additionalRep.after.3.text = 
+CZ.report.account.creation.contract.additionalRep.after.4.text = 
+CZ.report.account.creation.contract.additionalRep.after.5.text = 
+CZ.report.account.creation.contract.additionalRep.after.6.text = 
+CZ.report.account.creation.contract.additionalRep.after.7.text = ...............................................................................
+#
+# Account creation contract report per-registry customization - END. 
+#
+
+################################## 4/11/2013 v6.2 ##########################
+
+report.account.creation.ets.account.type_CREDIT_EXCHANGE_ACCOUNT =\u00da\u010det pro v\u00fdm\u011bnu kredit\u016f
+report.account.creation.ets.account.type_INTERNATIONAL_CREDIT_ACCOUNT =\u00da\u010det s mezin\u00e1rodn\u00edmi kredity
+report.account.creation.kyoto.account.type_NON_HOLDING =Nevkladov\u00fd \u00fa\u010det
+
+
+############################v6.2.6.2############################
+report.account.creation.kyoto.account.type_PERSON_ACCOUNT_NATIONAL_REG 	= Osobn\u00ed \u00fa\u010det v n\u00e1rodn\u00edm rejst\u0159\u00edku
+
+
+############################ETS-7047############################
+accountStatement_title 	=	V\u00fdpis z \u00fa\u010dtu
+accountStatement_staticComment 	=	Tento v\u00fdpis z \u00fa\u010dtu je vytvo\u0159en na z\u00e1klad\u011b \u00fadaj\u016f z Rejst\u0159\u00edku Unie, kter\u00fd je provozov\u00e1n Evropskou komis\u00ed. V p\u0159\u00edpad\u011b jak\u00fdchkoliv dotaz\u016f se, pros\u00edm, obra\u0165te na sv\u00e9ho n\u00e1rodn\u00edho spr\u00e1vce.
+accountStatement_account	=	\u00da\u010det
+accountStatement_from	=	Od
+accountStatement_to	=	Do
+accountStatement_transationRequests	=	A. \u017d\u00e1dosti o transakci
+accountStatement_pendingTransactions	=	B. Nedokon\u010den\u00e9 transakce
+accountStatement_completedTransactions	=	C. Dokon\u010den\u00e9 transakce
+accountStatement_terminatedTransactions	=	D. Transakce ukon\u010den\u00e9 s chybou
+accountStatement_totalUnitsBeforePeriod	=	Z\u016fstatek na za\u010d\u00e1tku obdob\u00ed
+accountStatement_totalUnitsAfterPeriod	=	Z\u016fstatek na konci obdob\u00ed
+#transaction_title 	=	Transakce
+#transactionDetails_approvalDate 	=	Datum schv\u00e1len\u00ed:
+transactionRequest_title 	=	\u017d\u00e1dost o transakci
+

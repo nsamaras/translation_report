@@ -1,0 +1,217 @@
+#Report localizations
+eu.europa.ec.clima.eucr.services.processes.account.reports.AccountCreationSummaryReport=Resumo do relat\u00F3rio de cria\u00E7\u00E3o de conta 
+
+
+report.account.creation.title = Resumo da informa\u00E7\u00E3o da conta - {0}
+report.account.creation.account.details = Dados da conta
+report.account.creation.name = Nome
+report.account.creation.identifier = Identificador
+report.account.creation.commitment.period = Per\u00EDodo de compromisso
+report.account.creation.kyoto.account.type = Tipo de conta de Quioto
+report.account.creation.ets.account.type = Tipo de conta CELE
+report.account.creation.opening.date = Data de abertura
+report.account.creation.closing.date = Data de encerramento
+report.account.creation.hosting.registry = Registo de alojamento
+
+report.account.creation.commitment.period_0 = Per\u00EDodo de compromisso zero
+report.account.creation.commitment.period_1 = Primeiro per\u00EDodo de compromisso 
+report.account.creation.commitment.period_2 = Segundo per\u00EDodo de compromisso
+report.account.creation.commitment.period_3 = Terceiro per\u00EDodo de compromisso
+
+report.account.creation.kyoto.account.type_NON_HOLDING = N\u00e3o dep\u00f3sito
+report.account.creation.kyoto.account.type_HOLDING_ACCOUNT = Conta de dep\u00F3sito
+report.account.creation.kyoto.account.type_PENDING_ACCOUNT = Conta pendente
+report.account.creation.kyoto.account.type_OPERATOR_HOLDING_ACCOUNT = Conta de dep\u00F3sito de operador
+report.account.creation.kyoto.account.type_PERSON_HOLDING_ACCOUNT = Conta de dep\u00F3sito pessoal
+report.account.creation.kyoto.account.type_NET_SOURCE_CANCELLATION_ACCOUNT = Conta de anula\u00E7\u00F5es de fontes l\u00EDquidas
+report.account.creation.kyoto.account.type_NON_COMPLIANCE_CANCELLATION_ACOUNT =  Conta de anula\u00E7\u00F5es de n\u00E3o conformidade
+report.account.creation.kyoto.account.type_VOLUNTARY_CANCELLATION_ACCOUNT =  Conta de anula\u00E7\u00F5es volunt\u00E1rias
+report.account.creation.kyoto.account.type_EXCESS_ISSUANCE_CANCELLATION_ACCOUNT =  Conta de anula\u00E7\u00F5es de excesso de emiss\u00F5es
+report.account.creation.kyoto.account.type_MANDATORY_CANCELLATION_ACCOUNT=  Conta de anula\u00E7\u00F5es obrigat\u00F3rias
+report.account.creation.kyoto.account.type_RETIREMENT_ACCOUNT =  Conta de retiradas
+report.account.creation.kyoto.account.type_TCER_REPLACEMENT_ACCOUNT_EXPIRY =  Conta de substitui\u00E7\u00E3o de tCER para expira\u00E7\u00E3o
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_EXPIRY =  Conta de substitui\u00E7\u00E3o de lCER para expira\u00E7\u00E3o
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_REVERSAL_CARBON_STORAGE =  Conta de substitui\u00E7\u00E3o de lCER para invers\u00F5es de armazenamento de carbono
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_FAIL_SUBMISSION_CERT_REP =  Conta de substitui\u00E7\u00E3o de lCER para submiss\u00E3o falhada do relat\u00F3rio de certifica\u00E7\u00E3o
+
+report.account.creation.ets.account.type_NONE = Nenhum
+report.account.creation.ets.account.type_AAU_DEPOSIT = Dep\u00F3sito de AAU
+report.account.creation.ets.account.type_CENTRAL_CLEARING = Central de compensa\u00E7\u00E3o
+report.account.creation.ets.account.type_GATEWAY_DEPOSIT = Dep\u00F3sito de passagem
+report.account.creation.ets.account.type_UNION_ALLOWANCE_DELETION = Supress\u00E3o de licen\u00E7as da uni\u00E3o
+report.account.creation.ets.account.type_AVIATION_SURRENDER_SETASIDE = Reserva de devolu\u00E7\u00F5es da avia\u00E7\u00E3o
+report.account.creation.ets.account.type_OPERATOR_HOLDING = Dep\u00F3sito de operador
+report.account.creation.ets.account.type_PERSON_HOLDING = Dep\u00F3sito pessoal
+report.account.creation.ets.account.type_AIRCRAFT_OPERATOR = Dep\u00F3sito de operador de aeronave
+report.account.creation.ets.account.type_VERIFIER = Verificador
+report.account.creation.ets.account.type_NATIONAL_ALLOWANCE_HOLDING = Dep\u00F3sito de licen\u00E7as nacionais
+report.account.creation.ets.account.type_TRADING_PLATFORM = Plataforma de negocia\u00E7\u00E3o
+
+report.account.creation.account.holder.title = Dados do titular de conta
+report.account.creation.account.holder.name = Nome
+report.account.creation.account.holder.identifier = Identificador
+
+report.account.creation.contact = Dados do contacto
+report.account.creation.contact.firstname = Nome pr\u00F3prio
+report.account.creation.contact.lastname = Apelido
+report.account.creation.contact.phone.number = N\u00FAmero de telefone
+report.account.creation.contact.line1 = Linha de endere\u00E7o 1
+report.account.creation.contact.line2 = Linha de endere\u00E7o 2
+report.account.creation.contact.postcode = C\u00F3digo postal
+report.account.creation.contact.city = Cidade
+report.account.creation.contact.region = Regi\u00E3o
+report.account.creation.contact.country = Pa\u00EDs
+report.account.creation.contact.email =  Endere\u00E7o de correio eletr\u00F3nico
+
+report.account.creation.account.holder.representative.title = Representante autorizado
+report.account.creation.account.holder.addRepresentative.title = Representante autorizado adicional
+report.account.creation.urid = ID do utilizador
+
+report.account.creation.instalation.details = Dados da instala\u00E7\u00E3o
+report.account.creation.installation.name = Nome
+report.account.creation.installation.identifier = Identificador
+report.account.creation.installation.compliance.status = Estado de conformidade
+report.account.creation.installation.eper.identification = N\u00FAmero EPRTR
+report.account.creation.installation.parent.company = Empresa-m\u00E3e
+report.account.creation.installation.sub.company = Filial
+
+report.account.creation.instalation.contact.person.details = Dados da pessoa de contacto da instala\u00E7\u00E3o
+report.account.creation.permit = Informa\u00E7\u00E3o do t\u00EDtulo
+report.account.creation.permit.identifier = N\u00FAmero do t\u00EDtulo
+report.account.creation.permit.entry.date = Data de entrada em vigor do t\u00EDtulo
+report.account.creation.permit.expiry.date = Data de expira\u00E7\u00E3o do t\u00EDtulo
+report.account.creation.permit.revocation.date = Data de revoga\u00E7\u00E3o do t\u00EDtulo
+
+report.account.creation.installation.latitude = Latitude
+report.account.creation.installation.longitude = Longitude
+report.account.creation.installation.activity = Atividade
+report.account.creation.installation.activity_1 = Instala\u00E7\u00F5es de combust\u00E3o com uma pot\u00EAncia t\u00E9rmica nominal superior a 20 MW
+report.account.creation.installation.activity_2 = Refinarias de \u00F3leos minerais
+report.account.creation.installation.activity_3 = Fornos de coque
+report.account.creation.installation.activity_4 = Instala\u00E7\u00F5es de ustula\u00E7\u00E3o ou sinteriza\u00E7\u00E3o de min\u00E9rio met\u00E1lico
+report.account.creation.installation.activity_5 = Instala\u00E7\u00F5es para a produ\u00E7\u00E3o de gusa ou a\u00E7o
+report.account.creation.installation.activity_6 = Instala\u00E7\u00F5es de produ\u00E7\u00E3o de cl\u00EDnquer em fornos rotativos
+report.account.creation.installation.activity_7 = Instala\u00E7\u00F5es de produ\u00E7\u00E3o de vidro, incluindo fibra de vidro
+report.account.creation.installation.activity_8 = Instala\u00E7\u00F5es\u00E2 de fabrico de produtos cer\u00E2micos por cozedura, nomeadamente telhas,
+tijolos, tijolos refrat\u00E1rios, ladrilhos, produtos de gr\u00E9s ou porcelanas
+report.account.creation.installation.activity_9 = Instala\u00E7\u00F5es\u00E2 industriais de fabrico de: a) pasta de papel a partir de madeira ou outras subst\u00E2ncias fibrosas, b) papel e cart\u00E3o
+report.account.creation.installation.activity_99 = Outras atividades inclu\u00eddas no Artigo 24 da Diretiva 2003/87/EC
+report.account.creation.installation.activity_20 = Combustao de combust\u00edveis
+report.account.creation.installation.activity_21 = Refina\u00e7\u00e3o de \u00f3leos minerais
+report.account.creation.installation.activity_22 = Produ\u00e7\u00e3o de coque
+report.account.creation.installation.activity_23 = Ustula\u00e7\u00e3o ou sinteriza\u00e7\u00e3o de min\u00e9rios met\u00e1licos
+report.account.creation.installation.activity_24 = Produ\u00e7\u00e3o de gusa ou de a\u00e7o
+report.account.creation.installation.activity_25 = Produ\u00e7\u00e3o ou transforma\u00e7\u00e3o de metais ferrosos
+report.account.creation.installation.activity_26 = Produ\u00e7\u00e3o de alum\u00ednio prim\u00e1rio
+report.account.creation.installation.activity_27 = Produ\u00e7\u00e3o de alum\u00ednio secund\u00e1rio
+report.account.creation.installation.activity_28 = Produ\u00e7\u00e3o ou transforma\u00e7\u00e3o de metais n\u00e3o\u2011ferrosos
+report.account.creation.installation.activity_29 = Produ\u00e7\u00e3o de cl\u00ednquer
+report.account.creation.installation.activity_30 = Produ\u00e7\u00e3o de cal ou calcina\u00e7\u00e3o de dolomite/magnesite
+report.account.creation.installation.activity_31 = Produ\u00e7\u00e3o de vidro
+report.account.creation.installation.activity_32 = Fabrico de produtos cer\u00e2micos
+report.account.creation.installation.activity_33 = Fabrico de mat\u00e9rias isolantes de l\u00e3 mineral
+report.account.creation.installation.activity_34 = Produ\u00e7\u00e3o ou transforma\u00e7\u00e3o de gesso ou de placas de gesso
+report.account.creation.installation.activity_35 = Fabrico de pasta de papel
+report.account.creation.installation.activity_36 = Fabrico de papel ou de cart\u00e3o
+report.account.creation.installation.activity_37 = Produ\u00e7\u00e3o de negro de fumo
+report.account.creation.installation.activity_38 = Produ\u00e7\u00e3o de \u00e1cido n\u00edtrico
+report.account.creation.installation.activity_39 = Produ\u00e7\u00e3o de \u00e1cido ad\u00edpico
+report.account.creation.installation.activity_40 = Produ\u00e7\u00e3o de glioxal e de \u00e1cido gliox\u00edlico
+report.account.creation.installation.activity_41 = Produ\u00e7\u00e3o de amon\u00edaco
+report.account.creation.installation.activity_42 = Produ\u00e7\u00e3o de produtos qu\u00edmicos a granel
+report.account.creation.installation.activity_43 = Produ\u00e7\u00e3o de hidrog\u00e9nio e de g\u00e1s de s\u00edntese
+report.account.creation.installation.activity_44 = Produ\u00e7\u00e3o de carbonato de s\u00f3dio anidro e de bicarbonato de s\u00f3dio
+report.account.creation.installation.activity_45 = Captura de gases com efeito de estufa, ao abrigo da Diretiva 2009/31/CE
+report.account.creation.installation.activity_46 = Transporte de gases com efeito de estufa, ao abrigo da Diretiva 2009/31/CE
+report.account.creation.installation.activity_47 = Armazenamento de gases com efeito de estufa, ao abrigo da Diretiva 2009/31/CE
+
+report.account.creation.job.details = Dados da fun\u00E7\u00E3o
+report.account.creation.job.details.title =  Designa\u00E7\u00E3o do cargo
+report.account.creation.job.details.company.name = Nome da empresa
+report.account.creation.job.details.company.dept = Departamento
+
+report.account.creation.request.details = Dados do pedido
+report.account.creation.request.id = Identificador
+report.account.creation.request.requester.urid = ID do utilizador proponente
+report.account.creation.request.status = Estado
+report.account.creation.request.timestamp = Data
+
+report.account.creation.aircraft.operator.title= Dados do operador de aeronave
+report.account.creation.aircraft.operator.name = Nome
+report.account.creation.aircraft.operator.identifier = Identificador
+report.account.creation.aircraft.operator.call.sign = Indicativo de chamada
+report.account.creation.aircraft.operator.code = C\u00F3digo
+report.account.creation.aircraft.permit.name = Nome do t\u00EDtulo
+report.account.creation.aircraft.monitoring.plan = Informa\u00E7\u00E3o do plano de monitoriza\u00E7\u00E3o
+report.account.creation.aircraft.monitoring.plan.identifier = Identificador
+report.account.creation.aircraft.monitoring.plan.first.year.applicability = Primeiro ano de aplicabilidade
+report.account.creation.aircraft.monitoring.plan.expiry.date = Data de expira\u00E7\u00E3o
+
+report.account.creation.contact.person.title=Dados da pessoa de contacto
+report.account.creation.contact.person.name=Nome
+report.account.creation.contact.person.lastname=Apelido
+
+report.account.creation.companyDetails = Dados da empresa
+report.account.creation.companyDetails.companyRegistrationNumber = N\u00FAmero de registo da empresa
+report.account.creation.companyDetails.vatNumber = NIPC
+report.account.creation.birthDetails = Dados de nascimento
+report.account.creation.birthDetails.idNumber = N\u00FAmero do BI
+report.account.creation.birthDetails.country = Pa\u00EDs de nascimento
+report.account.creation.birthDetails.date = Data de nascimento
+report.account.creation.birthDetails.place = Local de nascimento
+report.account.creation.identityDocument = Documento de identifica\u00E7\u00E3o
+report.account.creation.identityDocument.id = ID do documento de identifica\u00E7\u00E3o
+report.account.creation.identityDocument.expiryDate = Data de expira\u00E7\u00E3o do documento de identifica\u00E7\u00E3o
+report.account.creation.identityDocument.type = Tipo de documento de identifica\u00E7\u00E3o
+identityDocumentType_NATIONAL_ID_CARD = Cart\u00E3o de identidade nacional
+identityDocumentType_SPECIAL_ID_CARD = Cart\u00E3o de identidade especial
+identityDocumentType_PASSPORT = Passaporte
+
+role_AUTHORISED_REPRESENTATIVE = Representante autorizado
+role_ADDITIONAL_AUTHORISED_REPRESENTATIVE = Representante autorizado adicional
+role_AUDITOR_FOR_AR = Representante autorizado adicional (acesso de leitura)
+
+report.account.creation.contract.role = Tipo
+report.account.creation.contract.title = Pedido de abertura de conta - {0}
+
+PT.report.account.creation.contract.before.0.title = \u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020Requerimento - Pedido de abertura de conta de dep\u00F3sito
+
+PT.report.account.creation.contract.before.1.text = Eu___________________________________________________________________________________________________________________________________________________________________________ [nome(s) completo(s) do(s) representante(s) legal(is) ou mandat\u00E1rio(s)], titular(es) do BI/Cart\u00E3o de cidad\u00E3o com o n\u00FAmero _____________________________________ e NIF _________________________________________________ na qualidade de representante legal/ mandat\u00E1rio com poderes para o efeito (riscar o n\u00E3o aplic\u00E1vel), em nome de __________________________________________________________________________________________________________ (designa\u00E7\u00E3o social do operador tal como consta do TEGEE, nome do operador de aeronave tal como consta do Plano de Monitoriza\u00E7\u00E3o de emiss\u00F5es anuais, ou designa\u00E7\u00E3o social da empresa para o caso de pedido de abertura de conta de dep\u00F3sito pessoal ou de negocia\u00E7\u00E3o), com o n\u00FAmero de pessoa coletiva ________________________________, e sede em ________________________________________________________________________________________________, com poderes de titular da conta, tal como se atesta atrav\u00E9s dos elementos em anexo ao presente requerimento, venho, nos termos do disposto no artigo 13.\u00BA, 13.\u00BA-A, 15.\u00BA e 16.\u00BA do Regulamento (UE) n.\u00BA 920/2010 da Comiss\u00E3o, de 7 de outubro, com a reda\u00E7\u00E3o conferida pelo Regulamento (UE) n.\u00BA 1193/2011 da Comiss\u00E3o, de 18 de novembro, consoante aplic\u00E1vel, requerer a V. Ex.\u00AA, na qualidade de Administrador Nacional do Registo, a abertura de uma conta dep\u00F3sito do tipo de operador/ operador de aeronave/ pessoal/ negocia\u00E7\u00E3o (riscar o n\u00E3o aplic\u00E1vel) no Registo Portugu\u00EAs de Licen\u00E7as de Emiss\u00E3o integrado no Registo da Uni\u00E3o.
+PT.report.account.creation.contract.before.2.text = Declaro, ainda, que verifiquei cuidadosamente todos os dados inclu\u00EDdos no presente requerimento e que desta forma os mesmos s\u00E3o v\u00E1lidos e corretos.
+PT.report.account.creation.contract.before.3.text = Mais declaro que, a entidade que legalmente represento tem conhecimento de que a presente abertura de conta de dep\u00F3sito obriga:
+PT.report.account.creation.contract.before.4.text = - Ao cumprimento integral das disposi\u00E7\u00F5es constantes do Regulamento (UE) n.\u00BA 920/2010, de 7 de outubro, com a reda\u00E7\u00E3o conferida pelo Regulamento (UE) n.\u00BA 1193/2011, de 18 de novembro, bem como, das eventuais altera\u00E7\u00F5es ao dito Regulamento;
+PT.report.account.creation.contract.before.5.text = - Ao cumprimento rigoroso dos termos de utiliza\u00E7\u00E3o do sistema de registos do com\u00E9rcio de licen\u00E7as de emiss\u00E3o, disponibilizados no s\u00EDtio da Internet da Ag\u00EAncia Portuguesa do Ambiente, I.P. (APA, I.P.), bem como das boas pr\u00E1ticas e recomenda\u00E7\u00F5es de seguran\u00E7a na utiliza\u00E7\u00E3o de sistemas inform\u00E1ticos e, em particular, no acesso e utiliza\u00E7\u00E3o de aplica\u00E7\u00F5es web;
+PT.report.account.creation.contract.before.6.text = - A manter atualizados os dados inseridos no registo, associados ao titular da conta, operador de aeronave/ instala\u00E7\u00E3o, representantes autorizados e representantes autorizados adicionais;
+PT.report.account.creation.contract.before.7.text = - A respeitar as determina\u00E7\u00F5es da APA, I.P., relativas \u00E0s opera\u00E7\u00E3o do registo;
+PT.report.account.creation.contract.before.8.text = - A assumir inteira responsabilidade pelos resultados das a\u00E7\u00F5es que desencadear ou aprovar na utiliza\u00E7\u00E3o do registo;
+PT.report.account.creation.contract.before.9.text = - Ao pagamento de uma taxa anual \u00E0 APA, I.P., nos termos definidos na Portaria n.\u00BA 993/2010, de 29 de setembro, ou noutra que a venha alterar ou substituir para este efeito.
+PT.report.account.creation.contract.before.10.text=
+PT.report.account.creation.contract.before.11.text=
+PT.report.account.creation.contract.before.12.text = Data: __/__/__
+PT.report.account.creation.contract.before.13.text=
+PT.report.account.creation.contract.before.14.text= Assinatura(s) do(s) representante(s) legal(is)/ mandat\u00E1rio(s)
+PT.report.account.creation.contract.before.15.text=
+PT.report.account.creation.contract.before.16.text= ____________________________________________________________________________________________________
+PT.report.account.creation.contract.before.17.text= ____________________________________________________________________________________________________
+PT.report.account.creation.contract.before.18.text= ____________________________________________________________________________________________________
+PT.report.account.creation.contract.before.19.text=
+PT.report.account.creation.contract.before.20.text=
+PT.report.account.creation.contract.before.21.text=
+PT.report.account.creation.contract.before.22.text=
+PT.report.account.creation.contract.before.23.text=
+PT.report.account.creation.contract.before.24.text=
+PT.report.account.creation.contract.before.25.text= NOTA: Relativamente \u00E0 documenta\u00E7\u00E3o a remeter em papel ao Administrador Nacional do Registo para formaliza\u00E7\u00E3o do pedido de abertura de conta de dep\u00F3sito, dever\u00E1 ser consultado o s\u00EDtio da internet da Ag\u00EAncia Portuguesa do Ambiente (APA, I.P.) em http://www.apambiente.pt/index.php?ref=17&subref=295&sub2ref=668&sub3ref=764.
+
+
+#
+#TRANSLATIONS 17JUN2013
+#
+#transaction_title = Operacao
+#transactionDetails_approvalDate = Data de aprovacao
+
+report.account.creation.ets.account.type_INTERNATIONAL_CREDIT_ACCOUNT = Conta de cr\u00e9ditos internacionais
+report.account.creation.ets.account.type_CREDIT_EXCHANGE_ACCOUNT = Conta de troca de cr\u00e9ditos
+
+
+############################v6.2.6.2#############################
+report.account.creation.kyoto.account.type_PERSON_ACCOUNT_NATIONAL_REG = Conta pessoal no Registo Nacional

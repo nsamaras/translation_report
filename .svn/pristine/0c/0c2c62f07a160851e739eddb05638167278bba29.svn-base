@@ -1,0 +1,711 @@
+#Report localizations
+eu.europa.ec.clima.eucr.services.processes.account.reports.AccountCreationSummaryReport=Account Creation Summary Report
+
+
+
+report.account.creation.title = Account Summary Information - {0}
+report.account.creation.account.details = Account Details
+report.account.creation.name = Name
+report.account.creation.identifier = Identifier 
+report.account.creation.commitment.period = Commitment Period
+report.account.creation.kyoto.account.type = Kyoto Account Type
+report.account.creation.ets.account.type = ETS Account Type
+report.account.creation.opening.date = Opening Date
+report.account.creation.closing.date = Closing Date
+report.account.creation.hosting.registry = Hosting Registry
+
+report.account.creation.commitment.period_0 = Zero Commitment Period
+report.account.creation.commitment.period_1 = 1st Commitment Period 
+report.account.creation.commitment.period_2 = 2nd Commitment Period
+report.account.creation.commitment.period_3 = 3rd Commitment Period
+
+report.account.creation.kyoto.account.type_NON_HOLDING = Non Holding
+report.account.creation.kyoto.account.type_HOLDING_ACCOUNT = Holding Account
+report.account.creation.kyoto.account.type_PENDING_ACCOUNT = Pending Account
+report.account.creation.kyoto.account.type_OPERATOR_HOLDING_ACCOUNT = Operator Holding Account
+report.account.creation.kyoto.account.type_PERSON_HOLDING_ACCOUNT = Person Holding Account
+report.account.creation.kyoto.account.type_NET_SOURCE_CANCELLATION_ACCOUNT = Net Source Cancellation Account
+report.account.creation.kyoto.account.type_NON_COMPLIANCE_CANCELLATION_ACOUNT =  Non Compliance Cancellation Account
+report.account.creation.kyoto.account.type_VOLUNTARY_CANCELLATION_ACCOUNT =  Voluntary Cancellation Account
+report.account.creation.kyoto.account.type_EXCESS_ISSUANCE_CANCELLATION_ACCOUNT =  Excess Issuance Cancellation Account
+report.account.creation.kyoto.account.type_MANDATORY_CANCELLATION_ACCOUNT=  Mandatory Cancellation Account
+report.account.creation.kyoto.account.type_RETIREMENT_ACCOUNT =  Retirement Account
+report.account.creation.kyoto.account.type_TCER_REPLACEMENT_ACCOUNT_EXPIRY =  TCER Replacement Account Expiry
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_EXPIRY =  LCER Replacement Account Expiry
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_REVERSAL_CARBON_STORAGE =  LCER Replacement Account Reversal Carbon Storage
+report.account.creation.kyoto.account.type_LCER_REPLACEMENT_ACCOUNT_FAIL_SUBMISSION_CERT_REP =  LCER Replacement Account Fail Submission Cert Rep
+report.account.creation.kyoto.account.type_PERSON_ACCOUNT_NATIONAL_REG = Person Account in National Registry
+report.account.creation.kyoto.account.type_CDM.CCS_NET_REVERSAL_CANCELLATION_ACCOUNT = CCS Net Reversal Cancellation Account
+report.account.creation.kyoto.account.type_CDM.NON_SUBMISSION_OF_VERIFICATION_CANCELLATION_ACCOUNT = Non Submition Of Verification Cancelation Account
+
+report.account.creation.ets.account.type_NONE = None
+report.account.creation.ets.account.type_AAU_DEPOSIT = ETS CP1 AAU deposit account
+report.account.creation.ets.account.type_CENTRAL_CLEARING = Central Clearing
+report.account.creation.ets.account.type_GATEWAY_DEPOSIT = Gateway Deposit
+report.account.creation.ets.account.type_UNION_ALLOWANCE_DELETION = Union Allowance Deletion
+report.account.creation.ets.account.type_AVIATION_SURRENDER_SETASIDE = Aviation Surrender Setaside
+report.account.creation.ets.account.type_OPERATOR_HOLDING = Operator Holding
+report.account.creation.ets.account.type_PERSON_HOLDING = Person Holding
+report.account.creation.ets.account.type_AIRCRAFT_OPERATOR = Aircraft Operator
+report.account.creation.ets.account.type_VERIFIER = Verifier
+report.account.creation.ets.account.type_NATIONAL_ALLOWANCE_HOLDING = National Allowance Holding
+report.account.creation.ets.account.type_TRADING_PLATFORM = External Platform
+report.account.creation.ets.account.type_TRADING						   = Trading Account
+report.account.creation.ets.account.type_AUCTION_DELIVERY_ACCOUNT						= Auction Delivery Account
+report.account.creation.ets.account.type_AUCTION_ACCOUNT						   				= Auction Account
+report.account.creation.ets.account.type_AVIATION_AUCTION_ACCOUNT		   				= Aviation Auction Account
+report.account.creation.ets.account.type_TOTAL_QUANTITY_ACCOUNT		   					= Total Quantity Account
+report.account.creation.ets.account.type_AVIATION_TOTAL_QUANTITY_ACCOUNT		   	= Aviation Total Quantity Account
+report.account.creation.ets.account.type_INTERNATIONAL_CREDIT_ACCOUNT = International Credit Account
+report.account.creation.ets.account.type_CREDIT_EXCHANGE_ACCOUNT = Credit Exchange Account
+report.account.creation.ets.account.type_ESD_COMPLIANCE_ACCOUNT = ESD - Compliance Account
+report.account.creation.ets.account.type_AEA_TOTAL_QUANTITY_ACCOUNT = ESD - AEA Total Quantity Account
+report.account.creation.ets.account.type_AEA_DELETION_ACCOUNT = ESD - AEA Deletion Account                                                          
+# v8.0.1 (KP2)
+report.account.creation.ets.account.type_PPSR_ACCOUNT = Previous Period Surplus Reserve Account (PPSR)
+report.account.creation.ets.account.type_AAU_ACCOUNT = AAU Account
+report.account.creation.ets.account.type_ARTICLE_3_POINT_7TER_CANCELLATION_ACCOUNT = Article 3.7ter Cancellation Account
+report.account.creation.ets.account.type_AMBITION_INCREASE_CANCELLATION_ACCOUNT = Ambition Increase Cancellation Account
+report.account.creation.ets.account.type_ETS_AAU_DEPOSIT_ACCOUNT                = ETS AAU Deposit Account
+report.account.creation.ets.account.type_ESD_CENTRAL_CLEARING_ACCOUNT           = ESD Central Clearing Account 
+report.account.creation.ets.account.type_ESD_AAU_DEPOSIT_ACCOUNT                = ESD AAU Deposit Account
+report.account.creation.ets.account.type_ETS_CENTRAL_CLEARING_ACCOUNT           = ETS Central Clearing Account for CP2
+
+
+report.account.creation.account.holder.title = Account Holder Details
+report.account.creation.account.holder.name = Name
+report.account.creation.account.holder.identifier = Identifier
+
+report.account.creation.contact = Contact Details
+report.account.creation.contact.firstname = First Name
+report.account.creation.contact.lastname = Last Name
+report.account.creation.contact.phone.number = Phone Number 
+report.account.creation.contact.line1 = Address Line 1
+report.account.creation.contact.line2 = Address Line 2
+report.account.creation.contact.postcode = Post Code
+report.account.creation.contact.city = City
+report.account.creation.contact.region = Region
+report.account.creation.contact.country = Country
+report.account.creation.contact.email =  Email
+
+report.account.creation.account.holder.representative.title = Authorised Representative
+report.account.creation.account.holder.addRepresentative.title = Additional Authorised Representative
+report.account.creation.urid = URID
+
+report.account.creation.instalation.details = Installation Details
+report.account.creation.installation.name = Name
+report.account.creation.installation.identifier = Identifier
+report.account.creation.installation.compliance.status = Compliance Status
+report.account.creation.installation.eper.identification = EPER identification
+report.account.creation.installation.parent.company = Parent Company
+report.account.creation.installation.sub.company = Subsidiary Company
+
+report.account.creation.instalation.contact.person.details = Installation Contact Person Details
+report.account.creation.permit = Permit Information
+report.account.creation.permit.identifier = Permit Identifier
+report.account.creation.permit.entry.date = Permit Entry Date
+report.account.creation.permit.expiry.date = Permit Expiry Date
+report.account.creation.permit.revocation.date = Permit Revocation Date
+
+report.account.creation.installation.latitude = Latitude
+report.account.creation.installation.longitude = Longitude
+report.account.creation.installation.activity = Activity
+report.account.creation.installation.activity_1 = Combustion Thermal More Than Twenty MW
+report.account.creation.installation.activity_2 = Mineral Oil Refineries
+report.account.creation.installation.activity_3 = Coke Ovens
+report.account.creation.installation.activity_4 = Metal ORE Roast SINT Installations
+report.account.creation.installation.activity_5 = Production PIG IRON STEEL CONT Casting
+report.account.creation.installation.activity_6 = Production Cement Rotary Furnaces
+report.account.creation.installation.activity_7 = Manufacture Glass Fibre 
+report.account.creation.installation.activity_8 = Production Ceramics Bricks Porcelain
+report.account.creation.installation.activity_9 = Production Pulp Other
+report.account.creation.installation.activity_99 = Other activity opted-in under Art. 24 of Dir. 2003/87/EC
+report.account.creation.installation.activity_20 = Combustion of fuels
+report.account.creation.installation.activity_21 = Refining of mineral oil 
+report.account.creation.installation.activity_22 = Production of coke
+report.account.creation.installation.activity_23 = Metal ore roasting or sintering
+report.account.creation.installation.activity_24 = Production of pig iron or steel
+report.account.creation.installation.activity_25 = Production or processing of ferrous metals
+report.account.creation.installation.activity_26 = Production of primary aluminium
+report.account.creation.installation.activity_27 = Production of secondary aluminium
+report.account.creation.installation.activity_28 = Production or processing of non-ferrous metals
+report.account.creation.installation.activity_29 = Production of cement clinker
+report.account.creation.installation.activity_30 = Production of lime, or calcination of dolomite/magnesite
+report.account.creation.installation.activity_31 = Manufacture of glass
+report.account.creation.installation.activity_32 = Manufacture of ceramics
+report.account.creation.installation.activity_33 = Manufacture of mineral wool
+report.account.creation.installation.activity_34 = Production or processing of gypsum or plasterboard
+report.account.creation.installation.activity_35 = Production of pulp
+report.account.creation.installation.activity_36 = Production of paper or cardboard
+report.account.creation.installation.activity_37 = Production of carbon black
+report.account.creation.installation.activity_38 = Production of nitric acid
+report.account.creation.installation.activity_39 = Production of adipic acid
+report.account.creation.installation.activity_40 = Production of glyoxal and glyoxylic acid
+report.account.creation.installation.activity_41 = Production of ammonia
+report.account.creation.installation.activity_42 = Production of bulk chemicals
+report.account.creation.installation.activity_43 = Production of hydrogen and synthesis gas
+report.account.creation.installation.activity_44 = Production of soda ash and sodium bicarbonate
+report.account.creation.installation.activity_45 = Capture of greenhouse gases under Directive 2009/31/EC
+report.account.creation.installation.activity_46 = Transport of greenhouse gases under Directive 2009/31/EC
+report.account.creation.installation.activity_47 = Storage of greenhouse gases under Directive 2009/31/EC
+
+
+report.account.creation.job.details = Job Details
+report.account.creation.job.details.title =  Job Title
+report.account.creation.job.details.company.name = Company Name
+report.account.creation.job.details.company.dept = Company Department 
+                                                            
+report.account.creation.request.details = Request Details
+report.account.creation.request.id = Identifier
+report.account.creation.request.requester.urid = Requester URID
+report.account.creation.request.status = Status
+report.account.creation.request.timestamp = Date
+                                                            
+report.account.creation.aircraft.operator.title=Aircraft Operator Details
+report.account.creation.aircraft.operator.name = Name
+report.account.creation.aircraft.operator.identifier = Identifier
+report.account.creation.aircraft.operator.call.sign = Call Sign
+report.account.creation.aircraft.operator.code = Code
+report.account.creation.aircraft.permit.name = Permit Name
+report.account.creation.aircraft.monitoring.plan = Monitoring Plan Information
+report.account.creation.aircraft.monitoring.plan.identifier = Identifier
+report.account.creation.aircraft.monitoring.plan.first.year.applicability = First Year of Applicability
+report.account.creation.aircraft.monitoring.plan.expiry.date = Expiry Date
+report.account.creation.aircraft.monitoring.plan.year.of.expiry = Year of Expiry
+
+report.account.creation.contact.person.title=Contact Person Details
+report.account.creation.contact.person.name=Name
+report.account.creation.contact.person.lastname=Last Name
+
+report.account.creation.companyDetails = Company Details
+report.account.creation.companyDetails.companyRegistrationNumber = Company Registration Number
+report.account.creation.companyDetails.vatNumber = VAT Number
+report.account.creation.birthDetails = Birth Details
+report.account.creation.birthDetails.idNumber = ID number
+report.account.creation.birthDetails.country = Birth Country
+report.account.creation.birthDetails.date = Birth Date
+report.account.creation.birthDetails.place = Birth Place
+report.account.creation.identityDocument = Identity Document
+report.account.creation.identityDocument.id = Identity Document ID
+report.account.creation.identityDocument.expiryDate = Identity Document Expiry Date
+report.account.creation.identityDocument.type = Identity Document Type
+identityDocumentType_NATIONAL_ID_CARD = National ID Card
+identityDocumentType_SPECIAL_ID_CARD = Special ID Card
+identityDocumentType_PASSPORT = Passport
+
+role_AUTHORISED_REPRESENTATIVE = Authorised Representative
+role_VIEW_ONLY_AR = View Only Authorised Representative   
+role_ADDITIONAL_AUTHORISED_REPRESENTATIVE = Additional Authorised Representative
+
+report.account.creation.contract.role = Role
+report.account.creation.contract.title = Account Opening Document - {0}
+#
+# Account creation contract report per-registry customization - START.
+#
+# Format is: [registry_code].[placeholder].[index].[entry_type]
+#
+# Available placeholders are:
+# - At the document start (XX.report.account.creation.contract.before).
+# - Before the account holder section (XX.report.account.creation.contract.accountHolder.before).
+# - After the account holder section (XX.report.account.creation.contract.accountHolder.after).
+# - Before all AHRs (XX.report.account.creation.contract.authorisedRep.beforeAll).
+# - Before each AHR (XX.report.account.creation.contract.authorisedRep.before).
+# - After each AHR (XX.report.account.creation.contract.authorisedRep.after).
+# - After all AHRs (XX.report.account.creation.contract.authorisedRep.afterAll).
+# - Before all AARs (XX.report.account.creation.contract.additionalRep.beforeAll).
+# - Before each AAR (XX.report.account.creation.contract.additionalRep.before).
+# - After each AAR (XX.report.account.creation.contract.additionalRep.after).
+# - After all AARs (XX.report.account.creation.contract.additionalRep.afterAll).
+# - Before the operator section (XX.report.account.creation.contract.operator.before).
+# - After the operator section (XX.report.account.creation.contract.operator.after).
+# - At the document end (XX.report.account.creation.contract.after).
+# Available entry types are:
+# - text: Add a line of text (can be empty for extra spacing).
+# - title: A title line.
+# - break: A page break.
+
+###ETS-4543 START###
+# BE.report.account.creation.contract.accountHolder.after
+# BE.report.account.creation.contract.authorisedRep.after
+# BE.report.account.creation.contract.additionalRep.after
+BE.report.account.creation.contract.before.0.title = Support
+BE.report.account.creation.contract.before.1.text = More information on the greenhouse gas registry and on emission trading can be found at our public website: <a href='http://www.climateregistry.be'>http://www.climateregistry.be</a>. 
+BE.report.account.creation.contract.before.2.text = Contact the helpdesk by email (<a href='helpdesk@climateregistry.be'>helpdesk@climateregistry.be</a>) when you have any further questions.
+# BE.report.account.creation.contract.accountHolder.before
+# BE.report.account.creation.contract.accountHolder.after
+BE.report.account.creation.contract.accountHolder.after.0.text = 
+BE.report.account.creation.contract.accountHolder.after.1.text = 
+BE.report.account.creation.contract.accountHolder.after.2.text = 
+BE.report.account.creation.contract.accountHolder.after.3.text = 
+BE.report.account.creation.contract.accountHolder.after.4.text = 
+BE.report.account.creation.contract.accountHolder.after.5.text = 
+BE.report.account.creation.contract.accountHolder.after.6.text =
+# BE.report.account.creation.contract.authorisedRep.before
+# BE.report.account.creation.contract.authorisedRep.after
+BE.report.account.creation.contract.authorisedRep.after.0.text = 
+BE.report.account.creation.contract.authorisedRep.after.1.text = 
+BE.report.account.creation.contract.authorisedRep.after.2.text = 
+BE.report.account.creation.contract.authorisedRep.after.3.text = 
+BE.report.account.creation.contract.authorisedRep.after.4.text = 
+BE.report.account.creation.contract.authorisedRep.after.5.text = 
+BE.report.account.creation.contract.authorisedRep.after.6.text =
+# BE.report.account.creation.contract.additionalRep.before
+# BE.report.account.creation.contract.additionalRep.after
+BE.report.account.creation.contract.additionalRep.after.0.text = 
+BE.report.account.creation.contract.additionalRep.after.1.text =
+BE.report.account.creation.contract.additionalRep.after.2.text = 
+BE.report.account.creation.contract.additionalRep.after.3.text = 
+BE.report.account.creation.contract.additionalRep.after.4.text = 
+BE.report.account.creation.contract.additionalRep.after.5.text = 
+BE.report.account.creation.contract.additionalRep.after.6.text =
+# BE.report.account.creation.contract.operator.before 
+# BE.report.account.creation.contract.operator.after
+# BE.report.account.creation.contract.after
+###ETS-4543 END###
+
+BG.report.account.creation.contract.accountHolder.after.0.text = 
+BG.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+BG.report.account.creation.contract.accountHolder.after.2.text = 
+BG.report.account.creation.contract.accountHolder.after.3.text = 
+BG.report.account.creation.contract.accountHolder.after.4.text = 
+BG.report.account.creation.contract.accountHolder.after.5.text = 
+BG.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+BG.report.account.creation.contract.authorisedRep.after.0.text = 
+BG.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+BG.report.account.creation.contract.authorisedRep.after.2.text = 
+BG.report.account.creation.contract.authorisedRep.after.3.text = 
+BG.report.account.creation.contract.authorisedRep.after.4.text = 
+BG.report.account.creation.contract.authorisedRep.after.5.text = 
+BG.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+BG.report.account.creation.contract.additionalRep.after.0.text = 
+BG.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+BG.report.account.creation.contract.additionalRep.after.2.text = 
+BG.report.account.creation.contract.additionalRep.after.3.text = 
+BG.report.account.creation.contract.additionalRep.after.4.text = 
+BG.report.account.creation.contract.additionalRep.after.5.text = 
+BG.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+CY.report.account.creation.contract.accountHolder.after.0.text = 
+CY.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+CY.report.account.creation.contract.accountHolder.after.2.text = 
+CY.report.account.creation.contract.accountHolder.after.3.text = 
+CY.report.account.creation.contract.accountHolder.after.4.text = 
+CY.report.account.creation.contract.accountHolder.after.5.text = 
+CY.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+CY.report.account.creation.contract.authorisedRep.after.0.text = 
+CY.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+CY.report.account.creation.contract.authorisedRep.after.2.text = 
+CY.report.account.creation.contract.authorisedRep.after.3.text = 
+CY.report.account.creation.contract.authorisedRep.after.4.text = 
+CY.report.account.creation.contract.authorisedRep.after.5.text = 
+CY.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+CY.report.account.creation.contract.additionalRep.after.0.text = 
+CY.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+CY.report.account.creation.contract.additionalRep.after.2.text = 
+CY.report.account.creation.contract.additionalRep.after.3.text = 
+CY.report.account.creation.contract.additionalRep.after.4.text = 
+CY.report.account.creation.contract.additionalRep.after.5.text = 
+CY.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+DK.report.account.creation.contract.accountHolder.after.0.text = 
+DK.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+DK.report.account.creation.contract.accountHolder.after.2.text = 
+DK.report.account.creation.contract.accountHolder.after.3.text = 
+DK.report.account.creation.contract.accountHolder.after.4.text = 
+DK.report.account.creation.contract.accountHolder.after.5.text = 
+DK.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+DK.report.account.creation.contract.authorisedRep.after.0.text = 
+DK.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+DK.report.account.creation.contract.authorisedRep.after.2.text = 
+DK.report.account.creation.contract.authorisedRep.after.3.text = 
+DK.report.account.creation.contract.authorisedRep.after.4.text = 
+DK.report.account.creation.contract.authorisedRep.after.5.text = 
+DK.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+DK.report.account.creation.contract.additionalRep.after.0.text = 
+DK.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+DK.report.account.creation.contract.additionalRep.after.2.text = 
+DK.report.account.creation.contract.additionalRep.after.3.text = 
+DK.report.account.creation.contract.additionalRep.after.4.text = 
+DK.report.account.creation.contract.additionalRep.after.5.text = 
+DK.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+EE.report.account.creation.contract.accountHolder.after.0.text = 
+EE.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+EE.report.account.creation.contract.accountHolder.after.2.text = 
+EE.report.account.creation.contract.accountHolder.after.3.text = 
+EE.report.account.creation.contract.accountHolder.after.4.text = 
+EE.report.account.creation.contract.accountHolder.after.5.text = 
+EE.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+EE.report.account.creation.contract.authorisedRep.after.0.text = 
+EE.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+EE.report.account.creation.contract.authorisedRep.after.2.text = 
+EE.report.account.creation.contract.authorisedRep.after.3.text = 
+EE.report.account.creation.contract.authorisedRep.after.4.text = 
+EE.report.account.creation.contract.authorisedRep.after.5.text = 
+EE.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+EE.report.account.creation.contract.additionalRep.after.0.text = 
+EE.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+EE.report.account.creation.contract.additionalRep.after.2.text = 
+EE.report.account.creation.contract.additionalRep.after.3.text = 
+EE.report.account.creation.contract.additionalRep.after.4.text = 
+EE.report.account.creation.contract.additionalRep.after.5.text = 
+EE.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+ES.report.account.creation.contract.accountHolder.after.0.text = 
+ES.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+ES.report.account.creation.contract.accountHolder.after.2.text = 
+ES.report.account.creation.contract.accountHolder.after.3.text = 
+ES.report.account.creation.contract.accountHolder.after.4.text = 
+ES.report.account.creation.contract.accountHolder.after.5.text = 
+ES.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+ES.report.account.creation.contract.authorisedRep.after.0.text = 
+ES.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+ES.report.account.creation.contract.authorisedRep.after.2.text = 
+ES.report.account.creation.contract.authorisedRep.after.3.text = 
+ES.report.account.creation.contract.authorisedRep.after.4.text = 
+ES.report.account.creation.contract.authorisedRep.after.5.text = 
+ES.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+ES.report.account.creation.contract.additionalRep.after.0.text = 
+ES.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+ES.report.account.creation.contract.additionalRep.after.2.text = 
+ES.report.account.creation.contract.additionalRep.after.3.text = 
+ES.report.account.creation.contract.additionalRep.after.4.text = 
+ES.report.account.creation.contract.additionalRep.after.5.text = 
+ES.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+EU.report.account.creation.contract.accountHolder.after.0.text = 
+EU.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+EU.report.account.creation.contract.accountHolder.after.2.text = 
+EU.report.account.creation.contract.accountHolder.after.3.text = 
+EU.report.account.creation.contract.accountHolder.after.4.text = 
+EU.report.account.creation.contract.accountHolder.after.5.text = 
+EU.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+EU.report.account.creation.contract.authorisedRep.after.0.text = 
+EU.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+EU.report.account.creation.contract.authorisedRep.after.2.text = 
+EU.report.account.creation.contract.authorisedRep.after.3.text = 
+EU.report.account.creation.contract.authorisedRep.after.4.text = 
+EU.report.account.creation.contract.authorisedRep.after.5.text = 
+EU.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+EU.report.account.creation.contract.additionalRep.after.0.text = 
+EU.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+EU.report.account.creation.contract.additionalRep.after.2.text = 
+EU.report.account.creation.contract.additionalRep.after.3.text = 
+EU.report.account.creation.contract.additionalRep.after.4.text = 
+EU.report.account.creation.contract.additionalRep.after.5.text = 
+EU.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+FR.report.account.creation.contract.accountHolder.after.0.text = 
+FR.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+FR.report.account.creation.contract.accountHolder.after.2.text = 
+FR.report.account.creation.contract.accountHolder.after.3.text = 
+FR.report.account.creation.contract.accountHolder.after.4.text = 
+FR.report.account.creation.contract.accountHolder.after.5.text = 
+FR.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+FR.report.account.creation.contract.authorisedRep.after.0.text = 
+FR.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+FR.report.account.creation.contract.authorisedRep.after.2.text = 
+FR.report.account.creation.contract.authorisedRep.after.3.text = 
+FR.report.account.creation.contract.authorisedRep.after.4.text = 
+FR.report.account.creation.contract.authorisedRep.after.5.text = 
+FR.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+FR.report.account.creation.contract.additionalRep.after.0.text = 
+FR.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+FR.report.account.creation.contract.additionalRep.after.2.text = 
+FR.report.account.creation.contract.additionalRep.after.3.text = 
+FR.report.account.creation.contract.additionalRep.after.4.text = 
+FR.report.account.creation.contract.additionalRep.after.5.text = 
+FR.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+#GB.report.account.creation.contract.accountHolder.after.0.text = 
+#GB.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+#GB.report.account.creation.contract.accountHolder.after.2.text = 
+#GB.report.account.creation.contract.accountHolder.after.3.text = 
+#GB.report.account.creation.contract.accountHolder.after.4.text = 
+#GB.report.account.creation.contract.accountHolder.after.5.text = 
+#GB.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+#GB.report.account.creation.contract.authorisedRep.after.0.text = 
+#GB.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+#GB.report.account.creation.contract.authorisedRep.after.2.text = 
+#GB.report.account.creation.contract.authorisedRep.after.3.text = 
+#GB.report.account.creation.contract.authorisedRep.after.4.text = 
+#GB.report.account.creation.contract.authorisedRep.after.5.text = 
+#GB.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+#GB.report.account.creation.contract.additionalRep.after.0.text = 
+#GB.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+#GB.report.account.creation.contract.additionalRep.after.2.text = 
+#GB.report.account.creation.contract.additionalRep.after.3.text = 
+#GB.report.account.creation.contract.additionalRep.after.4.text = 
+#GB.report.account.creation.contract.additionalRep.after.5.text = 
+#GB.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+GR.report.account.creation.contract.accountHolder.after.0.text = 
+GR.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+GR.report.account.creation.contract.accountHolder.after.2.text = 
+GR.report.account.creation.contract.accountHolder.after.3.text = 
+GR.report.account.creation.contract.accountHolder.after.4.text = 
+GR.report.account.creation.contract.accountHolder.after.5.text = 
+GR.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+GR.report.account.creation.contract.authorisedRep.after.0.text = 
+GR.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+GR.report.account.creation.contract.authorisedRep.after.2.text = 
+GR.report.account.creation.contract.authorisedRep.after.3.text = 
+GR.report.account.creation.contract.authorisedRep.after.4.text = 
+GR.report.account.creation.contract.authorisedRep.after.5.text = 
+GR.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+GR.report.account.creation.contract.additionalRep.after.0.text = 
+GR.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+GR.report.account.creation.contract.additionalRep.after.2.text = 
+GR.report.account.creation.contract.additionalRep.after.3.text = 
+GR.report.account.creation.contract.additionalRep.after.4.text = 
+GR.report.account.creation.contract.additionalRep.after.5.text = 
+GR.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+IE.report.account.creation.contract.accountHolder.after.0.text = 
+IE.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+IE.report.account.creation.contract.accountHolder.after.2.text = 
+IE.report.account.creation.contract.accountHolder.after.3.text = 
+IE.report.account.creation.contract.accountHolder.after.4.text = 
+IE.report.account.creation.contract.accountHolder.after.5.text = 
+IE.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+IE.report.account.creation.contract.authorisedRep.after.0.text = 
+IE.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+IE.report.account.creation.contract.authorisedRep.after.2.text = 
+IE.report.account.creation.contract.authorisedRep.after.3.text = 
+IE.report.account.creation.contract.authorisedRep.after.4.text = 
+IE.report.account.creation.contract.authorisedRep.after.5.text = 
+IE.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+IE.report.account.creation.contract.additionalRep.after.0.text = 
+IE.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+IE.report.account.creation.contract.additionalRep.after.2.text = 
+IE.report.account.creation.contract.additionalRep.after.3.text = 
+IE.report.account.creation.contract.additionalRep.after.4.text = 
+IE.report.account.creation.contract.additionalRep.after.5.text = 
+IE.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+IT.report.account.creation.contract.accountHolder.after.0.text = 
+IT.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+IT.report.account.creation.contract.accountHolder.after.2.text = 
+IT.report.account.creation.contract.accountHolder.after.3.text = 
+IT.report.account.creation.contract.accountHolder.after.4.text = 
+IT.report.account.creation.contract.accountHolder.after.5.text = 
+IT.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+IT.report.account.creation.contract.authorisedRep.after.0.text = 
+IT.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+IT.report.account.creation.contract.authorisedRep.after.2.text = 
+IT.report.account.creation.contract.authorisedRep.after.3.text = 
+IT.report.account.creation.contract.authorisedRep.after.4.text = 
+IT.report.account.creation.contract.authorisedRep.after.5.text = 
+IT.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+IT.report.account.creation.contract.additionalRep.after.0.text = 
+IT.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+IT.report.account.creation.contract.additionalRep.after.2.text = 
+IT.report.account.creation.contract.additionalRep.after.3.text = 
+IT.report.account.creation.contract.additionalRep.after.4.text = 
+IT.report.account.creation.contract.additionalRep.after.5.text = 
+IT.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+LI.report.account.creation.contract.accountHolder.after.0.text = 
+LI.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+LI.report.account.creation.contract.accountHolder.after.2.text = 
+LI.report.account.creation.contract.accountHolder.after.3.text = 
+LI.report.account.creation.contract.accountHolder.after.4.text = 
+LI.report.account.creation.contract.accountHolder.after.5.text = 
+LI.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+LI.report.account.creation.contract.authorisedRep.after.0.text = 
+LI.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+LI.report.account.creation.contract.authorisedRep.after.2.text = 
+LI.report.account.creation.contract.authorisedRep.after.3.text = 
+LI.report.account.creation.contract.authorisedRep.after.4.text = 
+LI.report.account.creation.contract.authorisedRep.after.5.text = 
+LI.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+LI.report.account.creation.contract.additionalRep.after.0.text = 
+LI.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+LI.report.account.creation.contract.additionalRep.after.2.text = 
+LI.report.account.creation.contract.additionalRep.after.3.text = 
+LI.report.account.creation.contract.additionalRep.after.4.text = 
+LI.report.account.creation.contract.additionalRep.after.5.text = 
+LI.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+LU.report.account.creation.contract.accountHolder.after.0.text = 
+LU.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+LU.report.account.creation.contract.accountHolder.after.2.text = 
+LU.report.account.creation.contract.accountHolder.after.3.text = 
+LU.report.account.creation.contract.accountHolder.after.4.text = 
+LU.report.account.creation.contract.accountHolder.after.5.text = 
+LU.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+LU.report.account.creation.contract.authorisedRep.after.0.text = 
+LU.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+LU.report.account.creation.contract.authorisedRep.after.2.text = 
+LU.report.account.creation.contract.authorisedRep.after.3.text = 
+LU.report.account.creation.contract.authorisedRep.after.4.text = 
+LU.report.account.creation.contract.authorisedRep.after.5.text = 
+LU.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+LU.report.account.creation.contract.additionalRep.after.0.text = 
+LU.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+LU.report.account.creation.contract.additionalRep.after.2.text = 
+LU.report.account.creation.contract.additionalRep.after.3.text = 
+LU.report.account.creation.contract.additionalRep.after.4.text = 
+LU.report.account.creation.contract.additionalRep.after.5.text = 
+LU.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+SE.report.account.creation.contract.accountHolder.after.0.text = 
+SE.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+SE.report.account.creation.contract.accountHolder.after.2.text = 
+SE.report.account.creation.contract.accountHolder.after.3.text = 
+SE.report.account.creation.contract.accountHolder.after.4.text = 
+SE.report.account.creation.contract.accountHolder.after.5.text = 
+SE.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+SE.report.account.creation.contract.authorisedRep.after.0.text = 
+SE.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+SE.report.account.creation.contract.authorisedRep.after.2.text = 
+SE.report.account.creation.contract.authorisedRep.after.3.text = 
+SE.report.account.creation.contract.authorisedRep.after.4.text = 
+SE.report.account.creation.contract.authorisedRep.after.5.text = 
+SE.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+SE.report.account.creation.contract.additionalRep.after.0.text = 
+SE.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+SE.report.account.creation.contract.additionalRep.after.2.text = 
+SE.report.account.creation.contract.additionalRep.after.3.text = 
+SE.report.account.creation.contract.additionalRep.after.4.text = 
+SE.report.account.creation.contract.additionalRep.after.5.text = 
+SE.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+SI.report.account.creation.contract.accountHolder.after.0.text = 
+SI.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+SI.report.account.creation.contract.accountHolder.after.2.text = 
+SI.report.account.creation.contract.accountHolder.after.3.text = 
+SI.report.account.creation.contract.accountHolder.after.4.text = 
+SI.report.account.creation.contract.accountHolder.after.5.text = 
+SI.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+SI.report.account.creation.contract.authorisedRep.after.0.text = 
+SI.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+SI.report.account.creation.contract.authorisedRep.after.2.text = 
+SI.report.account.creation.contract.authorisedRep.after.3.text = 
+SI.report.account.creation.contract.authorisedRep.after.4.text = 
+SI.report.account.creation.contract.authorisedRep.after.5.text = 
+SI.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+SI.report.account.creation.contract.additionalRep.after.0.text = 
+SI.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+SI.report.account.creation.contract.additionalRep.after.2.text = 
+SI.report.account.creation.contract.additionalRep.after.3.text = 
+SI.report.account.creation.contract.additionalRep.after.4.text = 
+SI.report.account.creation.contract.additionalRep.after.5.text = 
+SI.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+SK.report.account.creation.contract.accountHolder.after.0.text = 
+SK.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+SK.report.account.creation.contract.accountHolder.after.2.text = 
+SK.report.account.creation.contract.accountHolder.after.3.text = 
+SK.report.account.creation.contract.accountHolder.after.4.text = 
+SK.report.account.creation.contract.accountHolder.after.5.text = 
+SK.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+SK.report.account.creation.contract.authorisedRep.after.0.text = 
+SK.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+SK.report.account.creation.contract.authorisedRep.after.2.text = 
+SK.report.account.creation.contract.authorisedRep.after.3.text = 
+SK.report.account.creation.contract.authorisedRep.after.4.text = 
+SK.report.account.creation.contract.authorisedRep.after.5.text = 
+SK.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+SK.report.account.creation.contract.additionalRep.after.0.text = 
+SK.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+SK.report.account.creation.contract.additionalRep.after.2.text = 
+SK.report.account.creation.contract.additionalRep.after.3.text = 
+SK.report.account.creation.contract.additionalRep.after.4.text = 
+SK.report.account.creation.contract.additionalRep.after.5.text = 
+SK.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+IS.report.account.creation.contract.accountHolder.after.0.text = 
+IS.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+IS.report.account.creation.contract.accountHolder.after.2.text = 
+IS.report.account.creation.contract.accountHolder.after.3.text = 
+IS.report.account.creation.contract.accountHolder.after.4.text = 
+IS.report.account.creation.contract.accountHolder.after.5.text = 
+IS.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+IS.report.account.creation.contract.authorisedRep.after.0.text = 
+IS.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+IS.report.account.creation.contract.authorisedRep.after.2.text = 
+IS.report.account.creation.contract.authorisedRep.after.3.text = 
+IS.report.account.creation.contract.authorisedRep.after.4.text = 
+IS.report.account.creation.contract.authorisedRep.after.5.text = 
+IS.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+IS.report.account.creation.contract.additionalRep.after.0.text = 
+IS.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+IS.report.account.creation.contract.additionalRep.after.2.text = 
+IS.report.account.creation.contract.additionalRep.after.3.text = 
+IS.report.account.creation.contract.additionalRep.after.4.text = 
+IS.report.account.creation.contract.additionalRep.after.5.text = 
+IS.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+SQ.report.account.creation.contract.accountHolder.after.0.text = 
+SQ.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+SQ.report.account.creation.contract.accountHolder.after.2.text = 
+SQ.report.account.creation.contract.accountHolder.after.3.text = 
+SQ.report.account.creation.contract.accountHolder.after.4.text = 
+SQ.report.account.creation.contract.accountHolder.after.5.text = 
+SQ.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+SQ.report.account.creation.contract.authorisedRep.after.0.text = 
+SQ.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+SQ.report.account.creation.contract.authorisedRep.after.2.text = 
+SQ.report.account.creation.contract.authorisedRep.after.3.text = 
+SQ.report.account.creation.contract.authorisedRep.after.4.text = 
+SQ.report.account.creation.contract.authorisedRep.after.5.text = 
+SQ.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+SQ.report.account.creation.contract.additionalRep.after.0.text = 
+SQ.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+SQ.report.account.creation.contract.additionalRep.after.2.text = 
+SQ.report.account.creation.contract.additionalRep.after.3.text = 
+SQ.report.account.creation.contract.additionalRep.after.4.text = 
+SQ.report.account.creation.contract.additionalRep.after.5.text = 
+SQ.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+UT.report.account.creation.contract.accountHolder.after.0.text = 
+UT.report.account.creation.contract.accountHolder.after.1.title = Signature of account holder
+UT.report.account.creation.contract.accountHolder.after.2.text = 
+UT.report.account.creation.contract.accountHolder.after.3.text = 
+UT.report.account.creation.contract.accountHolder.after.4.text = 
+UT.report.account.creation.contract.accountHolder.after.5.text = 
+UT.report.account.creation.contract.accountHolder.after.6.text = ................................................................................
+UT.report.account.creation.contract.authorisedRep.after.0.text = 
+UT.report.account.creation.contract.authorisedRep.after.1.title = Signature of representative
+UT.report.account.creation.contract.authorisedRep.after.2.text = 
+UT.report.account.creation.contract.authorisedRep.after.3.text = 
+UT.report.account.creation.contract.authorisedRep.after.4.text = 
+UT.report.account.creation.contract.authorisedRep.after.5.text = 
+UT.report.account.creation.contract.authorisedRep.after.6.text = ................................................................................
+UT.report.account.creation.contract.additionalRep.after.0.text = 
+UT.report.account.creation.contract.additionalRep.after.1.title = Signature of representative
+UT.report.account.creation.contract.additionalRep.after.2.text = 
+UT.report.account.creation.contract.additionalRep.after.3.text = 
+UT.report.account.creation.contract.additionalRep.after.4.text = 
+UT.report.account.creation.contract.additionalRep.after.5.text = 
+UT.report.account.creation.contract.additionalRep.after.6.text = ................................................................................
+
+
+#
+# Account creation contract report per-registry customization - END. 
+#
+
+
+#
+# Account Statement Report Labels - START
+#
+
+accountStatement_title = Account Statement
+accountStatement_registryComment =    
+accountStatement_staticComment = This statement is based on data from the Union registry, which is operated by the European Commission. In case of queries, please contact your national administrator.
+
+accountStatement_account=Account
+accountStatement_from=From
+accountStatement_to=To
+accountStatement_transationRequests=A. Transaction Requests
+accountStatement_pendingTransactions=B. Pending Transactions
+accountStatement_completedTransactions=C. Completed Transactions
+accountStatement_terminatedTransactions=D. Terminated Transactions
+accountStatement_totalUnitsBeforePeriod=Total Units Before Period
+accountStatement_totalUnitsAfterPeriod=Total Units After Period
+
+
+#
+# Account Statement Report Labels - END
+#
+
+#
+# Transaction Report Labels - START
+#
+
+#transaction_title = Transaction
+transaction_registryComment =    
+transaction_staticComment = 
+#transactionDetails_approvalDate = Approval Date:
+
+transactionRequest_title = Transaction Request
+transactionRequest_registryComment =    
+transactionRequest_staticComment = 
+
+
+#
+# Transaction Report Labels - END
+#
